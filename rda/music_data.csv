@@ -1,0 +1,385 @@
+sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop
+1,Flowers,Miley Cyrus,pop,2023.00,118.00,68.00,71.00,-4.00,3.00,65.00,200.00,6.00,7.00,100.00
+2,Blinding Lights,The Weeknd,canadian contemporary r&b,2020.00,171.00,73.00,51.00,-6.00,9.00,33.00,200.00,0.00,6.00,87.00
+3,Last Night,Morgan Wallen,contemporary country,2023.00,204.00,68.00,52.00,-5.00,15.00,52.00,164.00,46.00,4.00,85.00
+4,When I Was Your Man,Bruno Mars,dance pop,2012.00,73.00,28.00,61.00,-9.00,9.00,39.00,214.00,93.00,4.00,85.00
+5,lovely (with Khalid),Billie Eilish,art pop,2018.00,115.00,30.00,35.00,-10.00,10.00,12.00,200.00,93.00,3.00,85.00
+6,STAY (with Justin Bieber),The Kid LAROI,australian hip hop,2021.00,170.00,76.00,59.00,-5.00,10.00,48.00,142.00,4.00,5.00,84.00
+7,Someone You Loved,Lewis Capaldi,pop,2019.00,110.00,41.00,50.00,-6.00,11.00,45.00,182.00,75.00,3.00,84.00
+8,Sunroof,Nicky Youre,pop,2021.00,131.00,71.00,77.00,-5.00,15.00,84.00,163.00,35.00,4.00,84.00
+9,Everybody Wants To Rule The World,Tears For Fears,new romantic,1985.00,112.00,80.00,65.00,-12.00,10.00,54.00,251.00,35.00,5.00,83.00
+10,Until I Found You,Stephen Sanchez,gen z singer-songwriter,2021.00,101.00,51.00,54.00,-6.00,17.00,23.00,178.00,73.00,3.00,83.00
+11,Every Breath You Take,The Police,album rock,1983.00,117.00,45.00,82.00,-10.00,7.00,74.00,254.00,54.00,3.00,82.00
+12,The Nights,Avicii,dance pop,2014.00,126.00,84.00,53.00,-5.00,25.00,65.00,177.00,2.00,4.00,82.00
+13,Umbrella,Rihanna,barbadian pop,2008.00,174.00,83.00,58.00,-5.00,4.00,57.00,276.00,1.00,13.00,82.00
+14,All of Me,John Legend,neo soul,2013.00,120.00,26.00,42.00,-7.00,13.00,33.00,270.00,92.00,3.00,82.00
+15,Circles,Post Malone,dfw rap,2019.00,120.00,76.00,70.00,-3.00,9.00,55.00,215.00,19.00,4.00,82.00
+16,drivers license,Olivia Rodrigo,pop,2021.00,144.00,43.00,56.00,-9.00,11.00,14.00,242.00,77.00,6.00,82.00
+17,good 4 u,Olivia Rodrigo,pop,2021.00,167.00,66.00,56.00,-5.00,8.00,69.00,178.00,34.00,15.00,82.00
+18,Wake Me Up,Avicii,dance pop,2013.00,124.00,78.00,53.00,-6.00,16.00,64.00,247.00,0.00,5.00,82.00
+19,Cold Heart - PNAU Remix,Elton John,glam rock,2021.00,116.00,80.00,80.00,-6.00,10.00,94.00,203.00,3.00,3.00,82.00
+20,You Proof,Morgan Wallen,contemporary country,2022.00,120.00,85.00,73.00,-5.00,61.00,64.00,157.00,25.00,3.00,81.00
+21,Dream On,Aerosmith,album rock,1973.00,78.00,48.00,39.00,-8.00,31.00,23.00,268.00,40.00,2.00,81.00
+22,Blank Space,Taylor Swift,pop,2014.00,96.00,70.00,76.00,-5.00,9.00,57.00,232.00,10.00,5.00,81.00
+23,favorite crime,Olivia Rodrigo,pop,2021.00,173.00,27.00,37.00,-10.00,15.00,22.00,153.00,87.00,4.00,81.00
+24,deja vu,Olivia Rodrigo,pop,2021.00,181.00,61.00,44.00,-7.00,37.00,18.00,216.00,58.00,11.00,81.00
+25,Adore You,Harry Styles,pop,2019.00,99.00,77.00,68.00,-4.00,10.00,57.00,207.00,2.00,5.00,81.00
+26,cardigan,Taylor Swift,pop,2020.00,130.00,58.00,61.00,-9.00,25.00,55.00,240.00,54.00,4.00,81.00
+27,Livin' On A Prayer,Bon Jovi,glam metal,1986.00,123.00,89.00,53.00,-4.00,29.00,80.00,249.00,8.00,3.00,81.00
+28,Lover,Taylor Swift,pop,2019.00,69.00,54.00,36.00,-8.00,12.00,45.00,221.00,49.00,9.00,81.00
+29,Counting Stars,OneRepublic,piano rock,2013.00,122.00,71.00,66.00,-5.00,12.00,48.00,257.00,7.00,4.00,80.00
+30,Love Yourself,Justin Bieber,canadian pop,2015.00,100.00,38.00,61.00,-10.00,28.00,52.00,234.00,84.00,44.00,80.00
+31,The Night We Met,Lord Huron,stomp and holler,2015.00,87.00,37.00,54.00,-10.00,64.00,10.00,208.00,97.00,4.00,80.00
+32,Before You Go,Lewis Capaldi,pop,2019.00,112.00,57.00,46.00,-5.00,9.00,18.00,215.00,60.00,6.00,80.00
+33,Party In The U.S.A.,Miley Cyrus,pop,2009.00,96.00,70.00,65.00,-5.00,9.00,47.00,202.00,0.00,4.00,80.00
+34,THATS WHAT I WANT,Lil Nas X,lgbtq+ hip hop,2021.00,88.00,85.00,74.00,-5.00,5.00,55.00,144.00,1.00,22.00,80.00
+35,Wasted On You,Morgan Wallen,contemporary country,2021.00,196.00,66.00,51.00,-5.00,13.00,25.00,179.00,37.00,3.00,80.00
+36,Iris,The Goo Goo Dolls,neo mellow,1998.00,156.00,72.00,32.00,-8.00,9.00,50.00,290.00,0.00,4.00,80.00
+37,Take Me To Church,Hozier,irish singer-songwriter,2014.00,129.00,66.00,57.00,-5.00,12.00,44.00,242.00,63.00,5.00,79.00
+38,Shut Up and Dance,WALK THE MOON,dance rock,2014.00,128.00,87.00,58.00,-4.00,26.00,62.00,199.00,1.00,6.00,79.00
+39,you broke me first,Tate McRae,pop,2020.00,124.00,37.00,67.00,-9.00,9.00,8.00,169.00,79.00,5.00,79.00
+40,Don't Stop Believin',Journey,album rock,1981.00,119.00,75.00,50.00,-9.00,45.00,51.00,251.00,13.00,4.00,79.00
+41,Ain't No Mountain High Enough,Marvin Gaye,classic soul,1967.00,130.00,60.00,66.00,-11.00,18.00,80.00,152.00,43.00,3.00,79.00
+42,Don't Start Now,Dua Lipa,dance pop,2020.00,124.00,79.00,79.00,-5.00,10.00,68.00,183.00,1.00,8.00,79.00
+43,Bad Romance,Lady Gaga,art pop,2009.00,119.00,92.00,70.00,-4.00,8.00,71.00,295.00,0.00,4.00,79.00
+44,Sweet Dreams (Are Made of This) - Remastered,Eurythmics,art rock,1983.00,125.00,71.00,69.00,-7.00,12.00,88.00,217.00,23.00,3.00,78.00
+45,We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,dance pop,2016.00,100.00,56.00,73.00,-8.00,18.00,35.00,218.00,62.00,13.00,78.00
+46,Mood (feat. iann dior),24kGoldn,cali rap,2020.00,91.00,72.00,70.00,-4.00,32.00,73.00,141.00,17.00,4.00,78.00
+47,Congratulations,Post Malone,dfw rap,2016.00,123.00,80.00,63.00,-4.00,25.00,49.00,220.00,22.00,4.00,78.00
+48,Golden,Harry Styles,pop,2019.00,140.00,84.00,45.00,-5.00,13.00,25.00,209.00,21.00,6.00,78.00
+49,Wildest Dreams (Taylor's Version),Taylor Swift,pop,2021.00,140.00,67.00,58.00,-7.00,13.00,50.00,220.00,4.00,6.00,78.00
+50,You Give Love A Bad Name,Bon Jovi,glam metal,1986.00,123.00,96.00,54.00,-3.00,34.00,81.00,223.00,7.00,5.00,78.00
+51,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,dance pop,2011.00,90.00,80.00,65.00,-3.00,27.00,80.00,211.00,3.00,10.00,78.00
+52,Thought You Should Know,Morgan Wallen,contemporary country,2022.00,140.00,70.00,53.00,-6.00,14.00,51.00,216.00,49.00,3.00,78.00
+53,Thousand Miles,The Kid LAROI,australian hip hop,2022.00,81.00,66.00,38.00,-5.00,9.00,20.00,165.00,9.00,8.00,77.00
+54,Call Me Maybe,Carly Rae Jepsen,canadian pop,2012.00,120.00,58.00,78.00,-7.00,11.00,66.00,193.00,1.00,4.00,77.00
+55,7 Years,Lukas Graham,danish pop,2016.00,120.00,47.00,77.00,-6.00,39.00,34.00,237.00,29.00,5.00,77.00
+56,Lose You To Love Me,Selena Gomez,dance pop,2020.00,103.00,34.00,49.00,-9.00,21.00,10.00,206.00,56.00,4.00,77.00
+57,July,Noah Cyrus,pop,2020.00,73.00,19.00,71.00,-9.00,8.00,32.00,156.00,87.00,4.00,77.00
+58,Sucker,Jonas Brothers,boy band,2019.00,138.00,73.00,84.00,-5.00,11.00,95.00,181.00,4.00,6.00,77.00
+59,Stolen Dance,Milky Chance,german pop,2013.00,114.00,58.00,88.00,-9.00,8.00,73.00,314.00,43.00,4.00,77.00
+60,Chasin' You,Morgan Wallen,contemporary country,2018.00,97.00,59.00,63.00,-6.00,11.00,49.00,205.00,66.00,3.00,77.00
+61,Whiskey Glasses,Morgan Wallen,contemporary country,2018.00,150.00,68.00,61.00,-5.00,12.00,71.00,234.00,37.00,3.00,77.00
+62,Stitches,Shawn Mendes,canadian pop,2015.00,150.00,75.00,75.00,-7.00,5.00,75.00,207.00,2.00,7.00,77.00
+63,New Rules,Dua Lipa,dance pop,2017.00,116.00,70.00,76.00,-6.00,15.00,61.00,209.00,0.00,7.00,77.00
+64,Havana (feat. Young Thug),Camila Cabello,dance pop,2018.00,105.00,52.00,77.00,-4.00,13.00,39.00,217.00,18.00,3.00,76.00
+65,Way down We Go,KALEO,icelandic indie,2016.00,163.00,51.00,49.00,-8.00,10.00,34.00,214.00,58.00,12.00,76.00
+66,Somebody That I Used To Know,Gotye,australian pop,2011.00,129.00,52.00,87.00,-7.00,10.00,75.00,245.00,55.00,4.00,76.00
+67,Wildest Dreams,Taylor Swift,pop,2014.00,140.00,66.00,55.00,-7.00,11.00,47.00,220.00,7.00,7.00,76.00
+68,The Middle,Zedd,complextro,2018.00,107.00,66.00,75.00,-3.00,11.00,44.00,185.00,17.00,4.00,76.00
+69,Wake Me Up Before You Go-Go,Wham!,europop,1984.00,82.00,57.00,62.00,-12.00,6.00,90.00,231.00,27.00,4.00,76.00
+70,It's My Life,Bon Jovi,glam metal,2000.00,120.00,91.00,55.00,-4.00,35.00,54.00,224.00,3.00,5.00,76.00
+71,Your Song,Elton John,glam rock,1970.00,128.00,32.00,55.00,-11.00,10.00,33.00,242.00,83.00,3.00,76.00
+72,Careless Whisper,George Michael,dance pop,1998.00,153.00,63.00,57.00,-9.00,27.00,80.00,300.00,13.00,4.00,76.00
+73,Beautiful Crazy,Luke Combs,contemporary country,2018.00,103.00,40.00,55.00,-7.00,9.00,38.00,193.00,68.00,3.00,76.00
+74,Complicated,Avril Lavigne,canadian pop,2002.00,78.00,78.00,59.00,-6.00,30.00,43.00,245.00,6.00,5.00,76.00
+75,Wolves,Selena Gomez,dance pop,2017.00,125.00,80.00,72.00,-5.00,20.00,31.00,198.00,12.00,4.00,76.00
+76,Me And My Broken Heart,Rixton,dance pop,2014.00,174.00,78.00,55.00,-4.00,13.00,55.00,194.00,0.00,3.00,75.00
+77,hot girl bummer,blackbear,electropop,2019.00,130.00,56.00,78.00,-7.00,39.00,69.00,188.00,13.00,8.00,75.00
+78,Better,Khalid,pop,2018.00,98.00,55.00,60.00,-10.00,10.00,11.00,229.00,8.00,10.00,75.00
+79,exile (feat. Bon Iver),Taylor Swift,pop,2020.00,76.00,38.00,30.00,-8.00,11.00,15.00,286.00,78.00,3.00,75.00
+80,Eastside (with Halsey & Khalid),benny blanco,dance pop,2018.00,90.00,69.00,63.00,-8.00,20.00,33.00,171.00,55.00,24.00,75.00
+81,Hold Me While You Wait,Lewis Capaldi,pop,2019.00,107.00,53.00,69.00,-6.00,10.00,16.00,206.00,44.00,3.00,75.00
+82,Vienna,Billy Joel,classic rock,1977.00,125.00,50.00,53.00,-7.00,8.00,31.00,214.00,66.00,3.00,75.00
+83,Don't Go Breaking My Heart,Elton John,glam rock,1975.00,131.00,84.00,73.00,-9.00,6.00,78.00,275.00,15.00,3.00,75.00
+84,More Than My Hometown,Morgan Wallen,contemporary country,2021.00,126.00,87.00,62.00,-5.00,13.00,60.00,217.00,62.00,5.00,75.00
+85,Forever After All,Luke Combs,contemporary country,2020.00,152.00,65.00,49.00,-5.00,9.00,46.00,233.00,19.00,3.00,75.00
+86,Heartbreak Anniversary,Giveon,pop,2020.00,89.00,47.00,45.00,-9.00,30.00,54.00,198.00,52.00,8.00,75.00
+87,Dueles,Jesse & Joy,latin arena pop,2015.00,142.00,83.00,53.00,-4.00,13.00,53.00,248.00,28.00,5.00,75.00
+88,Before He Cheats,Carrie Underwood,contemporary country,2005.00,148.00,75.00,52.00,-3.00,12.00,29.00,200.00,27.00,4.00,75.00
+89,Cover Me Up,Morgan Wallen,contemporary country,2021.00,128.00,44.00,55.00,-8.00,11.00,21.00,294.00,23.00,3.00,74.00
+90,"Me, Myself & I",G-Eazy,hip hop,2015.00,112.00,67.00,76.00,-7.00,16.00,39.00,251.00,2.00,10.00,74.00
+91,Sand In My Boots,Morgan Wallen,contemporary country,2021.00,70.00,54.00,40.00,-7.00,11.00,41.00,202.00,59.00,3.00,74.00
+92,"All I Want - From ""High School Musical: The Musical: The Series""",Olivia Rodrigo,pop,2019.00,78.00,43.00,38.00,-7.00,9.00,13.00,177.00,9.00,3.00,74.00
+93,Lady May,Tyler Childers,kentucky indie,2017.00,81.00,16.00,54.00,-13.00,11.00,32.00,184.00,88.00,3.00,74.00
+94,Drive By,Train,dance pop,2012.00,122.00,84.00,77.00,-3.00,8.00,72.00,196.00,0.00,3.00,74.00
+95,Good Time,Owl City,indietronica,2012.00,126.00,87.00,56.00,-4.00,37.00,68.00,206.00,2.00,14.00,74.00
+96,Dancing in the Moonlight,Toploader,british alternative rock,2000.00,119.00,86.00,63.00,-3.00,35.00,87.00,233.00,6.00,3.00,74.00
+97,Crazy Little Thing Called Love - Remastered 2011,Queen,classic rock,1980.00,77.00,76.00,60.00,-7.00,35.00,71.00,163.00,71.00,4.00,74.00
+98,Good Riddance (Time of Your Life),Green Day,permanent wave,1997.00,95.00,43.00,48.00,-8.00,16.00,65.00,153.00,18.00,3.00,74.00
+99,She Got the Best of Me,Luke Combs,contemporary country,2018.00,151.00,91.00,53.00,-4.00,39.00,70.00,183.00,3.00,4.00,74.00
+100,Amorfoda,Bad Bunny,reggaeton,2018.00,148.00,42.00,75.00,-8.00,8.00,31.00,154.00,99.00,6.00,73.00
+101,Wake Me up When September Ends,Green Day,permanent wave,2004.00,105.00,81.00,55.00,-5.00,10.00,15.00,286.00,2.00,3.00,73.00
+102,Boulevard of Broken Dreams,Green Day,permanent wave,2017.00,167.00,68.00,50.00,-4.00,6.00,47.00,262.00,1.00,3.00,73.00
+103,Renegades,X Ambassadors,modern alternative rock,2015.00,90.00,86.00,53.00,-6.00,23.00,53.00,195.00,1.00,9.00,73.00
+104,Tiny Dancer,Elton John,glam rock,1971.00,145.00,43.00,41.00,-11.00,15.00,28.00,377.00,38.00,3.00,73.00
+105,Mambo No. 5 (a Little Bit of...),Lou Bega,latin pop,1999.00,174.00,81.00,62.00,-7.00,31.00,89.00,220.00,10.00,41.00,73.00
+106,Pompeii,Bastille,metropopolis,2013.00,127.00,72.00,68.00,-6.00,27.00,57.00,214.00,8.00,4.00,72.00
+107,Stay,Zedd,complextro,2017.00,102.00,62.00,69.00,-5.00,12.00,54.00,210.00,25.00,6.00,72.00
+108,Plastic Hearts,Miley Cyrus,pop,2020.00,176.00,76.00,55.00,-5.00,8.00,62.00,206.00,5.00,7.00,72.00
+109,Stay,Post Malone,dfw rap,2018.00,86.00,48.00,51.00,-5.00,15.00,35.00,204.00,45.00,3.00,72.00
+110,Forever,Lewis Capaldi,pop,2019.00,85.00,36.00,65.00,-7.00,12.00,36.00,211.00,87.00,3.00,72.00
+111,Replay,Iyaz,dance pop,2009.00,91.00,75.00,71.00,-6.00,17.00,20.00,182.00,17.00,7.00,72.00
+112,Babydoll,Dominic Fike,alternative pop rock,2018.00,168.00,60.00,76.00,-5.00,3.00,85.00,98.00,11.00,11.00,72.00
+113,Love Grows (Where My Rosemary Goes),Edison Lighthouse,bubblegum pop,1970.00,109.00,82.00,57.00,-5.00,9.00,75.00,175.00,40.00,3.00,72.00
+114,Coast (feat. Anderson .Paak),Hailee Steinfeld,dance pop,2022.00,112.00,88.00,70.00,-4.00,14.00,84.00,167.00,3.00,8.00,72.00
+115,Numb Little Bug,Em Beihold,alt z,2022.00,85.00,53.00,74.00,-7.00,25.00,64.00,169.00,33.00,8.00,72.00
+116,"I Don't Want To Miss A Thing - From ""Armageddon"" Soundtrack",Aerosmith,album rock,1998.00,121.00,65.00,39.00,-5.00,22.00,14.00,300.00,17.00,3.00,71.00
+117,You're The One That I Want - From “Grease”,John Travolta,hollywood,1978.00,107.00,61.00,76.00,-11.00,10.00,82.00,170.00,28.00,6.00,71.00
+118,Cool Kids,Echosmith,indie poptimism,2013.00,130.00,67.00,72.00,-6.00,12.00,79.00,238.00,4.00,3.00,71.00
+119,Starving,Hailee Steinfeld,dance pop,2016.00,100.00,62.00,73.00,-4.00,11.00,51.00,182.00,38.00,6.00,71.00
+120,Run,OneRepublic,piano rock,2021.00,117.00,72.00,68.00,-8.00,15.00,67.00,169.00,33.00,4.00,71.00
+121,idfc,blackbear,electropop,2015.00,145.00,50.00,63.00,-9.00,11.00,32.00,245.00,61.00,6.00,71.00
+122,AOK,Tai Verdes,modern indie pop,2021.00,82.00,63.00,73.00,-7.00,18.00,86.00,174.00,13.00,8.00,71.00
+123,Eastside (with Halsey & Khalid),benny blanco,dance pop,2018.00,89.00,68.00,56.00,-8.00,12.00,32.00,174.00,56.00,32.00,71.00
+124,Stronger (What Doesn't Kill You),Kelly Clarkson,dance pop,2011.00,116.00,94.00,56.00,-4.00,11.00,68.00,222.00,5.00,5.00,71.00
+125,Habits (Stay High),Tove Lo,dance pop,2014.00,110.00,65.00,73.00,-4.00,8.00,35.00,209.00,7.00,3.00,71.00
+126,Life is a Highway,Rascal Flatts,contemporary country,2006.00,103.00,95.00,58.00,-4.00,22.00,66.00,276.00,0.00,7.00,71.00
+127,We Didn't Start the Fire,Billy Joel,classic rock,1989.00,145.00,97.00,71.00,-5.00,36.00,90.00,288.00,8.00,5.00,71.00
+128,7 Summers,Morgan Wallen,contemporary country,2021.00,204.00,79.00,47.00,-5.00,13.00,57.00,211.00,42.00,3.00,71.00
+129,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,dance pop,2017.00,154.00,78.00,64.00,-6.00,8.00,58.00,164.00,5.00,9.00,71.00
+130,Better Together,Luke Combs,contemporary country,2019.00,138.00,23.00,55.00,-12.00,11.00,67.00,220.00,83.00,5.00,71.00
+131,Kiss from a Rose,Seal,british soul,1994.00,132.00,53.00,58.00,-7.00,31.00,22.00,288.00,68.00,3.00,71.00
+132,Meet Me Halfway,Black Eyed Peas,dance pop,2009.00,130.00,63.00,80.00,-7.00,32.00,40.00,284.00,0.00,7.00,70.00
+133,Scars To Your Beautiful,Alessia Cara,canadian contemporary r&b,2016.00,194.00,74.00,32.00,-6.00,11.00,45.00,230.00,3.00,27.00,70.00
+134,Love Lies (with Normani),Khalid,pop,2018.00,144.00,65.00,71.00,-6.00,13.00,34.00,202.00,10.00,4.00,70.00
+135,Bad At Love,Halsey,dance pop,2017.00,118.00,75.00,68.00,-4.00,9.00,61.00,181.00,6.00,3.00,70.00
+136,Shallow - Radio Edit,Lady Gaga,art pop,2018.00,96.00,33.00,57.00,-7.00,9.00,28.00,217.00,42.00,3.00,70.00
+137,Unsteady,X Ambassadors,modern alternative rock,2015.00,117.00,67.00,39.00,-6.00,12.00,20.00,194.00,18.00,6.00,70.00
+138,If the World Was Ending (feat. Julia Michaels),JP Saxe,alt z,2021.00,147.00,49.00,43.00,-10.00,10.00,66.00,209.00,87.00,10.00,70.00
+139,All Too Well (Taylor's Version),Taylor Swift,pop,2021.00,186.00,53.00,44.00,-8.00,23.00,13.00,329.00,2.00,3.00,70.00
+140,Night Shift,Jon Pardi,contemporary country,2016.00,96.00,75.00,63.00,-4.00,27.00,73.00,172.00,10.00,3.00,70.00
+141,Spin You Around,Morgan Wallen,contemporary country,2015.00,150.00,88.00,52.00,-4.00,21.00,62.00,213.00,0.00,3.00,70.00
+142,One Man Band,Old Dominion,contemporary country,2019.00,76.00,36.00,71.00,-8.00,11.00,48.00,186.00,68.00,3.00,70.00
+143,Angels,Robbie Williams,dance rock,1997.00,150.00,59.00,43.00,-6.00,10.00,24.00,265.00,16.00,3.00,70.00
+144,Everybody's Changing,Keane,neo mellow,2004.00,94.00,84.00,52.00,-4.00,11.00,42.00,216.00,0.00,3.00,70.00
+145,Never Tear Us Apart,INXS,australian rock,1987.00,97.00,61.00,66.00,-8.00,18.00,19.00,185.00,0.00,3.00,69.00
+146,One Call Away,Charlie Puth,dance pop,2016.00,91.00,61.00,67.00,-5.00,12.00,47.00,194.00,40.00,3.00,69.00
+147,hate u love u,Olivia O'Brien,alt z,2016.00,177.00,42.00,41.00,-9.00,10.00,25.00,175.00,66.00,17.00,69.00
+148,Rather Be (feat. Jess Glynne),Clean Bandit,dance pop,2014.00,121.00,59.00,80.00,-7.00,19.00,55.00,228.00,16.00,4.00,69.00
+149,Billionaire (feat. Bruno Mars),Travie McCoy,pop rap,2010.00,87.00,67.00,63.00,-6.00,21.00,66.00,211.00,30.00,26.00,69.00
+150,OTW,Khalid,pop,2018.00,73.00,68.00,65.00,-6.00,11.00,28.00,263.00,18.00,5.00,69.00
+151,do re mi,blackbear,electropop,2017.00,111.00,59.00,75.00,-6.00,12.00,17.00,212.00,1.00,5.00,69.00
+152,Teenage Dream,Katy Perry,dance pop,2010.00,120.00,80.00,72.00,-5.00,13.00,59.00,228.00,2.00,4.00,69.00
+153,Love Again,Dua Lipa,dance pop,2021.00,116.00,67.00,66.00,-5.00,10.00,47.00,258.00,0.00,3.00,69.00
+154,Wouldn't It Be Nice - Remastered 2000 / Stereo Mix,The Beach Boys,adult standards,1966.00,125.00,63.00,39.00,-7.00,13.00,72.00,153.00,72.00,3.00,69.00
+155,One Number Away,Luke Combs,contemporary country,2017.00,144.00,78.00,54.00,-6.00,19.00,53.00,222.00,1.00,3.00,69.00
+156,What Ifs (feat. Lauren Alaina),Kane Brown,black americana,2016.00,126.00,80.00,61.00,-5.00,17.00,69.00,188.00,1.00,3.00,69.00
+157,Cryin',Aerosmith,album rock,1993.00,106.00,86.00,45.00,-4.00,37.00,49.00,308.00,0.00,3.00,68.00
+158,The Ballet Girl,Aden Foyer,,2022.00,118.00,82.00,69.00,-5.00,10.00,60.00,201.00,8.00,3.00,68.00
+159,Bandaid On A Bullet Hole,Morgan Wallen,contemporary country,2021.00,155.00,48.00,54.00,-7.00,12.00,39.00,234.00,79.00,3.00,68.00
+160,Superstar Sh*t,Dominic Fike,alternative pop rock,2020.00,70.00,39.00,76.00,-7.00,12.00,20.00,127.00,95.00,10.00,68.00
+161,Kokomo,The Beach Boys,adult standards,2013.00,116.00,64.00,68.00,-10.00,14.00,93.00,218.00,1.00,3.00,68.00
+162,"1, 2 Many",Luke Combs,contemporary country,2019.00,149.00,82.00,54.00,-4.00,42.00,69.00,181.00,4.00,9.00,68.00
+163,Talkin' Tennessee,Morgan Wallen,contemporary country,2018.00,100.00,71.00,70.00,-7.00,10.00,50.00,222.00,57.00,2.00,68.00
+164,Give Your Heart a Break,Demi Lovato,dance pop,2011.00,123.00,70.00,65.00,-3.00,14.00,57.00,205.00,23.00,5.00,67.00
+165,Memory,Kane Brown,black americana,2021.00,113.00,89.00,43.00,-6.00,27.00,85.00,153.00,40.00,5.00,67.00
+166,Saturday Nights,Khalid,pop,2018.00,168.00,44.00,55.00,-9.00,11.00,34.00,211.00,61.00,10.00,67.00
+167,Ready or Not,Bridgit Mendler,dance pop,2012.00,93.00,87.00,72.00,-4.00,11.00,75.00,201.00,0.00,5.00,67.00
+168,Phone Numbers,Dominic Fike,alternative pop rock,2019.00,85.00,54.00,88.00,-6.00,8.00,78.00,147.00,24.00,21.00,67.00
+169,Talk Too Much,COIN,indie pop,2017.00,104.00,89.00,60.00,-5.00,35.00,48.00,187.00,1.00,8.00,67.00
+170,I Knew You Were Trouble (Taylor's Version),Taylor Swift,pop,2021.00,154.00,56.00,58.00,-6.00,6.00,77.00,220.00,1.00,3.00,67.00
+171,Dangerous,Morgan Wallen,contemporary country,2021.00,119.00,77.00,64.00,-5.00,28.00,95.00,148.00,22.00,3.00,67.00
+172,Somebody Like That,Tenille Arts,canadian contemporary country,2020.00,105.00,80.00,57.00,-5.00,11.00,58.00,198.00,2.00,5.00,67.00
+173,Better,Khalid,pop,2018.00,98.00,59.00,44.00,-10.00,14.00,12.00,229.00,10.00,10.00,67.00
+174,Righteous Minds,Joey Bada$$,conscious hip hop,2012.00,95.00,64.00,81.00,-6.00,45.00,61.00,224.00,26.00,28.00,66.00
+175,Llorar (feat. Mario Domm),Jesse & Joy,latin arena pop,2012.00,170.00,48.00,31.00,-6.00,11.00,23.00,226.00,22.00,3.00,66.00
+176,3 Nights,Dominic Fike,alternative pop rock,2018.00,152.00,52.00,82.00,-7.00,10.00,88.00,178.00,22.00,9.00,66.00
+177,I Don't Wanna Be Okay Without You,Charlie Burg,ann arbor indie,2016.00,63.00,32.00,53.00,-7.00,14.00,17.00,244.00,40.00,3.00,66.00
+178,Why,Dominic Fike,alternative pop rock,2020.00,117.00,86.00,68.00,-3.00,11.00,34.00,140.00,34.00,4.00,66.00
+179,One Of Them Girls,Lee Brice,contemporary country,2020.00,96.00,79.00,64.00,-6.00,11.00,80.00,189.00,29.00,5.00,66.00
+180,Slow Dance In A Parking Lot,Jordan Davis,contemporary country,2018.00,82.00,84.00,52.00,-4.00,17.00,52.00,194.00,30.00,3.00,66.00
+181,Warning,Morgan Wallen,contemporary country,2021.00,115.00,66.00,63.00,-5.00,11.00,27.00,157.00,46.00,3.00,66.00
+182,Made For You,Jake Owen,contemporary country,2019.00,82.00,44.00,58.00,-7.00,11.00,34.00,238.00,77.00,3.00,65.00
+183,blind,ROLE MODEL,bedroom pop,2020.00,150.00,66.00,77.00,-5.00,9.00,69.00,153.00,14.00,7.00,65.00
+184,Marry Me,Thomas Rhett,contemporary country,2017.00,85.00,41.00,33.00,-9.00,11.00,47.00,205.00,10.00,3.00,65.00
+185,Take It From Me,Jordan Davis,contemporary country,2018.00,100.00,89.00,59.00,-3.00,35.00,67.00,174.00,3.00,5.00,65.00
+186,Singles You Up,Jordan Davis,contemporary country,2018.00,200.00,91.00,49.00,-4.00,24.00,63.00,183.00,5.00,5.00,65.00
+187,Mama Said,Lukas Graham,danish pop,2016.00,84.00,80.00,71.00,-5.00,37.00,59.00,207.00,4.00,7.00,64.00
+188,Talk,Khalid,pop,2019.00,136.00,40.00,90.00,-8.00,9.00,34.00,197.00,5.00,12.00,64.00
+189,Dear August,PJ Harding,australian singer-songwriter,2021.00,147.00,32.00,64.00,-8.00,11.00,44.00,201.00,80.00,3.00,64.00
+190,Softly,Clairo,bedroom pop,2019.00,94.00,44.00,76.00,-11.00,10.00,78.00,185.00,33.00,4.00,64.00
+191,More Hearts Than Mine,Ingrid Andress,contemporary country,2019.00,79.00,43.00,38.00,-7.00,11.00,36.00,215.00,11.00,3.00,64.00
+192,We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,pop,2021.00,172.00,69.00,57.00,-6.00,7.00,72.00,193.00,3.00,18.00,64.00
+193,It's a Beautiful Day,Michael Bublé,adult standards,2013.00,144.00,80.00,53.00,-4.00,30.00,78.00,199.00,6.00,4.00,64.00
+194,Does To Me (feat. Eric Church),Luke Combs,contemporary country,2019.00,113.00,85.00,62.00,-5.00,31.00,64.00,223.00,31.00,4.00,64.00
+195,Hurricane,Bridgit Mendler,dance pop,2012.00,95.00,83.00,76.00,-4.00,8.00,45.00,244.00,4.00,7.00,64.00
+196,Beautiful Lies,Tanner Usrey,texas country,2019.00,100.00,18.00,62.00,-10.00,11.00,25.00,223.00,89.00,4.00,63.00
+197,Amsterdam,Gregory Alan Isakov,indie folk,2013.00,152.00,43.00,55.00,-13.00,12.00,53.00,199.00,92.00,3.00,63.00
+198,Wurli,Dominic Fike,alternative pop rock,2020.00,92.00,84.00,48.00,-4.00,13.00,8.00,151.00,39.00,6.00,63.00
+199,Silverado For Sale,Morgan Wallen,contemporary country,2021.00,138.00,78.00,59.00,-6.00,12.00,39.00,225.00,17.00,3.00,63.00
+200,Grew Apart,Logan Mize,contemporary country,2021.00,89.00,64.00,62.00,-8.00,12.00,59.00,170.00,5.00,8.00,63.00
+201,Beer Can’t Fix,Thomas Rhett,contemporary country,2019.00,111.00,77.00,71.00,-4.00,12.00,94.00,210.00,3.00,3.00,63.00
+202,Heartless - Wallen Album Mix,Morgan Wallen,contemporary country,2021.00,111.00,64.00,61.00,-4.00,17.00,49.00,170.00,66.00,3.00,63.00
+203,Mystify,INXS,australian rock,1987.00,129.00,84.00,61.00,-6.00,11.00,40.00,198.00,1.00,4.00,62.00
+204,She Wants My Money,Dominic Fike,alternative pop rock,2018.00,129.00,48.00,70.00,-7.00,9.00,42.00,134.00,77.00,5.00,62.00
+205,Good as You,Kane Brown,black americana,2019.00,154.00,52.00,63.00,-6.00,14.00,77.00,192.00,40.00,4.00,62.00
+206,Homesick,Kane Brown,black americana,2018.00,97.00,50.00,70.00,-9.00,23.00,41.00,205.00,46.00,3.00,62.00
+207,Drunk Me,Mitchell Tenpenny,contemporary country,2018.00,176.00,80.00,50.00,-4.00,9.00,41.00,212.00,20.00,6.00,62.00
+208,West Coast Love,Emotional Oranges,indie r&b,2019.00,92.00,65.00,70.00,-6.00,14.00,59.00,215.00,1.00,3.00,62.00
+209,Underdog,Alicia Keys,hip pop,2020.00,90.00,73.00,66.00,-5.00,14.00,28.00,204.00,54.00,5.00,61.00
+210,queen of broken hearts,blackbear,electropop,2020.00,97.00,71.00,72.00,-6.00,8.00,83.00,171.00,1.00,8.00,61.00
+211,Quittin’ Time,Morgan Wallen,contemporary country,2021.00,84.00,63.00,42.00,-8.00,19.00,46.00,225.00,46.00,4.00,61.00
+212,Sexy Villain,Remi Wolf,indie pop,2021.00,120.00,54.00,77.00,-5.00,10.00,89.00,189.00,40.00,5.00,61.00
+213,Slow Down,Selena Gomez,dance pop,2013.00,128.00,82.00,72.00,-4.00,63.00,72.00,210.00,7.00,17.00,61.00
+214,Josslyn,Olivia O'Brien,alt z,2020.00,85.00,74.00,43.00,-6.00,71.00,34.00,189.00,1.00,15.00,60.00
+215,Vampire,Dominic Fike,alternative pop rock,2020.00,98.00,74.00,79.00,-5.00,11.00,70.00,186.00,33.00,9.00,60.00
+216,Grey,Why Don't We,boy band,2021.00,171.00,30.00,30.00,-9.00,11.00,20.00,278.00,87.00,3.00,60.00
+217,Hotel,Claire Rosinkranz,alt z,2021.00,134.00,66.00,86.00,-6.00,56.00,95.00,135.00,48.00,8.00,60.00
+218,One Mississippi,Kane Brown,black americana,2021.00,100.00,85.00,47.00,-5.00,14.00,54.00,214.00,0.00,4.00,60.00
+219,Refrigerator Door,Luke Combs,contemporary country,2019.00,75.00,86.00,46.00,-4.00,31.00,62.00,204.00,1.00,6.00,60.00
+220,Do I,Luke Bryan,contemporary country,2009.00,138.00,69.00,58.00,-5.00,11.00,30.00,239.00,26.00,3.00,60.00
+221,Frankenstein,Claire Rosinkranz,alt z,2021.00,120.00,75.00,83.00,-6.00,18.00,88.00,202.00,13.00,14.00,60.00
+222,Disco Man,Remi Wolf,indie pop,2020.00,85.00,68.00,69.00,-8.00,43.00,85.00,192.00,4.00,5.00,60.00
+223,I Should Probably Go To Bed,Dan + Shay,contemporary country,2020.00,132.00,28.00,72.00,-7.00,11.00,31.00,172.00,63.00,4.00,59.00
+224,Tequila,Dan + Shay,contemporary country,2018.00,86.00,59.00,47.00,-6.00,13.00,50.00,196.00,3.00,3.00,59.00
+225,Don't Look Back in Anger,Oasis,beatlesque,2006.00,163.00,94.00,32.00,-2.00,8.00,29.00,294.00,7.00,6.00,59.00
+226,The Great Divide,Luke Combs,contemporary country,2021.00,111.00,69.00,67.00,-8.00,28.00,55.00,212.00,60.00,3.00,59.00
+227,Lose It,Kane Brown,black americana,2018.00,92.00,85.00,55.00,-5.00,25.00,44.00,179.00,0.00,3.00,59.00
+228,Prayed For You,Matt Stell,arkansas country,2019.00,140.00,70.00,60.00,-6.00,11.00,57.00,210.00,7.00,4.00,59.00
+229,Without You,Luke Combs,contemporary country,2020.00,142.00,66.00,52.00,-6.00,10.00,36.00,225.00,31.00,3.00,59.00
+230,Want It Again,Thomas Rhett,contemporary country,2021.00,91.00,52.00,49.00,-9.00,12.00,37.00,173.00,66.00,3.00,59.00
+231,Dangerously,Charlie Puth,dance pop,2016.00,112.00,52.00,70.00,-8.00,20.00,23.00,199.00,36.00,4.00,59.00
+232,"I Got You, Honey",Ocie Elliott,indie folk,2017.00,150.00,23.00,55.00,-16.00,11.00,8.00,162.00,97.00,4.00,58.00
+233,Just About Over You,Priscilla Block,contemporary country,2020.00,150.00,52.00,53.00,-6.00,11.00,51.00,179.00,54.00,3.00,58.00
+234,Photo ID (with Dominic Fike),Remi Wolf,indie pop,2021.00,116.00,83.00,75.00,-5.00,28.00,87.00,210.00,21.00,9.00,58.00
+235,Wishful Thinking,BENEE,alt z,2019.00,82.00,66.00,64.00,-6.00,18.00,55.00,213.00,14.00,3.00,58.00
+236,Who's Lovin' You,The Jackson 5,adult standards,1969.00,162.00,31.00,25.00,-13.00,28.00,40.00,236.00,65.00,4.00,57.00
+237,The Kiss Of Venus (Dominic Fike),Paul McCartney,album rock,2021.00,90.00,37.00,72.00,-7.00,11.00,63.00,144.00,63.00,4.00,57.00
+238,Rollerblades,Dominic Fike,alternative pop rock,2019.00,111.00,45.00,57.00,-9.00,10.00,20.00,134.00,54.00,8.00,57.00
+239,Giving You Up,Kameron Marlowe,contemporary country,2019.00,144.00,85.00,53.00,-4.00,17.00,75.00,231.00,4.00,4.00,57.00
+240,Kinfolks,Sam Hunt,contemporary country,2020.00,76.00,81.00,57.00,-5.00,16.00,88.00,182.00,9.00,5.00,57.00
+241,Let Me Down Easy,Billy Currington,contemporary country,2010.00,125.00,50.00,61.00,-5.00,11.00,18.00,228.00,36.00,3.00,57.00
+242,Good Girl,Dustin Lynch,contemporary country,2020.00,81.00,70.00,71.00,-5.00,17.00,69.00,190.00,16.00,9.00,57.00
+243,Futon,?la,,2020.00,118.00,61.00,85.00,-6.00,11.00,71.00,157.00,73.00,5.00,57.00
+244,Crazier Things (with Noah Kahan),Chelsea Cutler,alt z,2020.00,93.00,27.00,64.00,-14.00,16.00,32.00,265.00,81.00,3.00,56.00
+245,This Town,Niall Horan,dance pop,2016.00,112.00,41.00,68.00,-8.00,12.00,20.00,233.00,70.00,3.00,56.00
+246,Me Without You,Havelin,canadian folk,2019.00,200.00,57.00,57.00,-8.00,10.00,77.00,167.00,2.00,3.00,56.00
+247,Hit Me Up,Omar Apollo,bedroom pop,2019.00,85.00,62.00,77.00,-5.00,18.00,63.00,160.00,36.00,10.00,56.00
+248,Double Negative (Skeleton Milkshake),Dominic Fike,alternative pop rock,2020.00,154.00,86.00,69.00,-3.00,13.00,64.00,126.00,0.00,16.00,56.00
+249,Wouldn't It Be Nice,The Beach Boys,adult standards,2012.00,125.00,66.00,39.00,-7.00,11.00,67.00,154.00,72.00,3.00,56.00
+250,Before I Knew It,Mason Ramsey,contemporary country,2019.00,133.00,88.00,63.00,-3.00,39.00,80.00,202.00,22.00,4.00,56.00
+251,Remember You Young,Thomas Rhett,contemporary country,2019.00,114.00,51.00,40.00,-6.00,11.00,30.00,180.00,36.00,3.00,56.00
+252,Love Ain't,Eli Young Band,contemporary country,2018.00,98.00,85.00,60.00,-5.00,9.00,73.00,186.00,1.00,4.00,56.00
+253,Like a Rodeo,Kane Brown,black americana,2019.00,120.00,66.00,67.00,-7.00,22.00,43.00,202.00,70.00,5.00,56.00
+254,Beach Boy,BENEE,alt z,2022.00,111.00,67.00,73.00,-6.00,14.00,58.00,193.00,17.00,2.00,56.00
+255,@elio.irl,ELIO,alt z,2021.00,105.00,47.00,71.00,-7.00,10.00,77.00,234.00,13.00,3.00,56.00
+256,Pool,Still Woozy,bedroom pop,2022.00,100.00,48.00,66.00,-11.00,14.00,27.00,223.00,39.00,6.00,56.00
+257,Walk,Kwabs,gauze pop,2014.00,144.00,81.00,62.00,-4.00,22.00,58.00,214.00,17.00,7.00,55.00
+258,Put Me in My Place,Muscadine Bloodline,contemporary country,2019.00,105.00,43.00,67.00,-11.00,14.00,41.00,190.00,88.00,8.00,55.00
+259,Talking to the Moon - Acoustic Piano,Bruno Mars,dance pop,2010.00,147.00,33.00,36.00,-6.00,11.00,21.00,218.00,86.00,3.00,55.00
+260,notice me (feat. BENEE),ROLE MODEL,bedroom pop,2019.00,126.00,48.00,72.00,-7.00,30.00,25.00,192.00,14.00,4.00,55.00
+261,Hate The Way (feat. blackbear),G-Eazy,hip hop,2020.00,82.00,87.00,57.00,-4.00,31.00,36.00,214.00,7.00,27.00,54.00
+262,u love u (with Tate McRae),blackbear,electropop,2021.00,80.00,70.00,54.00,-6.00,16.00,27.00,189.00,2.00,4.00,54.00
+263,the other girl (with Halsey),Kelsea Ballerini,contemporary country,2020.00,180.00,77.00,58.00,-5.00,10.00,79.00,201.00,42.00,16.00,54.00
+264,Tango,Onyx Collective,experimental jazz,2021.00,93.00,57.00,71.00,-5.00,10.00,50.00,305.00,28.00,7.00,53.00
+265,Bad Idea (feat. Chance the Rapper),Cordae,dmv rap,2019.00,82.00,46.00,73.00,-9.00,11.00,35.00,235.00,31.00,30.00,53.00
+266,That Moon Song,Gregory Alan Isakov,indie folk,2009.00,145.00,39.00,26.00,-13.00,15.00,27.00,214.00,65.00,3.00,53.00
+267,Glowing in the Dark,The Girl and The Dreamcatcher,post-teen pop,2016.00,104.00,62.00,69.00,-6.00,19.00,71.00,236.00,12.00,3.00,53.00
+268,Whiskey Sour,Kane Brown,black americana,2022.00,164.00,35.00,51.00,-9.00,10.00,72.00,210.00,79.00,3.00,53.00
+269,865,Morgan Wallen,contemporary country,2021.00,88.00,58.00,53.00,-5.00,10.00,37.00,191.00,72.00,2.00,53.00
+270,For My Daughter,Kane Brown,black americana,2019.00,140.00,56.00,54.00,-8.00,13.00,35.00,224.00,28.00,3.00,53.00
+271,Bucket List,Mitchell Tenpenny,contemporary country,2021.00,85.00,74.00,56.00,-5.00,8.00,42.00,205.00,5.00,3.00,53.00
+272,Somebody’s Problem,Morgan Wallen,contemporary country,2021.00,137.00,54.00,66.00,-8.00,12.00,62.00,162.00,66.00,3.00,53.00
+273,To Begin Again,Ingrid Michaelson,acoustic pop,2021.00,76.00,36.00,44.00,-10.00,12.00,12.00,211.00,21.00,6.00,52.00
+274,I Don't Belong In This Club,Why Don't We,boy band,2019.00,115.00,54.00,80.00,-6.00,7.00,16.00,223.00,2.00,4.00,52.00
+275,Love Someone,Brett Eldredge,adult standards,2017.00,174.00,81.00,42.00,-5.00,7.00,42.00,212.00,22.00,5.00,52.00
+276,Grade A (feat. JAWNY),spill tab,indie pop,2021.00,152.00,67.00,72.00,-9.00,12.00,74.00,107.00,9.00,15.00,52.00
+277,Cheesin',Cautious Clay,indie r&b,2020.00,120.00,62.00,82.00,-6.00,11.00,97.00,138.00,20.00,4.00,52.00
+278,123,Claire Rosinkranz,alt z,2022.00,92.00,72.00,78.00,-4.00,29.00,65.00,138.00,19.00,8.00,52.00
+279,the idea,blackbear,electropop,2022.00,109.00,82.00,63.00,-4.00,17.00,49.00,205.00,0.00,3.00,52.00
+280,leading me on but i'm not mad about it,remy,modern indie pop,2020.00,98.00,60.00,83.00,-7.00,11.00,48.00,174.00,33.00,4.00,51.00
+281,Still Got Time,dexter,,2021.00,85.00,67.00,67.00,-6.00,16.00,80.00,181.00,69.00,22.00,51.00
+282,Drift Away,Dobie Gray,northern soul,2017.00,76.00,46.00,51.00,-8.00,65.00,56.00,234.00,33.00,4.00,51.00
+283,Let the Moonshine,Luke Combs,contemporary country,2016.00,162.00,83.00,49.00,-5.00,10.00,56.00,209.00,7.00,3.00,51.00
+284,More Surprised Than Me,Morgan Wallen,contemporary country,2021.00,85.00,75.00,52.00,-6.00,12.00,43.00,157.00,24.00,3.00,51.00
+285,Neon Eyes,Morgan Wallen,contemporary country,2021.00,126.00,84.00,58.00,-5.00,16.00,63.00,226.00,2.00,3.00,51.00
+286,Your Bartender,Morgan Wallen,contemporary country,2021.00,140.00,77.00,56.00,-5.00,15.00,44.00,185.00,25.00,3.00,51.00
+287,I feel bad,blackbear,electropop,2020.00,144.00,79.00,64.00,-3.00,33.00,92.00,175.00,2.00,5.00,51.00
+288,Lonely (with benny blanco) - Acoustic,Justin Bieber,canadian pop,2020.00,169.00,12.00,37.00,-11.00,68.00,12.00,155.00,97.00,4.00,50.00
+289,Cover Me Up,Morgan Wallen,contemporary country,2021.00,128.00,44.00,55.00,-8.00,11.00,21.00,294.00,23.00,3.00,50.00
+290,Wonderin’ Bout The Wind,Morgan Wallen,contemporary country,2021.00,91.00,72.00,48.00,-6.00,13.00,40.00,182.00,24.00,3.00,50.00
+291,Whiskey’d My Way,Morgan Wallen,contemporary country,2021.00,186.00,52.00,44.00,-6.00,10.00,32.00,181.00,60.00,3.00,50.00
+292,Better Version,FLETCHER,alt z,2022.00,172.00,34.00,37.00,-11.00,34.00,34.00,174.00,84.00,7.00,50.00
+293,Go Around,Kane Brown,black americana,2022.00,124.00,76.00,56.00,-6.00,4.00,37.00,204.00,3.00,3.00,50.00
+294,Fuiste Tú (feat. Gaby Moreno),Ricardo Arjona,cantautor,2011.00,140.00,67.00,59.00,-4.00,11.00,27.00,265.00,62.00,4.00,49.00
+295,To a T,Ryan Hurd,contemporary country,2019.00,120.00,64.00,69.00,-6.00,11.00,66.00,179.00,17.00,3.00,49.00
+296,The Other Side (feat. CeeLo Green and B.o.B),Bruno Mars,dance pop,2010.00,140.00,81.00,56.00,-4.00,13.00,52.00,228.00,10.00,3.00,49.00
+297,My Mind Is a Maze,Alann8h,canadian contemporary r&b,2020.00,95.00,22.00,85.00,-11.00,9.00,47.00,147.00,67.00,7.00,49.00
+298,parking lot view,almost monday,modern indie pop,2020.00,113.00,88.00,74.00,-5.00,98.00,95.00,179.00,11.00,4.00,49.00
+299,In Case You Didn't Know,Brett Young,contemporary country,2017.00,148.00,54.00,61.00,-7.00,10.00,43.00,226.00,39.00,3.00,49.00
+300,Still Goin Down,Morgan Wallen,contemporary country,2021.00,148.00,75.00,58.00,-5.00,28.00,72.00,186.00,49.00,3.00,49.00
+301,This Bar,Morgan Wallen,contemporary country,2021.00,110.00,88.00,55.00,-5.00,5.00,25.00,185.00,9.00,8.00,49.00
+302,So Good - Stripped,Halsey,dance pop,2022.00,82.00,37.00,63.00,-5.00,9.00,28.00,192.00,81.00,3.00,49.00
+303,Socks,Dominic Fike,alternative pop rock,2018.00,120.00,49.00,73.00,-7.00,32.00,45.00,131.00,57.00,4.00,48.00
+304,"Rednecks, Red Letters, Red Dirt",Morgan Wallen,contemporary country,2021.00,140.00,75.00,55.00,-4.00,12.00,62.00,185.00,16.00,2.00,48.00
+305,Me On Whiskey,Morgan Wallen,contemporary country,2021.00,142.00,66.00,57.00,-5.00,8.00,72.00,210.00,43.00,3.00,48.00
+306,Livin’ The Dream,Morgan Wallen,contemporary country,2021.00,127.00,75.00,62.00,-6.00,22.00,44.00,239.00,58.00,3.00,48.00
+307,good daze,Jazzinuf,chillhop,2019.00,77.00,49.00,76.00,-11.00,36.00,35.00,154.00,28.00,45.00,47.00
+308,Whats For Dinner?,Dominic Fike,alternative pop rock,2020.00,92.00,47.00,86.00,-5.00,11.00,31.00,138.00,65.00,8.00,47.00
+309,Westcoast Collective,Dominic Fike,alternative pop rock,2018.00,92.00,57.00,68.00,-7.00,34.00,54.00,107.00,54.00,3.00,47.00
+310,Happen To Me,BENEE,alt z,2020.00,149.00,64.00,66.00,-8.00,10.00,36.00,232.00,17.00,3.00,47.00
+311,Beam,Payday,modern alternative pop,2020.00,85.00,78.00,69.00,-4.00,32.00,92.00,104.00,43.00,34.00,46.00
+312,Superman,Lazlo Bane,,2002.00,81.00,69.00,58.00,-9.00,8.00,84.00,225.00,11.00,3.00,46.00
+313,Sola,Nina Cobham,chill pop,2020.00,125.00,39.00,75.00,-13.00,11.00,33.00,199.00,29.00,20.00,45.00
+314,Lifeline,Reuben Gray,,2020.00,94.00,42.00,41.00,-8.00,9.00,20.00,208.00,4.00,4.00,45.00
+315,alone in a room full of people,blackbear,electropop,2021.00,162.00,85.00,64.00,-4.00,31.00,65.00,155.00,20.00,9.00,45.00
+316,Famous,Adam Doleac,contemporary country,2020.00,95.00,48.00,75.00,-6.00,12.00,43.00,187.00,36.00,4.00,45.00
+317,Growing Up,Thomas Rhett,contemporary country,2021.00,105.00,79.00,63.00,-6.00,14.00,56.00,181.00,1.00,2.00,45.00
+318,interested,Nina Cobham,chill pop,2021.00,126.00,29.00,83.00,-12.00,14.00,23.00,193.00,86.00,8.00,45.00
+319,Boy In A Billion,Claire Rosinkranz,alt z,2021.00,79.00,46.00,51.00,-7.00,29.00,49.00,208.00,44.00,15.00,44.00
+320,@ my worst,blackbear,electropop,2021.00,137.00,77.00,62.00,-5.00,15.00,34.00,191.00,2.00,6.00,44.00
+321,Be Myself,Why Don't We,boy band,2021.00,82.00,38.00,47.00,-10.00,16.00,38.00,214.00,44.00,3.00,44.00
+322,Dying in the Subtlety,Cautious Clay,indie r&b,2021.00,91.00,57.00,72.00,-8.00,22.00,45.00,139.00,0.00,3.00,44.00
+323,Preached,LIL DUSTY G,emo rap,2021.00,113.00,41.00,69.00,-8.00,13.00,44.00,159.00,42.00,4.00,44.00
+324,Welcome Back (feat. Alessia Cara),Ali Gatie,canadian hip hop,2020.00,172.00,52.00,58.00,-7.00,17.00,19.00,173.00,14.00,7.00,43.00
+325,ghost town (ft. Sasha Alex Sloan),blackbear,electropop,2021.00,101.00,78.00,71.00,-5.00,8.00,38.00,188.00,5.00,3.00,43.00
+326,imu (ft. Travis Barker),blackbear,electropop,2021.00,78.00,81.00,53.00,-6.00,6.00,55.00,216.00,1.00,6.00,43.00
+327,Toxic,Alex & Sierra,neo mellow,2016.00,107.00,47.00,76.00,-7.00,10.00,71.00,251.00,48.00,3.00,43.00
+328,Best Parts of Me,Will Dempsey,,2020.00,87.00,19.00,37.00,-15.00,8.00,15.00,257.00,35.00,4.00,43.00
+329,u love u (with Tate McRae),blackbear,electropop,2021.00,80.00,69.00,53.00,-6.00,16.00,29.00,189.00,2.00,4.00,43.00
+330,Us Someday,Thomas Rhett,contemporary country,2022.00,156.00,64.00,52.00,-6.00,10.00,75.00,144.00,3.00,2.00,43.00
+331,POSE,MICHELLE,bedroom pop,2022.00,116.00,56.00,85.00,-8.00,14.00,42.00,193.00,33.00,11.00,43.00
+332,Baby Come Back to Me,Kane Brown,black americana,2019.00,81.00,81.00,54.00,-6.00,11.00,48.00,227.00,2.00,3.00,42.00
+333,May We All,Florida Georgia Line,contemporary country,2016.00,150.00,92.00,51.00,-4.00,34.00,64.00,227.00,4.00,4.00,42.00
+334,C'est la vie,Ethan Surman,,2022.00,80.00,57.00,72.00,-7.00,10.00,46.00,172.00,10.00,11.00,42.00
+335,Mexico,The Staves,indie folk,2012.00,132.00,14.00,56.00,-15.00,10.00,20.00,246.00,97.00,3.00,41.00
+336,Jet Song,Mike Faist,broadway,2021.00,72.00,35.00,76.00,-13.00,6.00,60.00,131.00,25.00,48.00,40.00
+337,Scarlet,Telenova,australian electropop,2022.00,94.00,78.00,72.00,-4.00,10.00,51.00,198.00,0.00,3.00,40.00
+338,All I Know About Girls,Old Dominion,contemporary country,2021.00,140.00,50.00,68.00,-8.00,10.00,93.00,163.00,60.00,3.00,40.00
+339,Closing Time,Havelin,canadian folk,2016.00,105.00,78.00,53.00,-7.00,18.00,36.00,245.00,4.00,4.00,40.00
+340,Right Now,Santana,blues rock,1985.00,129.00,67.00,64.00,-14.00,12.00,67.00,362.00,32.00,4.00,40.00
+341,HAZY,Kyle Dion,alternative r&b,2022.00,85.00,56.00,70.00,-6.00,18.00,43.00,169.00,27.00,8.00,39.00
+342,Rings of Saturn,Alann8h,canadian contemporary r&b,2021.00,150.00,49.00,52.00,-9.00,54.00,11.00,173.00,34.00,4.00,39.00
+343,It Ain't You It's Me,Kane Brown,black americana,2019.00,146.00,68.00,49.00,-6.00,8.00,44.00,191.00,3.00,3.00,39.00
+344,suckerz,blackbear,electropop,2016.00,136.00,43.00,59.00,-9.00,11.00,57.00,184.00,29.00,20.00,38.00
+345,Time I Love To Waste,MAY-A,australian alternative pop,2021.00,120.00,63.00,64.00,-5.00,33.00,82.00,197.00,2.00,3.00,38.00
+346,Far Boy,Leah Marie Mason,country pop,2021.00,77.00,42.00,56.00,-6.00,12.00,38.00,186.00,74.00,3.00,37.00
+347,Jaiden,Emblem3,post-teen pop,2020.00,169.00,45.00,34.00,-7.00,16.00,10.00,300.00,32.00,3.00,37.00
+348,It's Magic,Fenders,dansktop,2018.00,106.00,78.00,60.00,-3.00,28.00,63.00,186.00,11.00,3.00,35.00
+349,Madonna,Juliana Madrid,,2022.00,105.00,76.00,62.00,-6.00,7.00,48.00,192.00,53.00,3.00,35.00
+350,High School Dropout,Neon Dreams,canadian pop,2019.00,112.00,90.00,72.00,-4.00,7.00,88.00,185.00,4.00,29.00,35.00
+351,Stand Tall,VOILÀ,alt z,2018.00,84.00,34.00,61.00,-8.00,34.00,59.00,217.00,63.00,3.00,35.00
+352,Glad To Be Here (feat. Brent Cobb),Hailey Whitters,contemporary country,2021.00,89.00,67.00,63.00,-7.00,11.00,62.00,274.00,5.00,4.00,35.00
+353,Ripped Jeans,Devin Kirtz,alt z,2020.00,125.00,52.00,66.00,-7.00,32.00,72.00,206.00,49.00,4.00,34.00
+354,Forbidden,Alexa Cappelli,alt z,2020.00,178.00,67.00,55.00,-6.00,18.00,52.00,224.00,17.00,7.00,34.00
+355,Miami,Noah Cunane,,2020.00,151.00,22.00,72.00,-9.00,44.00,43.00,179.00,51.00,3.00,33.00
+356,Scared of Love,Megan Faria,,2020.00,104.00,26.00,73.00,-12.00,11.00,24.00,284.00,90.00,5.00,32.00
+357,This Side Of A Dust Cloud,Morgan Wallen,contemporary country,2021.00,134.00,73.00,65.00,-6.00,16.00,80.00,200.00,14.00,3.00,32.00
+358,Talk Like That,TILAR,,2022.00,176.00,85.00,43.00,-6.00,27.00,76.00,236.00,4.00,20.00,32.00
+359,Drugs in the Bathroom,Sara Diamond,canadian contemporary r&b,2021.00,98.00,38.00,78.00,-7.00,14.00,64.00,164.00,74.00,5.00,31.00
+360,Pretty Places - St. Lucia Remix,Aly & AJ,dance pop,2021.00,128.00,76.00,60.00,-5.00,13.00,26.00,281.00,0.00,3.00,31.00
+361,Look at Me Now,Matt Stell,arkansas country,2020.00,118.00,66.00,56.00,-4.00,12.00,25.00,171.00,42.00,3.00,31.00
+362,See Through Me,Keara Graves,,2016.00,76.00,52.00,51.00,-7.00,10.00,23.00,198.00,33.00,3.00,30.00
+363,Your Love,The Outfield,album rock,2020.00,126.00,87.00,42.00,-5.00,10.00,63.00,205.00,2.00,7.00,30.00
+364,Dancers,Virginia Man,indiecoustica,2017.00,64.00,47.00,28.00,-9.00,13.00,19.00,253.00,68.00,4.00,28.00
+365,People Change,Londin Thompson,,2020.00,144.00,49.00,44.00,-7.00,34.00,14.00,218.00,35.00,4.00,28.00
+366,I Found My Voice,Jeni Ross,,2016.00,120.00,56.00,66.00,-9.00,35.00,39.00,178.00,29.00,4.00,26.00
+367,Youthless Youth,Alann8h,canadian contemporary r&b,2021.00,135.00,72.00,66.00,-7.00,40.00,77.00,166.00,16.00,6.00,26.00
+368,Say Less,Ethan Surman,,2022.00,120.00,60.00,79.00,-6.00,13.00,60.00,206.00,33.00,13.00,26.00
+369,360 al Mundo,Sofía Mora,,2022.00,78.00,48.00,61.00,-10.00,12.00,40.00,179.00,13.00,10.00,25.00
+370,My Oh My - Acoustic,James Smith,neo mellow,2021.00,97.00,37.00,51.00,-7.00,14.00,26.00,170.00,76.00,5.00,24.00
+371,Everywhere But On - Acoustic,Matt Stell,arkansas country,2020.00,75.00,73.00,44.00,-5.00,11.00,64.00,193.00,57.00,3.00,24.00
+372,Out of Season,Dylan Rockoff,chill r&b,2020.00,164.00,24.00,53.00,-13.00,9.00,57.00,194.00,63.00,4.00,23.00
+373,See You in Austin,Dakota Striplin,australian talent show,2020.00,155.00,41.00,34.00,-8.00,11.00,42.00,201.00,35.00,4.00,23.00
+374,Lightning Struck Emotions,Alann8h,canadian contemporary r&b,2020.00,90.00,33.00,67.00,-9.00,37.00,40.00,223.00,87.00,7.00,22.00
+375,Without Me,Halsey,dance pop,2021.00,136.00,49.00,75.00,-7.00,9.00,53.00,202.00,29.00,7.00,22.00
+376,1800-Flip-Phone,Alann8h,canadian contemporary r&b,2018.00,106.00,31.00,84.00,-24.00,22.00,8.00,128.00,86.00,26.00,21.00
+377,"In Time, She's Mine",Sam and Sounds,,2020.00,100.00,57.00,57.00,-9.00,87.00,54.00,176.00,3.00,5.00,20.00
+378,Hall of Fame,Gabby Barrett,contemporary country,2020.00,78.00,65.00,51.00,-4.00,9.00,18.00,201.00,18.00,4.00,14.00
+379,Famous,Jordan Mitchell,,2020.00,83.00,40.00,76.00,-7.00,11.00,43.00,142.00,5.00,40.00,13.00
+380,We Are Beautiful,Lost & Found Music Studios,,2016.00,102.00,69.00,50.00,-10.00,12.00,56.00,243.00,4.00,3.00,13.00
+381,Till Summer Comes Around,Hit Co. Masters,,2012.00,128.00,52.00,61.00,-10.00,7.00,22.00,236.00,26.00,3.00,10.00
+382,Burgerking Bathroom,Alann8h,canadian contemporary r&b,2021.00,79.00,23.00,56.00,-11.00,10.00,42.00,143.00,85.00,4.00,7.00
+383,Original - Acoustic,Lost & Found Music Studios,,2017.00,88.00,42.00,61.00,-11.00,10.00,52.00,192.00,28.00,7.00,4.00
+384,Good Time,Owl City,indietronica,2021.00,126.00,90.00,57.00,-4.00,42.00,63.00,206.00,3.00,15.00,0.00
