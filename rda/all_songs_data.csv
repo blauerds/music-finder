@@ -15,7 +15,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 129.0,LOCO,ITZY,k-pop girl group,2021.0,102.0,89.0,76.0,-3.0,34.0,49.0,191.0,1.0,19.0,71.0,4155.0
 130.0,In My Life - Remastered 2009,The Beatles,beatlesque,1965.0,103.0,44.0,69.0,-11.0,11.0,44.0,146.0,45.0,3.0,71.0,5413.0
 131.0,Killer Queen - Remastered 2011,Queen,classic rock,1974.0,117.0,65.0,54.0,-6.0,13.0,61.0,180.0,39.0,5.0,71.0,5374.0
-133.0,You're The One That I Want - From ÃÂÃÂÃÂÃÂGreaseÃÂÃÂÃÂÃÂ,John Travolta,hollywood,1978.0,107.0,61.0,76.0,-11.0,10.0,82.0,170.0,28.0,6.0,71.0,2976.0
+133.0,You're The One That I Want - From ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGreaseÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,John Travolta,hollywood,1978.0,107.0,61.0,76.0,-11.0,10.0,82.0,170.0,28.0,6.0,71.0,2976.0
 147.0,My Sharona,The Knack,album rock,1979.0,132.0,53.0,58.0,-7.0,31.0,22.0,288.0,68.0,3.0,71.0,5431.0
 148.0,The Logical Song - Remastered 2010,Supertramp,album rock,1979.0,147.0,70.0,59.0,-10.0,3.0,90.0,295.0,6.0,4.0,70.0,5431.0
 149.0,Welcome To The Jungle,Guns N' Roses,glam metal,1987.0,120.0,76.0,63.0,-6.0,15.0,70.0,251.0,51.0,5.0,70.0,3692.0
@@ -42,19 +42,19 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 219.0,A Groovy Kind of Love,Phil Collins,mellow gold,2004.0,115.0,66.0,63.0,-5.0,11.0,27.0,157.0,46.0,3.0,66.0,5327.0
 220.0,Strawberry Fields Forever - Remastered 2009,The Beatles,beatlesque,1967.0,82.0,84.0,52.0,-4.0,17.0,52.0,194.0,30.0,3.0,66.0,5413.0
 226.0,Spooky,Dusty Springfield,adult standards,1968.0,100.0,89.0,59.0,-3.0,35.0,67.0,174.0,3.0,5.0,65.0,5428.0
-227.0,Saturday NightÃÂÃÂÃÂÃÂs Alright (For Fighting) - Remastered 2014,Elton John,glam rock,1973.0,200.0,91.0,49.0,-4.0,24.0,63.0,183.0,5.0,5.0,65.0,4539.0
+227.0,Saturday NightÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Alright (For Fighting) - Remastered 2014,Elton John,glam rock,1973.0,200.0,91.0,49.0,-4.0,24.0,63.0,183.0,5.0,5.0,65.0,4539.0
 228.0,Once in a Lifetime - 2005 Remaster,Talking Heads,art punk,1980.0,106.0,45.0,75.0,-13.0,9.0,96.0,164.0,50.0,3.0,64.0,5232.0
 229.0,Put Your Head On My Shoulder,Paul Anka,adult standards,2000.0,153.0,98.0,51.0,-6.0,9.0,94.0,295.0,2.0,4.0,64.0,5428.0
 230.0,Wrecking Ball,Mother Mother,vancouver indie,2008.0,117.0,92.0,64.0,-6.0,62.0,87.0,260.0,18.0,6.0,64.0,4663.0
 231.0,All Day and All of the Night,The Kinks,album rock,1964.0,116.0,34.0,55.0,-9.0,10.0,47.0,155.0,75.0,3.0,64.0,5431.0
 232.0,I Saw Her Standing There - Remastered 2009,The Beatles,beatlesque,1963.0,97.0,80.0,66.0,-4.0,34.0,28.0,194.0,19.0,4.0,64.0,5413.0
-239.0,It's a Beautiful Day,Michael BublÃÂÃÂÃÂÃÂ©,adult standards,2013.0,79.0,43.0,38.0,-7.0,11.0,36.0,215.0,11.0,3.0,64.0,5428.0
+239.0,It's a Beautiful Day,Michael BublÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,adult standards,2013.0,79.0,43.0,38.0,-7.0,11.0,36.0,215.0,11.0,3.0,64.0,5428.0
 242.0,Michelle - Remastered 2009,The Beatles,beatlesque,1965.0,113.0,85.0,62.0,-5.0,31.0,64.0,223.0,31.0,4.0,64.0,5413.0
 243.0,Emotions,Brenda Lee,adult standards,1961.0,95.0,83.0,76.0,-4.0,8.0,45.0,244.0,4.0,7.0,64.0,5428.0
 244.0,Guitar Man,Bread,adult standards,1972.0,117.0,29.0,58.0,-13.0,11.0,67.0,162.0,65.0,3.0,63.0,5428.0
 245.0,Handle With Care,Traveling Wilburys,album rock,1988.0,99.0,42.0,47.0,-8.0,25.0,52.0,171.0,74.0,3.0,63.0,5431.0
 246.0,Can't Buy Me Love - Remastered 2009,The Beatles,beatlesque,1964.0,143.0,51.0,55.0,-13.0,44.0,51.0,226.0,14.0,5.0,63.0,5413.0
-252.0,Beer CanÃÂÃÂÃÂÃÂt Fix,Thomas Rhett,contemporary country,2019.0,138.0,78.0,59.0,-6.0,12.0,39.0,225.0,17.0,3.0,63.0,5343.0
+252.0,Beer CanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt Fix,Thomas Rhett,contemporary country,2019.0,138.0,78.0,59.0,-6.0,12.0,39.0,225.0,17.0,3.0,63.0,5343.0
 254.0,Cotton Fields,Creedence Clearwater Revival,album rock,1969.0,111.0,77.0,71.0,-4.0,12.0,94.0,210.0,3.0,3.0,63.0,5431.0
 255.0,"Here, There And Everywhere - Remastered 2009",The Beatles,beatlesque,1966.0,111.0,64.0,61.0,-4.0,17.0,49.0,170.0,66.0,3.0,63.0,5413.0
 256.0,Louie Louie,The Kingsmen,classic garage rock,2006.0,149.0,64.0,58.0,-8.0,13.0,86.0,177.0,24.0,3.0,62.0,4818.0
@@ -70,7 +70,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 272.0,Into My Arms - 2011 Remastered Version,Nick Cave & The Bad Seeds,art rock,1997.0,132.0,80.0,52.0,-5.0,9.0,90.0,145.0,58.0,5.0,61.0,5423.0
 273.0,I'll Follow The Sun - Remastered 2009,The Beatles,beatlesque,1964.0,106.0,44.0,51.0,-13.0,8.0,53.0,176.0,9.0,3.0,61.0,5413.0
 274.0,In the Meantime,Spacehog,alternative rock,1995.0,94.0,9.0,48.0,-18.0,11.0,22.0,256.0,89.0,4.0,61.0,5432.0
-277.0,QuittinÃÂÃÂÃÂÃÂ Time,Morgan Wallen,contemporary country,2021.0,90.0,73.0,66.0,-5.0,14.0,28.0,204.0,54.0,5.0,61.0,5343.0
+277.0,QuittinÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Time,Morgan Wallen,contemporary country,2021.0,90.0,73.0,66.0,-5.0,14.0,28.0,204.0,54.0,5.0,61.0,5343.0
 280.0,Falling Behind,Laufey,gen z singer-songwriter,2022.0,120.0,54.0,77.0,-5.0,10.0,89.0,189.0,40.0,5.0,61.0,4038.0
 281.0,Monkey Gone to Heaven,Pixies,alternative rock,1989.0,128.0,82.0,72.0,-4.0,63.0,72.0,210.0,7.0,17.0,61.0,5432.0
 282.0,My Sweet Lord - 2014 Remaster,George Harrison,album rock,1970.0,166.0,35.0,45.0,-13.0,11.0,55.0,174.0,94.0,9.0,60.0,5431.0
@@ -123,7 +123,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 379.0,Spoonful,Howlin' Wolf,acoustic blues,1962.0,137.0,55.0,52.0,-6.0,17.0,29.0,175.0,13.0,7.0,53.0,3348.0
 381.0,Cruel to Be Kind,Nick Lowe,alternative country,1979.0,119.0,38.0,82.0,-14.0,11.0,82.0,170.0,67.0,5.0,53.0,5319.0
 382.0,Velvet Mood,Alice Phoebe Lou,indie pop,2021.0,186.0,40.0,33.0,-7.0,47.0,50.0,170.0,79.0,3.0,53.0,5304.0
-391.0,SomebodyÃÂÃÂÃÂÃÂs Problem,Morgan Wallen,contemporary country,2021.0,140.0,56.0,54.0,-8.0,13.0,35.0,224.0,28.0,3.0,53.0,5343.0
+391.0,SomebodyÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Problem,Morgan Wallen,contemporary country,2021.0,140.0,56.0,54.0,-8.0,13.0,35.0,224.0,28.0,3.0,53.0,5343.0
 392.0,Tonight (feat. Ezra Koenig),Phoenix,alternative dance,2022.0,85.0,74.0,56.0,-5.0,8.0,42.0,205.0,5.0,3.0,53.0,5416.0
 393.0,Cry Me A River,Dinah Washington,adult standards,1959.0,137.0,54.0,66.0,-8.0,12.0,62.0,162.0,66.0,3.0,53.0,5428.0
 394.0,Ayonha,Hamid Al Shaeri,arab groove,2017.0,142.0,74.0,67.0,-7.0,11.0,89.0,247.0,5.0,3.0,52.0,127.0
@@ -163,9 +163,9 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 443.0,Sad Songs (Say So Much),Elton John,glam rock,1984.0,100.0,48.0,75.0,-8.0,10.0,66.0,218.0,38.0,3.0,50.0,4539.0
 444.0,In The Rain,The Dramatics,classic soul,2007.0,106.0,27.0,70.0,-9.0,12.0,35.0,232.0,57.0,6.0,50.0,5326.0
 445.0,Redundant,Green Day,permanent wave,1997.0,107.0,74.0,76.0,-11.0,5.0,94.0,296.0,9.0,3.0,50.0,4371.0
-447.0,WonderinÃÂÃÂÃÂÃÂ Bout The Wind,Morgan Wallen,contemporary country,2021.0,116.0,95.0,48.0,-3.0,9.0,87.0,198.0,0.0,4.0,50.0,5343.0
-448.0,WhiskeyÃÂÃÂÃÂÃÂd My Way,Morgan Wallen,contemporary country,2021.0,169.0,12.0,37.0,-11.0,68.0,12.0,155.0,97.0,4.0,50.0,5343.0
-451.0,Stormy,GÃÂÃÂÃÂÃÂ¡bor SzabÃÂÃÂÃÂÃÂ³,spiritual jazz,1969.0,186.0,52.0,44.0,-6.0,10.0,32.0,181.0,60.0,3.0,50.0,166.0
+447.0,WonderinÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Bout The Wind,Morgan Wallen,contemporary country,2021.0,116.0,95.0,48.0,-3.0,9.0,87.0,198.0,0.0,4.0,50.0,5343.0
+448.0,WhiskeyÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂd My Way,Morgan Wallen,contemporary country,2021.0,169.0,12.0,37.0,-11.0,68.0,12.0,155.0,97.0,4.0,50.0,5343.0
+451.0,Stormy,GÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡bor SzabÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³,spiritual jazz,1969.0,186.0,52.0,44.0,-6.0,10.0,32.0,181.0,60.0,3.0,50.0,166.0
 452.0,Half the World Away - Remastered,Oasis,beatlesque,1994.0,172.0,34.0,37.0,-11.0,34.0,34.0,174.0,84.0,7.0,50.0,5413.0
 453.0,Into the Void,Black Sabbath,album rock,1971.0,124.0,76.0,56.0,-6.0,4.0,37.0,204.0,3.0,3.0,50.0,5431.0
 454.0,Roll Over Beethoven - Remastered 2009,The Beatles,beatlesque,1963.0,116.0,35.0,51.0,-20.0,13.0,50.0,198.0,74.0,3.0,49.0,5413.0
@@ -179,7 +179,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 462.0,Supersonic Rocket Ship,The Kinks,album rock,1972.0,179.0,52.0,31.0,-8.0,8.0,61.0,147.0,10.0,5.0,49.0,5431.0
 463.0,You're Gonna Miss Me,Connie Francis,adult standards,2005.0,138.0,86.0,45.0,-9.0,19.0,55.0,168.0,18.0,4.0,49.0,5428.0
 464.0,Think For Yourself - Remastered 2009,The Beatles,beatlesque,1965.0,84.0,76.0,46.0,-7.0,24.0,63.0,155.0,5.0,4.0,49.0,5413.0
-465.0,Fuiste TÃÂÃÂÃÂÃÂº (feat. Gaby Moreno),Ricardo Arjona,cantautor,2011.0,150.0,42.0,61.0,-16.0,10.0,87.0,212.0,86.0,4.0,49.0,180.0
+465.0,Fuiste TÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂº (feat. Gaby Moreno),Ricardo Arjona,cantautor,2011.0,150.0,42.0,61.0,-16.0,10.0,87.0,212.0,86.0,4.0,49.0,180.0
 474.0,Born Too Late,The Poni-Tails,classic girl group,1958.0,148.0,75.0,58.0,-5.0,28.0,72.0,186.0,49.0,3.0,49.0,861.0
 475.0,Child Of Vision - 2010 Remastered,Supertramp,album rock,1979.0,110.0,88.0,55.0,-5.0,5.0,25.0,185.0,9.0,8.0,49.0,5431.0
 476.0,Crosseyed and Painless - 2005 Remaster,Talking Heads,art punk,1980.0,82.0,37.0,63.0,-5.0,9.0,28.0,192.0,81.0,3.0,49.0,5232.0
@@ -194,7 +194,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 485.0,Wisdom,Mother Mother,vancouver indie,2008.0,88.0,53.0,54.0,-10.0,11.0,18.0,289.0,63.0,3.0,48.0,4663.0
 486.0,Big Time,Angel Olsen,alternative americana,2022.0,177.0,26.0,27.0,-14.0,16.0,47.0,161.0,85.0,4.0,48.0,4776.0
 487.0,Wait - Remastered 2009,The Beatles,beatlesque,1965.0,133.0,34.0,59.0,-13.0,63.0,54.0,252.0,84.0,3.0,48.0,5413.0
-491.0,LivinÃÂÃÂÃÂÃÂ The Dream,Morgan Wallen,contemporary country,2021.0,120.0,49.0,73.0,-7.0,32.0,45.0,131.0,57.0,4.0,48.0,5343.0
+491.0,LivinÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ The Dream,Morgan Wallen,contemporary country,2021.0,120.0,49.0,73.0,-7.0,32.0,45.0,131.0,57.0,4.0,48.0,5343.0
 492.0,"???? (From. ""??? ??? ??"")",Kim Bum Soo,korean pop,2009.0,140.0,75.0,55.0,-4.0,12.0,62.0,185.0,16.0,2.0,48.0,4942.0
 493.0,Born Under Punches (The Heat Goes On) - 2005 Remaster,Talking Heads,art punk,1980.0,142.0,66.0,57.0,-5.0,8.0,72.0,210.0,43.0,3.0,48.0,5232.0
 494.0,Body Of Years,Mother Mother,vancouver indie,2008.0,127.0,75.0,62.0,-6.0,22.0,44.0,239.0,58.0,3.0,48.0,4663.0
@@ -261,7 +261,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 579.0,??,BUZZ,classic k-pop,2005.0,95.0,69.0,39.0,-13.0,13.0,46.0,324.0,0.0,4.0,42.0,4861.0
 580.0,Lover Lover Lover,Leonard Cohen,canadian singer-songwriter,1974.0,175.0,4.0,36.0,-17.0,9.0,22.0,566.0,90.0,4.0,42.0,5284.0
 581.0,Death of a Clown,The Kinks,album rock,1967.0,123.0,49.0,74.0,-9.0,10.0,68.0,124.0,49.0,4.0,42.0,5431.0
-582.0,Pilgrims on a Long Journey,CÃÂÃÂÃÂÃÂur De Pirate,chanson,2014.0,93.0,71.0,66.0,-6.0,29.0,78.0,210.0,64.0,11.0,42.0,5041.0
+582.0,Pilgrims on a Long Journey,CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂur De Pirate,chanson,2014.0,93.0,71.0,66.0,-6.0,29.0,78.0,210.0,64.0,11.0,42.0,5041.0
 583.0,My Buddy - Vocal Version,Chet Baker,adult standards,1956.0,144.0,60.0,47.0,-6.0,13.0,18.0,242.0,4.0,3.0,42.0,5428.0
 584.0,This Will Be Our Year [Mono],The Zombies,baroque pop,1968.0,112.0,41.0,71.0,-11.0,58.0,55.0,199.0,57.0,6.0,42.0,5421.0
 585.0,The Thrill Is Gone - Vocal Version,Chet Baker,adult standards,1956.0,81.0,66.0,51.0,-7.0,26.0,71.0,182.0,9.0,3.0,42.0,5428.0
@@ -283,7 +283,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 604.0,Conquistador,Procol Harum,album rock,1967.0,76.0,12.0,49.0,-18.0,15.0,72.0,107.0,98.0,4.0,41.0,5431.0
 605.0,The Right Profile - Remastered,The Clash,classic rock,1979.0,148.0,37.0,64.0,-12.0,3.0,62.0,237.0,74.0,4.0,41.0,5374.0
 606.0,Go Home,Angel Olsen,alternative americana,2022.0,73.0,52.0,42.0,-7.0,35.0,19.0,258.0,43.0,3.0,41.0,4776.0
-607.0,"String Quartet No. 5 in F Minor, Op. 9, B. 37: II. Andante con moto quasi allegretto",AntonÃÂÃÂÃÂÃÂ­n Dvo?ÃÂÃÂÃÂÃÂ¡k,classical,1999.0,101.0,66.0,69.0,-10.0,9.0,93.0,144.0,50.0,3.0,41.0,3944.0
+607.0,"String Quartet No. 5 in F Minor, Op. 9, B. 37: II. Andante con moto quasi allegretto",AntonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­n Dvo?ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡k,classical,1999.0,101.0,66.0,69.0,-10.0,9.0,93.0,144.0,50.0,3.0,41.0,3944.0
 608.0,On And On,Curtis Harding,funk,2017.0,125.0,84.0,44.0,-6.0,14.0,62.0,158.0,25.0,9.0,41.0,5003.0
 609.0,Sleepwalk,Santo & Johnny,space age pop,2000.0,141.0,81.0,56.0,-8.0,18.0,83.0,235.0,6.0,8.0,41.0,286.0
 611.0,Hello - Remastered,Oasis,beatlesque,1995.0,132.0,9.0,22.0,-22.0,8.0,6.0,494.0,91.0,5.0,41.0,5413.0
@@ -327,7 +327,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 658.0,"The Planets, Op. 32: 7. Neptune, the Mystic",Gustav Holst,british modern classical,1981.0,143.0,78.0,64.0,-10.0,4.0,93.0,219.0,76.0,6.0,38.0,4674.0
 659.0,Nobody Sees Me Like You Do,Japanese Breakfast,art pop,2022.0,153.0,82.0,52.0,-8.0,36.0,83.0,202.0,0.0,4.0,38.0,5004.0
 660.0,Reference,Lee Mujin,korean pop,2022.0,106.0,1.0,15.0,-23.0,11.0,3.0,562.0,93.0,4.0,38.0,4942.0
-661.0,"Ravel: Miroirs, M. 43: III. Une barque sur l'ocÃÂÃÂÃÂÃÂ©an",Maurice Ravel,classical,2016.0,147.0,90.0,55.0,-4.0,36.0,75.0,112.0,0.0,8.0,38.0,3944.0
+661.0,"Ravel: Miroirs, M. 43: III. Une barque sur l'ocÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©an",Maurice Ravel,classical,2016.0,147.0,90.0,55.0,-4.0,36.0,75.0,112.0,0.0,8.0,38.0,3944.0
 662.0,Midnight Sun - Remastered 2010,Badfinger,album rock,1970.0,58.0,1.0,6.0,-42.0,6.0,3.0,527.0,92.0,5.0,38.0,5431.0
 663.0,Lipgloss,Pulp,alternative rock,1994.0,85.0,12.0,60.0,-13.0,23.0,25.0,212.0,98.0,4.0,38.0,5432.0
 664.0,Fluff,Black Sabbath,album rock,1973.0,116.0,67.0,69.0,-6.0,7.0,70.0,222.0,31.0,4.0,38.0,5431.0
@@ -338,7 +338,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 669.0,Isn't It a Pity - 2014 Remaster,George Harrison,album rock,1970.0,70.0,6.0,8.0,-26.0,8.0,3.0,193.0,97.0,4.0,38.0,5431.0
 672.0,Pills,New York Dolls,early us punk,1973.0,79.0,73.0,67.0,-5.0,11.0,43.0,209.0,8.0,4.0,38.0,5429.0
 673.0,???,BUZZ,classic k-pop,2005.0,147.0,65.0,26.0,-8.0,6.0,28.0,431.0,0.0,3.0,38.0,4861.0
-674.0,GRIPPINÃÂÃÂÃÂÃÂTHEGREEN,JANNABI,k-indie,2022.0,136.0,43.0,59.0,-9.0,11.0,57.0,184.0,29.0,20.0,38.0,5426.0
+674.0,GRIPPINÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂTHEGREEN,JANNABI,k-indie,2022.0,136.0,43.0,59.0,-9.0,11.0,57.0,184.0,29.0,20.0,38.0,5426.0
 675.0,Ego Tripping at the Gates of Hell,The Flaming Lips,alternative rock,2002.0,120.0,63.0,64.0,-5.0,33.0,82.0,197.0,2.0,3.0,38.0,5432.0
 676.0,Fisherman - Remastered 2010,Badfinger,album rock,1970.0,143.0,91.0,39.0,-10.0,40.0,84.0,168.0,2.0,5.0,37.0,5431.0
 677.0,Fall in Fall,Lee Mujin,korean pop,2021.0,72.0,43.0,47.0,-7.0,11.0,27.0,284.0,30.0,3.0,37.0,4942.0
@@ -380,13 +380,13 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 715.0,I'm The Greatest,Ringo Starr,album rock,1973.0,89.0,22.0,67.0,-13.0,11.0,59.0,261.0,93.0,4.0,35.0,5431.0
 716.0,Seaweed,Mount Eerie,alternative rock,2017.0,80.0,46.0,19.0,-15.0,13.0,16.0,307.0,44.0,4.0,35.0,5432.0
 717.0,Oh My Golly! - Remastered,Pixies,alternative rock,1988.0,177.0,72.0,42.0,-5.0,15.0,43.0,264.0,3.0,6.0,35.0,5432.0
-721.0,Stand Tall,VOILÃÂÃÂÃÂÃÂ,alt z,2018.0,171.0,48.0,35.0,-14.0,7.0,33.0,153.0,1.0,9.0,35.0,5117.0
+721.0,Stand Tall,VOILÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,alt z,2018.0,171.0,48.0,35.0,-14.0,7.0,33.0,153.0,1.0,9.0,35.0,5117.0
 723.0,Coming Up Roses,Elliott Smith,alternative rock,1995.0,105.0,76.0,62.0,-6.0,7.0,48.0,192.0,53.0,3.0,35.0,5432.0
 724.0,Elephant Talk,King Crimson,album rock,1981.0,112.0,90.0,72.0,-4.0,7.0,88.0,185.0,4.0,29.0,35.0,5431.0
 725.0,Life in Vain,Daniel Johnston,alternative rock,1994.0,84.0,34.0,61.0,-8.0,34.0,59.0,217.0,63.0,3.0,35.0,5432.0
 726.0,Romeo And The Lonely Girl,Thin Lizzy,album rock,1976.0,89.0,67.0,63.0,-7.0,11.0,62.0,274.0,5.0,4.0,35.0,5431.0
 727.0,Razzamatazz,Pulp,alternative rock,2002.0,94.0,30.0,54.0,-14.0,24.0,25.0,191.0,17.0,3.0,34.0,5432.0
-728.0,SÃÂÃÂÃÂÃÂ³ DanÃÂÃÂÃÂÃÂ§o Samba - Stereo Version,Stan Getz,bossa nova,2014.0,115.0,73.0,65.0,-12.0,6.0,70.0,282.0,55.0,7.0,34.0,4985.0
+728.0,SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ DanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§o Samba - Stereo Version,Stan Getz,bossa nova,2014.0,115.0,73.0,65.0,-12.0,6.0,70.0,282.0,55.0,7.0,34.0,4985.0
 729.0,I'm Straight,The Modern Lovers,alternative rock,1976.0,78.0,39.0,38.0,-9.0,10.0,40.0,202.0,34.0,3.0,34.0,5432.0
 730.0,Like when we first met,JANNABI,k-indie,2019.0,134.0,83.0,56.0,-8.0,25.0,80.0,235.0,5.0,7.0,34.0,5426.0
 731.0,Walls,Greyhounds,deep new americana,2016.0,137.0,96.0,46.0,-4.0,57.0,51.0,220.0,7.0,6.0,34.0,5271.0
@@ -511,7 +511,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 869.0,Holly Park,Emitt Rhodes,beatlesque,2009.0,113.0,89.0,52.0,-8.0,10.0,86.0,203.0,35.0,5.0,26.0,5413.0
 870.0,Going to California - Remaster,Led Zeppelin,album rock,2018.0,112.0,64.0,48.0,-5.0,13.0,51.0,167.0,46.0,3.0,26.0,5431.0
 871.0,Love is Like a Bottle of Gin,The Magnetic Fields,alternative rock,1999.0,107.0,40.0,55.0,-14.0,8.0,77.0,293.0,0.0,2.0,26.0,5432.0
-872.0,MÃÂÃÂÃÂÃÂ©nilmontant,Gus Viseur,accordeon,2015.0,124.0,69.0,92.0,-10.0,9.0,81.0,270.0,8.0,5.0,26.0,5262.0
+872.0,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©nilmontant,Gus Viseur,accordeon,2015.0,124.0,69.0,92.0,-10.0,9.0,81.0,270.0,8.0,5.0,26.0,5262.0
 876.0,Man With An Open Heart,King Crimson,album rock,1984.0,101.0,11.0,61.0,-18.0,12.0,83.0,140.0,97.0,7.0,26.0,5431.0
 877.0,Caroline Says I,Lou Reed,art rock,1973.0,120.0,56.0,66.0,-9.0,35.0,39.0,178.0,29.0,4.0,26.0,5423.0
 878.0,Soria Moria,Mount Eerie,alternative rock,2017.0,135.0,72.0,66.0,-7.0,40.0,77.0,166.0,16.0,6.0,26.0,5432.0
@@ -531,7 +531,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 893.0,?? - 2022 Yoshinori Sunahara Remastering,Yukihiro Takahashi,japanese new wave,2022.0,139.0,65.0,41.0,-9.0,13.0,7.0,312.0,6.0,4.0,25.0,529.0
 894.0,Bessie Smith,Bob Dylan,classic rock,1975.0,109.0,55.0,57.0,-10.0,56.0,78.0,119.0,22.0,3.0,25.0,5374.0
 895.0,Pretty Girls,Joe Jackson,album rock,1979.0,78.0,48.0,61.0,-10.0,12.0,40.0,179.0,13.0,10.0,25.0,5431.0
-896.0,Al Di LÃÂÃÂÃÂÃÂ ,Connie Francis,adult standards,2005.0,117.0,51.0,29.0,-9.0,14.0,18.0,369.0,18.0,4.0,24.0,5428.0
+896.0,Al Di LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ,Connie Francis,adult standards,2005.0,117.0,51.0,29.0,-9.0,14.0,18.0,369.0,18.0,4.0,24.0,5428.0
 898.0,parrot,Covet,instrumental math rock,2020.0,132.0,80.0,37.0,-5.0,19.0,60.0,258.0,41.0,5.0,24.0,533.0
 899.0,Be Here Now,Oasis,beatlesque,1997.0,140.0,93.0,71.0,-6.0,16.0,96.0,174.0,10.0,5.0,24.0,5413.0
 900.0,Beautiful,JANNABI,k-indie,2014.0,168.0,39.0,20.0,-8.0,11.0,29.0,198.0,73.0,3.0,24.0,5426.0
@@ -629,7 +629,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1004.0,Rock & Roll Pussy - 2015 Remaster,Todd Rundgren,album rock,1972.0,89.0,23.0,52.0,-9.0,8.0,16.0,334.0,80.0,4.0,18.0,5431.0
 1005.0,Drowin' My Sorrows,Connie Francis,adult standards,2005.0,96.0,40.0,30.0,-13.0,17.0,18.0,268.0,38.0,3.0,18.0,5428.0
 1006.0,The Last Ride - 2015 Remaster,Todd Rundgren,album rock,1974.0,175.0,65.0,37.0,-5.0,11.0,78.0,227.0,63.0,5.0,18.0,5431.0
-1007.0,ÃÂÃÂÃÂÃÂTis Autumn,Nat King Cole,adult standards,2006.0,148.0,63.0,62.0,-14.0,3.0,96.0,244.0,0.0,5.0,18.0,5428.0
+1007.0,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂTis Autumn,Nat King Cole,adult standards,2006.0,148.0,63.0,62.0,-14.0,3.0,96.0,244.0,0.0,5.0,18.0,5428.0
 1008.0,It Takes Two to Tango (This Is for the Girls) - 2015 Remaster,Todd Rundgren,album rock,1972.0,85.0,93.0,24.0,-9.0,36.0,36.0,68.0,2.0,7.0,18.0,5431.0
 1009.0,Take A Picture,Margo Guryan,baroque pop,1968.0,84.0,56.0,47.0,-6.0,21.0,74.0,124.0,80.0,3.0,18.0,5421.0
 1010.0,Real Good Time Together,Lou Reed,art rock,1978.0,119.0,48.0,32.0,-13.0,20.0,32.0,289.0,0.0,4.0,18.0,5423.0
@@ -815,7 +815,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1198.0,Hono no Seikatai [Choir],Keisuke Kuwata,j-pop,2021.0,82.0,60.0,68.0,-16.0,8.0,97.0,143.0,5.0,9.0,7.0,5424.0
 1199.0,Lord Bateman's Motorbike,Chumbawamba,anarcho-punk,2008.0,126.0,56.0,67.0,-7.0,58.0,68.0,131.0,47.0,3.0,7.0,5427.0
 1200.0,Spirit,Yuta Orisaka,japanese alternative pop,2021.0,132.0,18.0,41.0,-20.0,13.0,28.0,272.0,81.0,4.0,7.0,5418.0
-1202.0,MILLION SECRETS OF JAZZ,SOIL & ÃÂÃÂÃÂÃÂPIMPÃÂÃÂÃÂÃÂ SESSIONS,japanese jazz,2021.0,77.0,42.0,23.0,-10.0,12.0,17.0,553.0,84.0,4.0,7.0,816.0
+1202.0,MILLION SECRETS OF JAZZ,SOIL & ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPIMPÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ SESSIONS,japanese jazz,2021.0,77.0,42.0,23.0,-10.0,12.0,17.0,553.0,84.0,4.0,7.0,816.0
 1203.0,Digging a Hole,The London Suede,britpop,1996.0,143.0,89.0,56.0,-3.0,13.0,79.0,231.0,7.0,4.0,7.0,5385.0
 1204.0,Don't You Just Know It,The Kingsmen,classic garage rock,2006.0,114.0,47.0,60.0,-9.0,7.0,77.0,215.0,45.0,3.0,7.0,4818.0
 1205.0,Just Let Me Be,Pilot,bubblegum pop,1974.0,136.0,69.0,39.0,-9.0,26.0,42.0,282.0,5.0,5.0,7.0,5407.0
@@ -925,7 +925,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 22.0,I'm Not The Only One,Sam Smith,pop,2014.0,172.0,64.0,51.0,-5.0,8.0,38.0,224.0,7.0,5.0,84.0,5390.0
 23.0,Locked out of Heaven,Bruno Mars,dance pop,2012.0,125.0,78.0,78.0,-4.0,8.0,67.0,204.0,6.0,13.0,84.0,5346.0
 24.0,Shape of You,Ed Sheeran,pop,2017.0,92.0,63.0,69.0,-6.0,10.0,80.0,161.0,5.0,4.0,84.0,5390.0
-25.0,DonÃÂÃÂÃÂÃÂt Blame Me,Taylor Swift,pop,2017.0,124.0,86.0,79.0,-3.0,8.0,59.0,215.0,4.0,11.0,84.0,5390.0
+25.0,DonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt Blame Me,Taylor Swift,pop,2017.0,124.0,86.0,79.0,-3.0,8.0,59.0,215.0,4.0,11.0,84.0,5390.0
 26.0,Mr. Brightside,The Killers,alternative rock,2004.0,120.0,52.0,67.0,-8.0,12.0,37.0,227.0,86.0,4.0,84.0,5432.0
 27.0,Viva La Vida,Coldplay,permanent wave,2008.0,110.0,41.0,50.0,-6.0,11.0,45.0,182.0,75.0,3.0,84.0,4371.0
 28.0,Lucid Dreams,Juice WRLD,chicago rap,2018.0,131.0,71.0,77.0,-5.0,15.0,84.0,163.0,35.0,4.0,84.0,4582.0
@@ -1075,7 +1075,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 173.0,High Hopes,Panic! At The Disco,modern rock,2018.0,90.0,80.0,65.0,-3.0,27.0,80.0,211.0,3.0,10.0,78.0,5112.0
 174.0,2002,Anne-Marie,dance pop,2018.0,126.0,83.0,70.0,-7.0,27.0,98.0,215.0,17.0,3.0,78.0,5346.0
 175.0,Attention,Charlie Puth,dance pop,2018.0,90.0,52.0,76.0,-4.0,7.0,93.0,158.0,53.0,6.0,78.0,5346.0
-176.0,SeÃÂÃÂÃÂÃÂ±orita,Shawn Mendes,canadian pop,2019.0,107.0,65.0,72.0,-6.0,10.0,41.0,207.0,23.0,7.0,78.0,4401.0
+176.0,SeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±orita,Shawn Mendes,canadian pop,2019.0,107.0,65.0,72.0,-6.0,10.0,41.0,207.0,23.0,7.0,78.0,4401.0
 177.0,Shake It Off,Taylor Swift,pop,2014.0,119.0,74.0,94.0,-5.0,11.0,92.0,212.0,32.0,5.0,78.0,5390.0
 178.0,this is what falling in love feels like,JVKE,modern indie pop,2022.0,99.0,64.0,78.0,-8.0,10.0,50.0,247.0,0.0,16.0,78.0,4845.0
 179.0,Pointless,Lewis Capaldi,pop,2022.0,120.0,84.0,76.0,-3.0,29.0,71.0,200.0,10.0,14.0,78.0,5390.0
@@ -1086,7 +1086,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 184.0,Paper Rings,Taylor Swift,pop,2019.0,75.0,45.0,53.0,-9.0,11.0,18.0,212.0,0.0,3.0,78.0,5390.0
 185.0,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,pop,2021.0,167.0,65.0,31.0,-9.0,37.0,31.0,306.0,2.0,4.0,78.0,5390.0
 186.0,N95,Kendrick Lamar,conscious hip hop,2022.0,100.0,94.0,52.0,-4.0,6.0,77.0,180.0,1.0,3.0,78.0,5154.0
-187.0,Electric Love,BÃÂÃÂÃÂÃÂRNS,modern rock,2015.0,85.0,35.0,56.0,-13.0,14.0,46.0,264.0,6.0,5.0,78.0,5112.0
+187.0,Electric Love,BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂRNS,modern rock,2015.0,85.0,35.0,56.0,-13.0,14.0,46.0,264.0,6.0,5.0,78.0,5112.0
 188.0,Dynamite,Taio Cruz,dance pop,2010.0,117.0,87.0,41.0,-4.0,20.0,48.0,219.0,0.0,5.0,78.0,5346.0
 189.0,Chasing Cars,Snow Patrol,irish rock,2006.0,128.0,85.0,77.0,-6.0,7.0,87.0,271.0,21.0,4.0,78.0,3617.0
 190.0,idontwannabeyouanymore,Billie Eilish,art pop,2017.0,149.0,90.0,43.0,-5.0,61.0,68.0,167.0,1.0,5.0,78.0,5004.0
@@ -1207,7 +1207,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 307.0,IDGAF,Dua Lipa,dance pop,2017.0,102.0,66.0,65.0,-6.0,10.0,47.0,259.0,23.0,3.0,76.0,5346.0
 308.0,Gold Digger,Kanye West,chicago rap,2005.0,95.0,86.0,71.0,-5.0,9.0,81.0,206.0,5.0,4.0,76.0,4582.0
 309.0,Getaway Car,Taylor Swift,pop,2017.0,103.0,40.0,55.0,-7.0,9.0,38.0,193.0,68.0,3.0,76.0,5390.0
-310.0,The Way I Loved You (TaylorÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,128.0,80.0,55.0,-5.0,27.0,63.0,241.0,1.0,3.0,76.0,5390.0
+310.0,The Way I Loved You (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,128.0,80.0,55.0,-5.0,27.0,63.0,241.0,1.0,3.0,76.0,5390.0
 311.0,Die Hard,Kendrick Lamar,conscious hip hop,2022.0,178.0,34.0,39.0,-10.0,25.0,48.0,303.0,65.0,3.0,76.0,5154.0
 312.0,All Of The Lights,Kanye West,chicago rap,2010.0,82.0,47.0,70.0,-8.0,9.0,57.0,229.0,25.0,7.0,76.0,4582.0
 313.0,Fireflies,Owl City,indietronica,2009.0,151.0,58.0,49.0,-11.0,41.0,91.0,183.0,19.0,4.0,76.0,4572.0
@@ -1239,7 +1239,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 340.0,Knockin' On Heaven's Door,Guns N' Roses,glam metal,1991.0,96.0,46.0,73.0,-7.0,19.0,40.0,213.0,37.0,3.0,76.0,3692.0
 341.0,Master Of Puppets,Metallica,hard rock,1986.0,140.0,66.0,55.0,-7.0,11.0,47.0,220.0,7.0,7.0,76.0,5253.0
 342.0,Wind Of Change,Scorpions,album rock,1990.0,160.0,87.0,53.0,-5.0,14.0,42.0,208.0,16.0,17.0,76.0,5431.0
-343.0,Kickstart My Heart,MÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂ¼e,glam metal,1989.0,77.0,77.0,54.0,-6.0,11.0,55.0,228.0,0.0,3.0,76.0,3692.0
+343.0,Kickstart My Heart,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e,glam metal,1989.0,77.0,77.0,54.0,-6.0,11.0,55.0,228.0,0.0,3.0,76.0,3692.0
 344.0,Dust in the Wind,Kansas,album rock,1977.0,107.0,80.0,82.0,-4.0,15.0,63.0,226.0,3.0,8.0,76.0,5431.0
 345.0,More Than a Feeling,Boston,album rock,1976.0,85.0,43.0,67.0,-10.0,13.0,34.0,190.0,12.0,12.0,76.0,5431.0
 346.0,Jump - 2015 Remaster,Van Halen,album rock,1984.0,128.0,82.0,65.0,-4.0,32.0,42.0,227.0,21.0,4.0,76.0,5431.0
@@ -1261,7 +1261,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 362.0,Love Is Gone - Acoustic,SLANDER,dubstep,2019.0,78.0,78.0,59.0,-6.0,30.0,43.0,245.0,6.0,5.0,76.0,1259.0
 363.0,FAKE LOVE,BTS,k-pop,2018.0,93.0,70.0,63.0,-6.0,6.0,62.0,208.0,2.0,35.0,76.0,5133.0
 364.0,Love Me Harder,Ariana Grande,dance pop,2014.0,172.0,69.0,56.0,-7.0,9.0,35.0,234.0,0.0,13.0,76.0,5346.0
-365.0,I DonÃÂÃÂÃÂÃÂt Wanna Live Forever (Fifty Shades Darker),ZAYN,dance pop,2017.0,161.0,73.0,40.0,-5.0,11.0,47.0,243.0,0.0,5.0,76.0,5346.0
+365.0,I DonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt Wanna Live Forever (Fifty Shades Darker),ZAYN,dance pop,2017.0,161.0,73.0,40.0,-5.0,11.0,47.0,243.0,0.0,5.0,76.0,5346.0
 366.0,Malibu,Miley Cyrus,pop,2017.0,101.0,74.0,78.0,-8.0,13.0,36.0,239.0,32.0,25.0,76.0,5390.0
 367.0,Falling,Trevor Daniel,melodic rap,2018.0,128.0,32.0,55.0,-11.0,10.0,33.0,242.0,83.0,3.0,76.0,4205.0
 368.0,Ophelia,The Lumineers,folk-pop,2016.0,142.0,80.0,53.0,-3.0,18.0,22.0,300.0,8.0,7.0,75.0,3883.0
@@ -1288,7 +1288,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 391.0,...Baby One More Time,Britney Spears,dance pop,1999.0,81.0,47.0,48.0,-10.0,13.0,42.0,305.0,19.0,3.0,75.0,5346.0
 392.0,SOS,Rihanna,barbadian pop,2006.0,81.0,50.0,69.0,-7.0,26.0,48.0,122.0,68.0,12.0,75.0,5389.0
 393.0,Hey Brother,Avicii,dance pop,2013.0,105.0,66.0,28.0,-9.0,14.0,53.0,237.0,0.0,4.0,75.0,5346.0
-394.0,Crazy In Love (feat. Jay-Z),BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2003.0,203.0,64.0,26.0,-10.0,9.0,38.0,281.0,20.0,6.0,75.0,5346.0
+394.0,Crazy In Love (feat. Jay-Z),BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2003.0,203.0,64.0,26.0,-10.0,9.0,38.0,281.0,20.0,6.0,75.0,5346.0
 395.0,Gorgeous,Taylor Swift,pop,2017.0,118.0,83.0,25.0,-8.0,9.0,34.0,547.0,7.0,6.0,75.0,5390.0
 396.0,Vigilante Shit,Taylor Swift,pop,2022.0,112.0,30.0,66.0,-18.0,9.0,36.0,289.0,68.0,3.0,75.0,5390.0
 397.0,The Man,Taylor Swift,pop,2019.0,125.0,59.0,46.0,-9.0,10.0,24.0,284.0,0.0,3.0,75.0,5390.0
@@ -1390,7 +1390,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 496.0,Come Together - Remastered 2009,The Beatles,beatlesque,1969.0,138.0,91.0,45.0,-4.0,25.0,52.0,293.0,41.0,11.0,74.0,5413.0
 497.0,What's My Name?,Rihanna,barbadian pop,2010.0,100.0,95.0,27.0,-9.0,14.0,47.0,406.0,2.0,8.0,74.0,5389.0
 498.0,Sk8er Boi,Avril Lavigne,canadian pop,2002.0,81.0,64.0,55.0,-10.0,20.0,61.0,230.0,0.0,22.0,74.0,4401.0
-499.0,We Are Young (feat. Janelle MonÃÂÃÂÃÂÃÂ¡e),fun.,baroque pop,2012.0,140.0,97.0,53.0,-4.0,61.0,60.0,166.0,11.0,5.0,74.0,5421.0
+499.0,We Are Young (feat. Janelle MonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡e),fun.,baroque pop,2012.0,140.0,97.0,53.0,-4.0,61.0,60.0,166.0,11.0,5.0,74.0,5421.0
 500.0,Unwritten,Natasha Bedingfield,dance pop,2004.0,113.0,80.0,47.0,-3.0,13.0,22.0,168.0,36.0,3.0,74.0,5346.0
 501.0,Love Story,Taylor Swift,pop,2008.0,79.0,92.0,36.0,-4.0,7.0,23.0,235.0,0.0,6.0,74.0,5390.0
 502.0,"Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder,adult standards,2007.0,108.0,57.0,61.0,-5.0,10.0,52.0,294.0,1.0,3.0,74.0,5428.0
@@ -1469,7 +1469,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 575.0,Side To Side,Ariana Grande,dance pop,2016.0,124.0,24.0,71.0,-9.0,8.0,35.0,271.0,9.0,4.0,73.0,5346.0
 576.0,Pump It,Black Eyed Peas,dance pop,2005.0,172.0,85.0,45.0,-6.0,65.0,49.0,205.0,3.0,22.0,73.0,5346.0
 577.0,Question...?,Taylor Swift,pop,2022.0,98.0,60.0,86.0,-6.0,9.0,50.0,229.0,5.0,18.0,73.0,5390.0
-578.0,Love Story (TaylorÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,105.0,73.0,51.0,-5.0,7.0,27.0,244.0,2.0,4.0,73.0,5390.0
+578.0,Love Story (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,105.0,73.0,51.0,-5.0,7.0,27.0,244.0,2.0,4.0,73.0,5390.0
 579.0,Sweet Nothing,Taylor Swift,pop,2022.0,130.0,99.0,47.0,-3.0,28.0,32.0,220.0,0.0,11.0,73.0,5390.0
 580.0,High Infidelity,Taylor Swift,pop,2022.0,82.0,56.0,66.0,-9.0,10.0,70.0,188.0,54.0,6.0,73.0,5390.0
 581.0,Let's Groove,"Earth, Wind & Fire",disco,1981.0,162.0,44.0,33.0,-10.0,11.0,23.0,282.0,6.0,4.0,73.0,5097.0
@@ -1483,7 +1483,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 589.0,Cooler Than Me - Single Mix,Mike Posner,dance pop,2010.0,90.0,90.0,41.0,-12.0,41.0,42.0,334.0,5.0,41.0,73.0,5346.0
 590.0,You're Beautiful,James Blunt,neo mellow,2005.0,178.0,55.0,33.0,-6.0,19.0,43.0,339.0,61.0,3.0,73.0,5162.0
 591.0,One More Night,Maroon 5,pop,2012.0,104.0,39.0,69.0,-16.0,25.0,72.0,239.0,8.0,4.0,73.0,5390.0
-592.0,Halo,BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2008.0,92.0,13.0,63.0,-15.0,11.0,24.0,334.0,47.0,3.0,73.0,5346.0
+592.0,Halo,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2008.0,92.0,13.0,63.0,-15.0,11.0,24.0,334.0,47.0,3.0,73.0,5346.0
 593.0,Sunday Morning,Maroon 5,pop,2002.0,105.0,83.0,35.0,-5.0,8.0,15.0,319.0,0.0,4.0,73.0,5390.0
 594.0,Twist And Shout - Remastered 2009,The Beatles,beatlesque,1963.0,101.0,98.0,54.0,-3.0,22.0,71.0,255.0,1.0,14.0,73.0,5413.0
 595.0,i'm so tired...,Lauv,dance pop,2019.0,125.0,96.0,59.0,-6.0,8.0,61.0,223.0,0.0,5.0,73.0,5346.0
@@ -1575,7 +1575,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 681.0,Firestone,Kygo,edm,2016.0,80.0,55.0,69.0,-8.0,7.0,61.0,228.0,1.0,12.0,72.0,5298.0
 682.0,Dear Future Husband,Meghan Trainor,dance pop,2015.0,146.0,63.0,79.0,-6.0,13.0,36.0,292.0,14.0,6.0,72.0,5346.0
 683.0,If You Want Love,NF,hip hop,2017.0,158.0,65.0,49.0,-5.0,10.0,77.0,220.0,0.0,3.0,72.0,5024.0
-684.0,Lean On (feat. MÃÂÃÂÃÂÃÂ & DJ Snake),Major Lazer,dance pop,2015.0,146.0,88.0,53.0,-4.0,22.0,44.0,255.0,17.0,3.0,72.0,5346.0
+684.0,Lean On (feat. MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ & DJ Snake),Major Lazer,dance pop,2015.0,146.0,88.0,53.0,-4.0,22.0,44.0,255.0,17.0,3.0,72.0,5346.0
 685.0,Clarity,Zedd,complextro,2012.0,151.0,81.0,58.0,-7.0,22.0,87.0,290.0,3.0,4.0,72.0,2851.0
 686.0,Paris,The Chainsmokers,dance pop,2017.0,75.0,68.0,69.0,-4.0,6.0,55.0,200.0,0.0,5.0,72.0,5346.0
 687.0,Problem,Ariana Grande,dance pop,2014.0,117.0,72.0,49.0,-8.0,29.0,15.0,300.0,31.0,4.0,72.0,5346.0
@@ -1646,7 +1646,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 752.0,Hurt,Johnny Cash,arkansas country,2002.0,126.0,81.0,65.0,-4.0,67.0,72.0,231.0,0.0,4.0,72.0,4588.0
 753.0,The Trooper - 2015 Remaster,Iron Maiden,hard rock,1983.0,98.0,62.0,86.0,-6.0,9.0,67.0,204.0,15.0,8.0,72.0,5253.0
 754.0,Crazy,Aerosmith,album rock,1993.0,114.0,59.0,49.0,-6.0,9.0,19.0,270.0,3.0,5.0,72.0,5431.0
-755.0,Ace of Spades,MotÃÂÃÂÃÂÃÂ¶rhead,album rock,1980.0,114.0,63.0,70.0,-7.0,10.0,41.0,272.0,39.0,4.0,72.0,5431.0
+755.0,Ace of Spades,MotÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rhead,album rock,1980.0,114.0,63.0,70.0,-7.0,10.0,41.0,272.0,39.0,4.0,72.0,5431.0
 756.0,The Boys Are Back In Town,Thin Lizzy,album rock,1996.0,79.0,78.0,66.0,-5.0,32.0,83.0,184.0,38.0,19.0,72.0,5431.0
 757.0,Pretty Fly (For A White Guy),The Offspring,alternative metal,1998.0,116.0,39.0,55.0,-10.0,13.0,25.0,199.0,66.0,13.0,72.0,5306.0
 758.0,Mother,Danzig,alternative metal,1988.0,102.0,62.0,69.0,-5.0,12.0,54.0,210.0,25.0,6.0,72.0,5306.0
@@ -1714,7 +1714,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 820.0,London Boy,Taylor Swift,pop,2019.0,118.0,50.0,66.0,-7.0,10.0,80.0,182.0,80.0,7.0,71.0,5390.0
 821.0,Call It What You Want,Taylor Swift,pop,2017.0,130.0,67.0,72.0,-6.0,12.0,79.0,238.0,4.0,3.0,71.0,5390.0
 822.0,Daylight,Taylor Swift,pop,2019.0,116.0,90.0,40.0,-4.0,29.0,50.0,424.0,58.0,7.0,71.0,5390.0
-823.0,This Love (TaylorÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2022.0,125.0,86.0,60.0,-5.0,9.0,45.0,258.0,0.0,3.0,71.0,5390.0
+823.0,This Love (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2022.0,125.0,86.0,60.0,-5.0,9.0,45.0,258.0,0.0,3.0,71.0,5390.0
 824.0,Dear Reader,Taylor Swift,pop,2022.0,137.0,69.0,55.0,-14.0,14.0,67.0,262.0,2.0,4.0,71.0,5390.0
 825.0,this is me trying,Taylor Swift,pop,2020.0,125.0,92.0,64.0,-6.0,33.0,72.0,234.0,0.0,4.0,71.0,5390.0
 826.0,Glitch,Taylor Swift,pop,2022.0,117.0,48.0,32.0,-9.0,9.0,30.0,270.0,0.0,3.0,71.0,5390.0
@@ -1748,7 +1748,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 854.0,COPYCAT,Billie Eilish,art pop,2017.0,129.0,62.0,61.0,-7.0,12.0,54.0,243.0,10.0,3.0,71.0,5004.0
 855.0,Head Over Boots,Jon Pardi,contemporary country,2015.0,170.0,68.0,57.0,-7.0,9.0,82.0,143.0,46.0,18.0,71.0,5343.0
 856.0,Crazy,Gnarls Barkley,atl hip hop,2006.0,114.0,90.0,62.0,-5.0,9.0,74.0,301.0,17.0,3.0,71.0,5106.0
-857.0,Caroline,AminÃÂÃÂÃÂÃÂ©,hip hop,2016.0,167.0,96.0,39.0,-4.0,11.0,27.0,201.0,0.0,6.0,71.0,5024.0
+857.0,Caroline,AminÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,hip hop,2016.0,167.0,96.0,39.0,-4.0,11.0,27.0,201.0,0.0,6.0,71.0,5024.0
 858.0,I Wanna Love You,Akon,dance pop,2006.0,135.0,80.0,56.0,-8.0,9.0,58.0,245.0,0.0,6.0,71.0,5346.0
 859.0,Apologize,OneRepublic,piano rock,2007.0,95.0,85.0,63.0,-4.0,17.0,63.0,242.0,35.0,5.0,71.0,3769.0
 860.0,Don't Matter,Akon,dance pop,2006.0,119.0,83.0,77.0,-5.0,10.0,96.0,234.0,10.0,3.0,71.0,5346.0
@@ -1772,7 +1772,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 878.0,All My Life,Foo Fighters,alternative metal,2002.0,120.0,63.0,52.0,-6.0,12.0,21.0,203.0,35.0,5.0,71.0,5306.0
 879.0,For Whom The Bell Tolls - Remastered,Metallica,hard rock,1984.0,160.0,42.0,41.0,-8.0,13.0,20.0,186.0,10.0,3.0,71.0,5253.0
 880.0,Take A Look Around,Limp Bizkit,alternative metal,2000.0,118.0,86.0,73.0,-4.0,21.0,70.0,197.0,39.0,5.0,71.0,5306.0
-881.0,"Girls, Girls, Girls",MÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂ¼e,glam metal,1987.0,100.0,51.0,53.0,-8.0,10.0,35.0,210.0,13.0,3.0,71.0,3692.0
+881.0,"Girls, Girls, Girls",MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e,glam metal,1987.0,100.0,51.0,53.0,-8.0,10.0,35.0,210.0,13.0,3.0,71.0,3692.0
 882.0,Hysteria,Muse,modern rock,2004.0,128.0,84.0,60.0,-5.0,7.0,53.0,228.0,0.0,6.0,71.0,5112.0
 883.0,Right Down the Line,Gerry Rafferty,album rock,1978.0,100.0,64.0,64.0,-8.0,32.0,48.0,223.0,27.0,23.0,71.0,5431.0
 884.0,Ordinary World,Duran Duran,dance rock,1993.0,116.0,94.0,56.0,-4.0,11.0,68.0,222.0,5.0,5.0,71.0,3370.0
@@ -1813,14 +1813,14 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 920.0,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,emo,2013.0,96.0,48.0,77.0,-5.0,9.0,80.0,165.0,66.0,4.0,70.0,3462.0
 921.0,"Don't Give Up On Me - (From ""Five Feet Apart"")",Andy Grammer,dance pop,2019.0,127.0,72.0,70.0,-5.0,13.0,86.0,200.0,50.0,4.0,70.0,5346.0
 922.0,Mr. Saxobeat - Radio Edit,Alexandra Stan,dance pop,2011.0,128.0,93.0,57.0,-4.0,6.0,58.0,213.0,20.0,11.0,70.0,5346.0
-923.0,Back To You - From 13 Reasons Why ÃÂÃÂÃÂÃÂ Season 2 Soundtrack,Selena Gomez,dance pop,2018.0,114.0,68.0,64.0,-3.0,8.0,27.0,209.0,8.0,3.0,70.0,5346.0
+923.0,Back To You - From 13 Reasons Why ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Season 2 Soundtrack,Selena Gomez,dance pop,2018.0,114.0,68.0,64.0,-3.0,8.0,27.0,209.0,8.0,3.0,70.0,5346.0
 924.0,Hello,Adele,british soul,2016.0,128.0,41.0,74.0,-8.0,17.0,37.0,190.0,80.0,10.0,70.0,4606.0
 925.0,Here With Me,Marshmello,brostep,2019.0,101.0,48.0,85.0,-7.0,39.0,21.0,230.0,2.0,13.0,70.0,3831.0
 926.0,Superheroes,The Script,celtic rock,2014.0,127.0,56.0,76.0,-5.0,4.0,78.0,232.0,1.0,3.0,70.0,3632.0
 927.0,Roses,The Chainsmokers,dance pop,2015.0,130.0,41.0,63.0,-9.0,15.0,67.0,190.0,29.0,4.0,70.0,5346.0
 928.0,Beautiful People (feat. Khalid),Ed Sheeran,pop,2019.0,133.0,67.0,67.0,-8.0,50.0,78.0,323.0,26.0,5.0,70.0,5390.0
 929.0,Fireball (feat. John Ryan),Pitbull,dance pop,2014.0,94.0,66.0,80.0,-5.0,10.0,26.0,169.0,3.0,7.0,70.0,5346.0
-930.0,Where Are ÃÂÃÂÃÂÃÂ Now (with Justin Bieber),Jack ÃÂÃÂÃÂÃÂ,dance pop,2015.0,101.0,89.0,65.0,-5.0,9.0,55.0,208.0,1.0,3.0,70.0,5346.0
+930.0,Where Are ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Now (with Justin Bieber),Jack ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,dance pop,2015.0,101.0,89.0,65.0,-5.0,9.0,55.0,208.0,1.0,3.0,70.0,5346.0
 931.0,Immortals,Fall Out Boy,emo,2015.0,111.0,27.0,55.0,-8.0,11.0,20.0,117.0,84.0,3.0,70.0,3462.0
 932.0,Gangnam Style (?????),PSY,k-pop,2012.0,152.0,80.0,34.0,-5.0,14.0,40.0,242.0,2.0,4.0,70.0,5133.0
 933.0,Party Rock Anthem,LMFAO,dance pop,2011.0,177.0,76.0,58.0,-6.0,25.0,66.0,201.0,16.0,12.0,70.0,5346.0
@@ -1843,11 +1843,11 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 951.0,Paparazzi,Lady Gaga,art pop,2008.0,144.0,83.0,62.0,-10.0,6.0,94.0,219.0,0.0,6.0,70.0,5004.0
 952.0,The Only Exception,Paramore,candy pop,2009.0,164.0,96.0,36.0,-6.0,16.0,49.0,154.0,2.0,9.0,70.0,4360.0
 953.0,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,pop,2018.0,129.0,67.0,62.0,-10.0,33.0,78.0,212.0,0.0,4.0,70.0,5390.0
-954.0,Nothing New (feat. Phoebe Bridgers) (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,102.0,70.0,44.0,-9.0,12.0,41.0,447.0,0.0,6.0,70.0,5390.0
+954.0,Nothing New (feat. Phoebe Bridgers) (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,102.0,70.0,44.0,-9.0,12.0,41.0,447.0,0.0,6.0,70.0,5390.0
 955.0,I Think He Knows,Taylor Swift,pop,2019.0,139.0,58.0,54.0,-10.0,25.0,24.0,386.0,1.0,3.0,70.0,5390.0
 956.0,Cornelia Street,Taylor Swift,pop,2019.0,147.0,70.0,59.0,-10.0,3.0,90.0,295.0,6.0,4.0,70.0,5390.0
 957.0,Death By A Thousand Cuts,Taylor Swift,pop,2019.0,147.0,61.0,39.0,-8.0,9.0,53.0,426.0,1.0,3.0,70.0,5390.0
-958.0,I Bet You Think About Me (feat. Chris Stapleton) (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,116.0,67.0,70.0,-9.0,6.0,56.0,378.0,52.0,21.0,70.0,5390.0
+958.0,I Bet You Think About Me (feat. Chris Stapleton) (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,116.0,67.0,70.0,-9.0,6.0,56.0,378.0,52.0,21.0,70.0,5390.0
 959.0,"December, 1963 (Oh What a Night!)",Frankie Valli & The Four Seasons,adult standards,1975.0,119.0,91.0,28.0,-6.0,18.0,26.0,270.0,3.0,11.0,70.0,5428.0
 960.0,Valentine,Laufey,gen z singer-songwriter,2022.0,140.0,89.0,61.0,-5.0,7.0,51.0,247.0,0.0,6.0,70.0,4038.0
 961.0,"Take Me Home, Country Roads",John Denver,adult standards,1971.0,107.0,87.0,39.0,-5.0,27.0,30.0,312.0,1.0,5.0,70.0,5428.0
@@ -1930,7 +1930,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1038.0,I Hate Everything About You,Three Days Grace,alternative metal,2003.0,116.0,54.0,69.0,-8.0,11.0,58.0,191.0,18.0,3.0,70.0,5306.0
 1039.0,The Lazy Song,Bruno Mars,dance pop,2010.0,73.0,21.0,71.0,-10.0,13.0,36.0,152.0,85.0,4.0,70.0,5346.0
 1040.0,SOLO,JENNIE,k-pop,2018.0,77.0,57.0,61.0,-7.0,10.0,33.0,197.0,28.0,3.0,70.0,5133.0
-1041.0,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",SofÃÂÃÂÃÂÃÂ­a Reyes,dance pop,2018.0,127.0,72.0,71.0,-4.0,8.0,66.0,198.0,0.0,3.0,70.0,5346.0
+1041.0,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",SofÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a Reyes,dance pop,2018.0,127.0,72.0,71.0,-4.0,8.0,66.0,198.0,0.0,3.0,70.0,5346.0
 1042.0,One More Light,Linkin Park,alternative metal,2017.0,110.0,41.0,50.0,-6.0,11.0,45.0,182.0,75.0,3.0,70.0,5306.0
 1043.0,SOS (feat. Aloe Blacc),Avicii,dance pop,2019.0,132.0,84.0,71.0,-4.0,7.0,86.0,220.0,0.0,4.0,70.0,5346.0
 1044.0,DNA,BTS,k-pop,2017.0,194.0,74.0,32.0,-6.0,11.0,45.0,230.0,3.0,27.0,70.0,5133.0
@@ -1949,14 +1949,14 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1057.0,Holy (feat. Chance The Rapper),Justin Bieber,canadian pop,2020.0,83.0,20.0,47.0,-13.0,11.0,22.0,169.0,92.0,5.0,70.0,4401.0
 1058.0,Don't Cha,The Pussycat Dolls,dance pop,2005.0,82.0,40.0,46.0,-9.0,12.0,63.0,190.0,76.0,3.0,70.0,5346.0
 1059.0,On The Floor - Radio Edit,Jennifer Lopez,dance pop,2011.0,103.0,88.0,76.0,-9.0,22.0,95.0,175.0,36.0,4.0,70.0,5346.0
-1060.0,Run the World (Girls),BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2011.0,107.0,46.0,74.0,-14.0,5.0,89.0,222.0,13.0,3.0,70.0,5346.0
+1060.0,Run the World (Girls),BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2011.0,107.0,46.0,74.0,-14.0,5.0,89.0,222.0,13.0,3.0,70.0,5346.0
 1061.0,Love Song,Sara Bareilles,acoustic pop,2007.0,87.0,67.0,63.0,-6.0,21.0,66.0,211.0,30.0,26.0,69.0,5153.0
 1062.0,Since U Been Gone,Kelly Clarkson,dance pop,2004.0,78.0,37.0,43.0,-8.0,8.0,66.0,155.0,69.0,8.0,69.0,5346.0
 1063.0,Who Knew,P!nk,dance pop,2010.0,120.0,68.0,77.0,-6.0,68.0,81.0,276.0,28.0,22.0,69.0,5346.0
 1064.0,illicit affairs,Taylor Swift,pop,2020.0,84.0,63.0,48.0,-5.0,15.0,52.0,195.0,8.0,12.0,69.0,5390.0
 1065.0,I Forgot That You Existed,Taylor Swift,pop,2019.0,131.0,72.0,49.0,-6.0,31.0,87.0,146.0,39.0,5.0,69.0,5390.0
 1066.0,The Archer,Taylor Swift,pop,2019.0,95.0,69.0,63.0,-8.0,13.0,65.0,253.0,8.0,5.0,69.0,5390.0
-1067.0,VIRGO'S GROOVE,BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2022.0,136.0,44.0,66.0,-16.0,17.0,77.0,181.0,74.0,6.0,69.0,5346.0
+1067.0,VIRGO'S GROOVE,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2022.0,136.0,44.0,66.0,-16.0,17.0,77.0,181.0,74.0,6.0,69.0,5346.0
 1068.0,Something - Remastered 2009,The Beatles,beatlesque,1969.0,105.0,24.0,40.0,-10.0,16.0,20.0,280.0,73.0,3.0,69.0,5413.0
 1069.0,Secrets,The Weeknd,canadian contemporary r&b,2016.0,177.0,23.0,39.0,-11.0,11.0,49.0,269.0,95.0,6.0,69.0,4560.0
 1070.0,"Honey, I'm Good.",Andy Grammer,dance pop,2014.0,150.0,66.0,62.0,-7.0,21.0,29.0,227.0,10.0,3.0,69.0,5346.0
@@ -1978,7 +1978,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1086.0,Taste (feat. Offset),Tyga,dance pop,2018.0,163.0,94.0,33.0,-3.0,15.0,33.0,290.0,7.0,6.0,69.0,5346.0
 1087.0,Spirits,The Strumbellas,canadian indie,2016.0,120.0,47.0,79.0,-13.0,15.0,82.0,331.0,22.0,8.0,69.0,3121.0
 1088.0,Empire State of Mind (Part II) Broken Down,Alicia Keys,hip pop,2009.0,104.0,77.0,47.0,-7.0,27.0,17.0,271.0,0.0,4.0,69.0,4504.0
-1089.0,Irreplaceable,BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2007.0,123.0,66.0,68.0,-6.0,6.0,49.0,257.0,0.0,4.0,69.0,5346.0
+1089.0,Irreplaceable,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2007.0,123.0,66.0,68.0,-6.0,6.0,49.0,257.0,0.0,4.0,69.0,5346.0
 1090.0,Roses,Outkast,atl hip hop,2003.0,99.0,76.0,38.0,-11.0,10.0,49.0,274.0,0.0,4.0,69.0,5106.0
 1091.0,"Psycho, Pt. 2",Russ,hawaiian hip hop,2016.0,126.0,54.0,47.0,-10.0,27.0,79.0,383.0,2.0,14.0,69.0,4613.0
 1092.0,That's My Kind Of Night,Luke Bryan,contemporary country,2013.0,174.0,97.0,40.0,-3.0,23.0,26.0,245.0,0.0,18.0,69.0,5343.0
@@ -2077,10 +2077,10 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1189.0,Miss Americana & The Heartbreak Prince,Taylor Swift,pop,2019.0,105.0,54.0,84.0,-9.0,11.0,11.0,195.0,56.0,5.0,68.0,5390.0
 1190.0,False God,Taylor Swift,pop,2019.0,99.0,86.0,76.0,-4.0,28.0,82.0,233.0,12.0,7.0,68.0,5390.0
 1191.0,Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,pop,2021.0,161.0,91.0,51.0,-2.0,78.0,62.0,254.0,6.0,41.0,68.0,5390.0
-1192.0,Mr. Perfectly Fine (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,97.0,46.0,54.0,-7.0,6.0,39.0,173.0,58.0,3.0,68.0,5390.0
+1192.0,Mr. Perfectly Fine (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,97.0,46.0,54.0,-7.0,6.0,39.0,173.0,58.0,3.0,68.0,5390.0
 1193.0,invisible string,Taylor Swift,pop,2020.0,124.0,39.0,61.0,-11.0,11.0,20.0,256.0,53.0,4.0,68.0,5390.0
 1194.0,Dancing With Our Hands Tied,Taylor Swift,pop,2017.0,98.0,56.0,88.0,-7.0,10.0,34.0,233.0,2.0,12.0,68.0,5390.0
-1195.0,Everything Has Changed (feat. Ed Sheeran) (TaylorÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,81.0,66.0,56.0,-6.0,11.0,79.0,204.0,17.0,3.0,68.0,5390.0
+1195.0,Everything Has Changed (feat. Ed Sheeran) (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,81.0,66.0,56.0,-6.0,11.0,79.0,204.0,17.0,3.0,68.0,5390.0
 1196.0,The Very First Night (Taylor's Version) (From The Vault),Taylor Swift,pop,2021.0,93.0,37.0,48.0,-8.0,12.0,14.0,216.0,74.0,3.0,68.0,5390.0
 1197.0,Englishman In New York,Sting,permanent wave,1987.0,176.0,69.0,45.0,-5.0,17.0,51.0,228.0,3.0,38.0,68.0,4371.0
 1198.0,Everything I Own,Bread,adult standards,1972.0,109.0,71.0,75.0,-6.0,11.0,51.0,370.0,5.0,5.0,68.0,5428.0
@@ -2116,7 +2116,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1228.0,Maple Syrup,The Backseat Lovers,indie pop,2019.0,136.0,86.0,46.0,-4.0,6.0,53.0,301.0,13.0,9.0,68.0,5304.0
 1229.0,Intimidated (feat. H.E.R.),KAYTRANADA,escape room,2021.0,121.0,63.0,62.0,-8.0,15.0,90.0,244.0,34.0,3.0,68.0,4516.0
 1230.0,Ghostride,Crumb,indie garage rock,2019.0,110.0,75.0,58.0,-5.0,75.0,58.0,217.0,1.0,3.0,68.0,4610.0
-1231.0,CariÃÂÃÂÃÂÃÂ±o,The MarÃÂÃÂÃÂÃÂ­as,bedroom pop,2018.0,92.0,94.0,40.0,-3.0,36.0,24.0,343.0,1.0,6.0,68.0,5056.0
+1231.0,CariÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±o,The MarÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­as,bedroom pop,2018.0,92.0,94.0,40.0,-3.0,36.0,24.0,343.0,1.0,6.0,68.0,5056.0
 1232.0,Buzzcut Season,Lorde,art pop,2013.0,109.0,85.0,28.0,-6.0,18.0,29.0,318.0,4.0,4.0,68.0,5004.0
 1233.0,sail away,lovelytheband,indie poptimism,2022.0,113.0,63.0,45.0,-12.0,9.0,36.0,233.0,8.0,3.0,68.0,4623.0
 1234.0,I'm In Love With You,The 1975,modern alternative rock,2022.0,123.0,91.0,50.0,-6.0,38.0,58.0,225.0,0.0,5.0,68.0,4907.0
@@ -2201,7 +2201,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1314.0,Turn Down for What,DJ Snake,dance pop,2013.0,167.0,83.0,29.0,-3.0,30.0,45.0,493.0,0.0,4.0,67.0,5346.0
 1315.0,Come & Get It,Selena Gomez,dance pop,2013.0,85.0,59.0,78.0,-7.0,4.0,85.0,183.0,5.0,8.0,67.0,5346.0
 1316.0,Body Like A Back Road,Sam Hunt,contemporary country,2020.0,88.0,82.0,69.0,-4.0,33.0,74.0,196.0,9.0,7.0,67.0,5343.0
-1317.0,Cold Water (feat. Justin Bieber & MÃÂÃÂÃÂÃÂ),Major Lazer,dance pop,2016.0,172.0,81.0,60.0,-5.0,20.0,81.0,167.0,20.0,4.0,67.0,5346.0
+1317.0,Cold Water (feat. Justin Bieber & MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ),Major Lazer,dance pop,2016.0,172.0,81.0,60.0,-5.0,20.0,81.0,167.0,20.0,4.0,67.0,5346.0
 1318.0,Most Girls,Hailee Steinfeld,dance pop,2017.0,113.0,64.0,71.0,-4.0,9.0,25.0,268.0,21.0,3.0,67.0,5346.0
 1319.0,Cheap Thrills,Sia,australian dance,2016.0,125.0,59.0,94.0,-7.0,13.0,24.0,255.0,1.0,13.0,67.0,4783.0
 1320.0,Fallin' All In You,Shawn Mendes,canadian pop,2018.0,100.0,60.0,59.0,-7.0,20.0,23.0,325.0,34.0,4.0,67.0,4401.0
@@ -2212,7 +2212,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1325.0,Back To December,Taylor Swift,pop,2010.0,72.0,54.0,60.0,-7.0,16.0,27.0,225.0,65.0,11.0,67.0,5390.0
 1326.0,gold rush,Taylor Swift,pop,2020.0,126.0,39.0,93.0,-9.0,14.0,38.0,179.0,9.0,41.0,67.0,5390.0
 1327.0,betty,Taylor Swift,pop,2020.0,128.0,34.0,69.0,-8.0,6.0,57.0,321.0,35.0,6.0,67.0,5390.0
-1328.0,Run (feat. Ed Sheeran) (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,102.0,76.0,62.0,-6.0,31.0,62.0,221.0,6.0,3.0,67.0,5390.0
+1328.0,Run (feat. Ed Sheeran) (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,102.0,76.0,62.0,-6.0,31.0,62.0,221.0,6.0,3.0,67.0,5390.0
 1329.0,My Way - 2008 Remastered,Frank Sinatra,adult standards,2008.0,123.0,72.0,72.0,-2.0,14.0,46.0,216.0,31.0,3.0,67.0,5428.0
 1330.0,Can't Take My Eyes off You,Frankie Valli,adult standards,1967.0,99.0,46.0,73.0,-7.0,14.0,66.0,165.0,45.0,3.0,67.0,5428.0
 1331.0,Another One,Mac DeMarco,edmonton indie,2015.0,139.0,91.0,69.0,-5.0,11.0,80.0,190.0,2.0,18.0,67.0,2216.0
@@ -2254,7 +2254,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1368.0,Show Me How to Live,Audioslave,alternative metal,2002.0,173.0,87.0,33.0,-8.0,46.0,49.0,508.0,21.0,12.0,67.0,5306.0
 1369.0,Rooster (2022 Remaster),Alice In Chains,alternative metal,1992.0,139.0,77.0,55.0,-9.0,13.0,42.0,253.0,0.0,3.0,67.0,5306.0
 1370.0,Yellow Ledbetter,Pearl Jam,grunge,1991.0,117.0,96.0,57.0,-5.0,12.0,98.0,255.0,5.0,3.0,67.0,5020.0
-1371.0,Dr. Feelgood,MÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂ¼e,glam metal,1989.0,118.0,93.0,55.0,-2.0,28.0,70.0,262.0,0.0,6.0,67.0,3692.0
+1371.0,Dr. Feelgood,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e,glam metal,1989.0,118.0,93.0,55.0,-2.0,28.0,70.0,262.0,0.0,6.0,67.0,3692.0
 1372.0,Runnin' Down A Dream,Tom Petty,album rock,1989.0,85.0,80.0,32.0,-7.0,18.0,74.0,209.0,0.0,12.0,67.0,5431.0
 1373.0,Nookie,Limp Bizkit,alternative metal,1999.0,135.0,55.0,44.0,-12.0,11.0,72.0,200.0,13.0,3.0,67.0,5306.0
 1374.0,Send Me An Angel,Scorpions,album rock,1990.0,94.0,61.0,64.0,-13.0,21.0,89.0,224.0,25.0,3.0,67.0,5431.0
@@ -2280,7 +2280,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1394.0,You Got It,Roy Orbison,adult standards,1989.0,115.0,65.0,45.0,-9.0,17.0,70.0,285.0,2.0,3.0,67.0,5428.0
 1395.0,Bitch,Meredith Brooks,lilith,1997.0,101.0,21.0,41.0,-13.0,14.0,17.0,202.0,58.0,3.0,67.0,2891.0
 1396.0,Times Like These,Foo Fighters,alternative metal,2002.0,117.0,72.0,61.0,-8.0,10.0,56.0,266.0,1.0,4.0,67.0,5306.0
-1397.0,Home Sweet Home,MÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂ¼e,glam metal,1985.0,185.0,52.0,72.0,-11.0,8.0,97.0,203.0,7.0,12.0,67.0,3692.0
+1397.0,Home Sweet Home,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e,glam metal,1985.0,185.0,52.0,72.0,-11.0,8.0,97.0,203.0,7.0,12.0,67.0,3692.0
 1398.0,Dude (Looks Like A Lady),Aerosmith,album rock,1987.0,140.0,64.0,53.0,-6.0,37.0,29.0,260.0,16.0,3.0,67.0,5431.0
 1399.0,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,alternative rock,1987.0,110.0,61.0,66.0,-10.0,8.0,77.0,292.0,6.0,3.0,67.0,5432.0
 1400.0,Cold as Ice,Foreigner,album rock,1977.0,80.0,21.0,15.0,-14.0,12.0,26.0,293.0,82.0,3.0,67.0,5431.0
@@ -2312,7 +2312,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1427.0,Water Under the Bridge,Adele,british soul,2015.0,100.0,80.0,82.0,-4.0,6.0,8.0,214.0,0.0,16.0,67.0,4606.0
 1428.0,Strip That Down (feat. Quavo),Liam Payne,dance pop,2019.0,80.0,79.0,55.0,-4.0,8.0,57.0,232.0,1.0,5.0,67.0,5346.0
 1429.0,Heavydirtysoul,Twenty One Pilots,modern rock,2015.0,99.0,46.0,74.0,-7.0,15.0,65.0,163.0,44.0,3.0,67.0,5112.0
-1430.0,Friends (with BloodPopÃÂÃÂÃÂÃÂ®),Justin Bieber,canadian pop,2017.0,93.0,80.0,61.0,-5.0,16.0,50.0,185.0,7.0,4.0,67.0,4401.0
+1430.0,Friends (with BloodPopÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ®),Justin Bieber,canadian pop,2017.0,93.0,80.0,61.0,-5.0,16.0,50.0,185.0,7.0,4.0,67.0,4401.0
 1431.0,Really Don't Care,Demi Lovato,dance pop,2013.0,103.0,57.0,76.0,-7.0,9.0,42.0,204.0,5.0,8.0,67.0,5346.0
 1432.0,Rainbow,Kacey Musgraves,country dawn,2018.0,90.0,70.0,63.0,-6.0,9.0,73.0,212.0,5.0,11.0,67.0,2315.0
 1433.0,Born To Be Yours,Kygo,edm,2018.0,92.0,48.0,85.0,-7.0,11.0,80.0,236.0,41.0,4.0,67.0,5298.0
@@ -2349,7 +2349,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1464.0,Sexy And I Know It,LMFAO,dance pop,2011.0,101.0,48.0,36.0,-7.0,12.0,14.0,259.0,68.0,3.0,66.0,5346.0
 1465.0,the last great american dynasty,Taylor Swift,pop,2020.0,115.0,94.0,57.0,-3.0,32.0,58.0,203.0,1.0,4.0,66.0,5390.0
 1466.0,Babe (Taylor's Version) (From The Vault),Taylor Swift,pop,2021.0,137.0,74.0,71.0,-4.0,23.0,43.0,252.0,11.0,13.0,66.0,5390.0
-1467.0,You Belong With Me (TaylorÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,148.0,66.0,73.0,-6.0,19.0,56.0,288.0,10.0,30.0,66.0,5390.0
+1467.0,You Belong With Me (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,148.0,66.0,73.0,-6.0,19.0,56.0,288.0,10.0,30.0,66.0,5390.0
 1468.0,seven,Taylor Swift,pop,2020.0,115.0,66.0,78.0,-7.0,4.0,35.0,323.0,11.0,10.0,66.0,5390.0
 1469.0,Arms Tonite,Mother Mother,vancouver indie,2008.0,143.0,89.0,59.0,-4.0,16.0,65.0,240.0,2.0,12.0,66.0,4663.0
 1470.0,I'm Not In Love,10cc,album rock,1975.0,168.0,84.0,39.0,-2.0,30.0,23.0,239.0,16.0,19.0,66.0,5431.0
@@ -2420,7 +2420,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1535.0,Without You,Harry Nilsson,art rock,1971.0,111.0,80.0,59.0,-7.0,8.0,66.0,329.0,33.0,5.0,66.0,5423.0
 1536.0,Changes - 2015 Remaster,David Bowie,art rock,1971.0,137.0,96.0,37.0,-5.0,12.0,21.0,366.0,0.0,14.0,66.0,5423.0
 1537.0,Celebrity Skin,Hole,alternative rock,1998.0,95.0,72.0,48.0,-7.0,19.0,56.0,370.0,73.0,3.0,66.0,5432.0
-1538.0,Shout At The Devil,MÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂ¼e,glam metal,1983.0,93.0,64.0,39.0,-5.0,30.0,13.0,293.0,0.0,3.0,66.0,3692.0
+1538.0,Shout At The Devil,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e,glam metal,1983.0,93.0,64.0,39.0,-5.0,30.0,13.0,293.0,0.0,3.0,66.0,3692.0
 1539.0,What It's Like,Everlast,rap rock,1998.0,144.0,91.0,62.0,-3.0,34.0,69.0,252.0,5.0,4.0,66.0,2422.0
 1540.0,I Want You to Want Me,Cheap Trick,album rock,1977.0,131.0,77.0,49.0,-5.0,20.0,39.0,277.0,1.0,3.0,66.0,5431.0
 1541.0,Kids In America,Kim Wilde,europop,1981.0,115.0,83.0,69.0,-5.0,10.0,68.0,224.0,1.0,3.0,66.0,4128.0
@@ -2457,7 +2457,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1572.0,Love Talk - English Version,WayV,chinese idol pop,2019.0,92.0,80.0,65.0,-4.0,15.0,57.0,212.0,19.0,5.0,66.0,2455.0
 1573.0,I Miss You (feat. Julia Michaels),Clean Bandit,dance pop,2018.0,95.0,80.0,56.0,-5.0,20.0,47.0,238.0,8.0,11.0,66.0,5346.0
 1574.0,Daylight,Maroon 5,pop,2021.0,192.0,73.0,67.0,-6.0,6.0,73.0,210.0,1.0,27.0,66.0,5390.0
-1575.0,Wavin' Flag - Coca-ColaÃÂÃÂÃÂÃÂ® Celebration Mix,K'NAAN,reggae fusion,2009.0,154.0,36.0,54.0,-9.0,11.0,49.0,185.0,77.0,6.0,66.0,2754.0
+1575.0,Wavin' Flag - Coca-ColaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ® Celebration Mix,K'NAAN,reggae fusion,2009.0,154.0,36.0,54.0,-9.0,11.0,49.0,185.0,77.0,6.0,66.0,2754.0
 1576.0,Uma Thurman,Fall Out Boy,emo,2015.0,95.0,72.0,91.0,-4.0,5.0,38.0,200.0,9.0,7.0,66.0,3462.0
 1577.0,broken,lovelytheband,indie poptimism,2018.0,96.0,64.0,63.0,-6.0,22.0,73.0,197.0,0.0,3.0,66.0,4623.0
 1578.0,Easier,5 Seconds of Summer,boy band,2020.0,110.0,92.0,93.0,-2.0,2.0,90.0,200.0,35.0,9.0,66.0,4126.0
@@ -2518,7 +2518,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1633.0,Young Blood,The Naked And Famous,alternative dance,2010.0,107.0,79.0,47.0,-7.0,28.0,47.0,382.0,0.0,4.0,65.0,5416.0
 1634.0,Right Side of My Neck,Faye Webster,atlanta indie,2019.0,161.0,73.0,44.0,-8.0,17.0,57.0,253.0,26.0,14.0,65.0,2517.0
 1635.0,Hello?,Clairo,bedroom pop,2018.0,103.0,77.0,71.0,-4.0,47.0,86.0,259.0,3.0,3.0,65.0,5056.0
-1636.0,Wild Side,MÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂ¼e,glam metal,1987.0,149.0,67.0,39.0,-8.0,7.0,19.0,307.0,0.0,3.0,65.0,3692.0
+1636.0,Wild Side,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶tley CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e,glam metal,1987.0,149.0,67.0,39.0,-8.0,7.0,19.0,307.0,0.0,3.0,65.0,3692.0
 1637.0,Live Is Life (Digitally Remastered) (Single Version),Opus,austropop,2011.0,106.0,86.0,73.0,-6.0,25.0,47.0,231.0,2.0,30.0,65.0,2743.0
 1638.0,Forty Six & 2,TOOL,alternative metal,1996.0,145.0,62.0,54.0,-10.0,41.0,68.0,176.0,28.0,18.0,65.0,5306.0
 1639.0,Love Hurts - Single Edit,Nazareth,album rock,1975.0,109.0,59.0,57.0,-8.0,69.0,36.0,306.0,67.0,6.0,65.0,5431.0
@@ -2604,15 +2604,15 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1719.0,Blow Me (One Last Kiss),P!nk,dance pop,2012.0,125.0,39.0,48.0,-11.0,12.0,52.0,269.0,37.0,3.0,65.0,5346.0
 1720.0,ivy,Taylor Swift,pop,2020.0,105.0,49.0,73.0,-8.0,14.0,31.0,221.0,28.0,4.0,65.0,5390.0
 1721.0,You Are In Love,Taylor Swift,pop,2014.0,174.0,63.0,39.0,-5.0,10.0,38.0,252.0,3.0,3.0,64.0,5390.0
-1722.0,ItÃÂÃÂÃÂÃÂs Nice To Have A Friend,Taylor Swift,pop,2019.0,132.0,24.0,62.0,-14.0,14.0,59.0,202.0,80.0,4.0,64.0,5390.0
-1723.0,Carolina - From The Motion Picture ÃÂÃÂÃÂÃÂWhere The Crawdads SingÃÂÃÂÃÂÃÂ,Taylor Swift,pop,2022.0,116.0,34.0,55.0,-9.0,10.0,47.0,155.0,75.0,3.0,64.0,5390.0
-1724.0,Soon YouÃÂÃÂÃÂÃÂll Get Better (feat. The Chicks),Taylor Swift,pop,2019.0,153.0,98.0,51.0,-6.0,9.0,94.0,295.0,2.0,4.0,64.0,5390.0
+1722.0,ItÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Nice To Have A Friend,Taylor Swift,pop,2019.0,132.0,24.0,62.0,-14.0,14.0,59.0,202.0,80.0,4.0,64.0,5390.0
+1723.0,Carolina - From The Motion Picture ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWhere The Crawdads SingÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Taylor Swift,pop,2022.0,116.0,34.0,55.0,-9.0,10.0,47.0,155.0,75.0,3.0,64.0,5390.0
+1724.0,Soon YouÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂll Get Better (feat. The Chicks),Taylor Swift,pop,2019.0,153.0,98.0,51.0,-6.0,9.0,94.0,295.0,2.0,4.0,64.0,5390.0
 1725.0,Andromeda,Weyes Blood,art pop,2019.0,156.0,91.0,64.0,-6.0,60.0,92.0,175.0,6.0,11.0,64.0,5004.0
 1726.0,If,Bread,adult standards,1971.0,127.0,25.0,59.0,-13.0,11.0,59.0,224.0,45.0,4.0,64.0,5428.0
 1727.0,Perfect Day,Lou Reed,art rock,1972.0,128.0,34.0,71.0,-11.0,39.0,67.0,165.0,93.0,5.0,64.0,5423.0
 1728.0,Everybody's Talkin',Harry Nilsson,art rock,1985.0,136.0,18.0,35.0,-14.0,14.0,18.0,192.0,92.0,3.0,64.0,5423.0
 1729.0,Harvest Moon,Neil Young,canadian singer-songwriter,2010.0,167.0,58.0,65.0,-10.0,7.0,92.0,146.0,41.0,8.0,64.0,5284.0
-1730.0,If I Were a Boy,BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2008.0,102.0,88.0,70.0,-4.0,8.0,80.0,174.0,46.0,5.0,64.0,5346.0
+1730.0,If I Were a Boy,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2008.0,102.0,88.0,70.0,-4.0,8.0,80.0,174.0,46.0,5.0,64.0,5346.0
 1731.0,Everybody Loves Somebody,Dean Martin,adult standards,1964.0,77.0,58.0,45.0,-10.0,24.0,70.0,174.0,43.0,8.0,64.0,5428.0
 1732.0,All The Right Moves,OneRepublic,piano rock,2009.0,94.0,70.0,63.0,-5.0,8.0,54.0,261.0,17.0,2.0,64.0,3769.0
 1733.0,Please Don't Go,Mike Posner,dance pop,2010.0,100.0,57.0,70.0,-9.0,48.0,41.0,179.0,46.0,11.0,64.0,5346.0
@@ -2677,7 +2677,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1792.0,Let Me Entertain You,Robbie Williams,dance rock,1997.0,106.0,55.0,49.0,-12.0,7.0,66.0,257.0,2.0,3.0,64.0,3370.0
 1793.0,Here It Goes Again,OK Go,alternative rock,2005.0,126.0,67.0,45.0,-8.0,8.0,27.0,269.0,17.0,4.0,64.0,5432.0
 1794.0,Take The Money And Run,Steve Miller Band,album rock,1976.0,67.0,46.0,56.0,-7.0,10.0,15.0,356.0,50.0,3.0,64.0,5431.0
-1795.0,Burnin' for You,Blue ÃÂÃÂÃÂÃÂyster Cult,album rock,1981.0,147.0,77.0,52.0,-13.0,46.0,77.0,221.0,2.0,3.0,64.0,5431.0
+1795.0,Burnin' for You,Blue ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂyster Cult,album rock,1981.0,147.0,77.0,52.0,-13.0,46.0,77.0,221.0,2.0,3.0,64.0,5431.0
 1796.0,If You Could Only See,Tonic,alternative metal,1996.0,160.0,80.0,49.0,-10.0,7.0,97.0,174.0,27.0,4.0,64.0,5306.0
 1797.0,Brass in Pocket - 2006 Remaster,Pretenders,album rock,1980.0,129.0,97.0,58.0,-3.0,35.0,53.0,225.0,2.0,8.0,64.0,5431.0
 1798.0,Get Back - Remastered 2009,The Beatles,beatlesque,1970.0,115.0,95.0,68.0,-5.0,5.0,93.0,220.0,1.0,6.0,64.0,5413.0
@@ -2731,13 +2731,13 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1846.0,MISS ME,Arizona Zervas,pop,2023.0,92.0,71.0,56.0,-5.0,11.0,39.0,225.0,0.0,5.0,64.0,5390.0
 1847.0,Christmas Tree Farm,Taylor Swift,pop,2019.0,136.0,72.0,63.0,-6.0,12.0,42.0,177.0,3.0,3.0,64.0,5390.0
 1848.0,mad woman,Taylor Swift,pop,2020.0,115.0,51.0,64.0,-6.0,21.0,45.0,167.0,34.0,31.0,64.0,5390.0
-1849.0,itÃÂÃÂÃÂÃÂs time to go - bonus track,Taylor Swift,pop,2021.0,96.0,65.0,83.0,-3.0,9.0,93.0,234.0,58.0,8.0,64.0,5390.0
-1850.0,White Horse (TaylorÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,141.0,78.0,58.0,-5.0,28.0,36.0,224.0,1.0,3.0,64.0,5390.0
+1849.0,itÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs time to go - bonus track,Taylor Swift,pop,2021.0,96.0,65.0,83.0,-3.0,9.0,93.0,234.0,58.0,8.0,64.0,5390.0
+1850.0,White Horse (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version),Taylor Swift,pop,2021.0,141.0,78.0,58.0,-5.0,28.0,36.0,224.0,1.0,3.0,64.0,5390.0
 1851.0,"no body, no crime (feat. HAIM)",Taylor Swift,pop,2020.0,114.0,92.0,60.0,-3.0,28.0,73.0,256.0,0.0,4.0,64.0,5390.0
 1852.0,I Wish You Would,Taylor Swift,pop,2014.0,172.0,69.0,57.0,-6.0,7.0,72.0,193.0,3.0,18.0,64.0,5390.0
 1853.0,Mine,Taylor Swift,pop,2010.0,89.0,55.0,52.0,-9.0,9.0,54.0,260.0,86.0,4.0,64.0,5390.0
 1854.0,peace,Taylor Swift,pop,2020.0,170.0,48.0,47.0,-9.0,9.0,32.0,267.0,71.0,6.0,64.0,5390.0
-1855.0,ÃÂÃÂÃÂÃÂguas De MarÃÂÃÂÃÂÃÂ§o,Elis Regina,bossa nova,1974.0,70.0,18.0,74.0,-10.0,17.0,55.0,150.0,97.0,4.0,64.0,4985.0
+1855.0,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂguas De MarÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§o,Elis Regina,bossa nova,1974.0,70.0,18.0,74.0,-10.0,17.0,55.0,150.0,97.0,4.0,64.0,4985.0
 1856.0,Harness Your Hopes - B-side,Pavement,alternative rock,2008.0,116.0,19.0,48.0,-14.0,25.0,32.0,264.0,90.0,3.0,64.0,5432.0
 1857.0,"Lover, You Should've Come Over",Jeff Buckley,alternative rock,1994.0,207.0,18.0,43.0,-13.0,12.0,42.0,202.0,91.0,6.0,64.0,5432.0
 1858.0,Goodbye Stranger - 2010 Remastered,Supertramp,album rock,1979.0,131.0,46.0,47.0,-8.0,36.0,19.0,280.0,37.0,3.0,64.0,5431.0
@@ -2843,7 +2843,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1958.0,Amnesia,5 Seconds of Summer,boy band,2014.0,147.0,96.0,44.0,-6.0,14.0,91.0,207.0,0.0,5.0,63.0,4126.0
 1959.0,No One Compares To You,Jack & Jack,dance pop,2019.0,174.0,91.0,56.0,-5.0,12.0,58.0,226.0,16.0,5.0,63.0,5346.0
 1960.0,Hideaway,Kiesza,electropop,2014.0,130.0,85.0,74.0,-4.0,17.0,93.0,234.0,15.0,4.0,63.0,5391.0
-1961.0,Watch Me (Whip / Nae Nae),SilentÃÂÃÂÃÂÃÂ³,chicago bop,2015.0,77.0,49.0,49.0,-6.0,19.0,22.0,230.0,58.0,3.0,63.0,2844.0
+1961.0,Watch Me (Whip / Nae Nae),SilentÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³,chicago bop,2015.0,77.0,49.0,49.0,-6.0,19.0,22.0,230.0,58.0,3.0,63.0,2844.0
 1962.0,I Wanna Know (feat. Bea Miller),NOTD,alt z,2018.0,78.0,51.0,52.0,-7.0,10.0,17.0,202.0,28.0,3.0,63.0,5117.0
 1963.0,I Want You To Know,Zedd,complextro,2015.0,99.0,50.0,68.0,-6.0,9.0,42.0,237.0,15.0,8.0,63.0,2851.0
 1964.0,No Promises (feat. Demi Lovato),Cheat Codes,dance pop,2017.0,128.0,61.0,80.0,-6.0,7.0,40.0,280.0,0.0,6.0,63.0,5346.0
@@ -2853,9 +2853,9 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1968.0,Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,complextro,2012.0,108.0,38.0,96.0,-7.0,13.0,33.0,145.0,17.0,5.0,63.0,2851.0
 1969.0,HandClap,Fitz and The Tantrums,la indie,2017.0,95.0,83.0,88.0,-4.0,7.0,47.0,191.0,22.0,9.0,63.0,4246.0
 1970.0,Weak,AJR,pop rock,2017.0,168.0,57.0,46.0,-6.0,10.0,19.0,185.0,24.0,5.0,63.0,5282.0
-1971.0,Cups (Pitch PerfectÃÂÃÂÃÂÃÂs ÃÂÃÂÃÂÃÂWhen IÃÂÃÂÃÂÃÂm GoneÃÂÃÂÃÂÃÂ) - Pop Version,Anna Kendrick,hollywood,2015.0,121.0,41.0,97.0,-6.0,8.0,73.0,215.0,19.0,7.0,63.0,2976.0
+1971.0,Cups (Pitch PerfectÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWhen IÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂm GoneÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ) - Pop Version,Anna Kendrick,hollywood,2015.0,121.0,41.0,97.0,-6.0,8.0,73.0,215.0,19.0,7.0,63.0,2976.0
 1972.0,Now Or Never,Halsey,dance pop,2017.0,92.0,75.0,47.0,-5.0,11.0,43.0,204.0,42.0,8.0,63.0,5346.0
-1973.0,Only Wanna Be With You - PokÃÂÃÂÃÂÃÂ©mon 25 Version,Post Malone,dfw rap,2021.0,156.0,91.0,57.0,-5.0,10.0,61.0,187.0,0.0,7.0,63.0,4398.0
+1973.0,Only Wanna Be With You - PokÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©mon 25 Version,Post Malone,dfw rap,2021.0,156.0,91.0,57.0,-5.0,10.0,61.0,187.0,0.0,7.0,63.0,4398.0
 1974.0,Nobody's Love,Maroon 5,pop,2021.0,105.0,79.0,56.0,-6.0,47.0,83.0,232.0,12.0,13.0,63.0,5390.0
 1975.0,Ruin My Life,Zara Larsson,dance pop,2018.0,142.0,24.0,64.0,-10.0,11.0,24.0,164.0,82.0,4.0,63.0,5346.0
 1976.0,Till the World Ends,Britney Spears,dance pop,2011.0,144.0,66.0,39.0,-7.0,9.0,40.0,231.0,31.0,3.0,63.0,5346.0
@@ -2866,13 +2866,13 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 1981.0,Welcome To New York,Taylor Swift,pop,2014.0,95.0,69.0,74.0,-5.0,13.0,45.0,158.0,15.0,4.0,63.0,5390.0
 1982.0,22 (Taylor's Version),Taylor Swift,pop,2021.0,134.0,68.0,60.0,-5.0,32.0,44.0,228.0,6.0,3.0,63.0,5390.0
 1983.0,cowboy like me,Taylor Swift,pop,2020.0,142.0,70.0,59.0,-9.0,11.0,51.0,237.0,66.0,5.0,63.0,5390.0
-1984.0,ÃÂÃÂÃÂÃÂtis the damn season,Taylor Swift,pop,2020.0,152.0,41.0,59.0,-12.0,9.0,42.0,255.0,80.0,4.0,63.0,5390.0
+1984.0,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂtis the damn season,Taylor Swift,pop,2020.0,152.0,41.0,59.0,-12.0,9.0,42.0,255.0,80.0,4.0,63.0,5390.0
 1985.0,happiness,Taylor Swift,pop,2020.0,185.0,52.0,42.0,-7.0,18.0,37.0,235.0,37.0,5.0,63.0,5390.0
 1986.0,hoax,Taylor Swift,pop,2020.0,79.0,61.0,55.0,-8.0,10.0,54.0,216.0,42.0,3.0,63.0,5390.0
 1987.0,??,Kenshi Yonezu,anime,2020.0,118.0,89.0,65.0,-6.0,10.0,51.0,207.0,2.0,5.0,63.0,4417.0
 1988.0,"Don't Think Twice, It's All Right",Bob Dylan,classic rock,1963.0,121.0,78.0,62.0,-3.0,18.0,67.0,231.0,0.0,3.0,63.0,5374.0
 1989.0,Between The Bars,Elliott Smith,alternative rock,1997.0,150.0,27.0,65.0,-13.0,9.0,34.0,234.0,92.0,9.0,63.0,5432.0
-1990.0,MOTOMAMI,ROSALÃÂÃÂÃÂÃÂA,r&b en espanol,2022.0,144.0,39.0,65.0,-13.0,12.0,53.0,214.0,87.0,13.0,63.0,2873.0
+1990.0,MOTOMAMI,ROSALÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂA,r&b en espanol,2022.0,144.0,39.0,65.0,-13.0,12.0,53.0,214.0,87.0,13.0,63.0,2873.0
 1991.0,In the Aeroplane Over the Sea,Neutral Milk Hotel,alternative rock,1998.0,108.0,57.0,60.0,-8.0,13.0,58.0,207.0,29.0,4.0,63.0,5432.0
 1992.0,Stereo Love - Original,Edward Maya,dance pop,2009.0,119.0,60.0,39.0,-6.0,17.0,15.0,404.0,36.0,4.0,63.0,5346.0
 1993.0,Julia,Mt. Joy,indie folk,2018.0,125.0,67.0,42.0,-7.0,6.0,34.0,351.0,61.0,5.0,63.0,4320.0
@@ -2906,7 +2906,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2021.0,Sexual,NEIKED,dance pop,2016.0,130.0,63.0,81.0,-5.0,13.0,80.0,196.0,8.0,5.0,62.0,5346.0
 2022.0,Runnin' Outta Moonlight,Randy Houser,contemporary country,2013.0,172.0,69.0,57.0,-6.0,62.0,93.0,204.0,30.0,32.0,62.0,5343.0
 2023.0,Machu Picchu,The Strokes,alternative rock,2011.0,126.0,75.0,71.0,-6.0,15.0,59.0,234.0,3.0,8.0,62.0,5432.0
-2024.0,I AinÃÂÃÂÃÂÃÂt Quite Where I Think I Am,Arctic Monkeys,garage rock,2022.0,179.0,47.0,33.0,-9.0,32.0,43.0,336.0,60.0,3.0,62.0,3254.0
+2024.0,I AinÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt Quite Where I Think I Am,Arctic Monkeys,garage rock,2022.0,179.0,47.0,33.0,-9.0,32.0,43.0,336.0,60.0,3.0,62.0,3254.0
 2025.0,After Midnight,Phoenix,alternative dance,2022.0,160.0,87.0,67.0,-5.0,9.0,90.0,244.0,20.0,25.0,62.0,5416.0
 2026.0,12:34 a.m.,Billy Lemos,bedroom pop,2017.0,94.0,85.0,64.0,-5.0,4.0,86.0,191.0,22.0,11.0,62.0,5056.0
 2028.0,Bends,Ralph Castelli,alaska indie,2020.0,131.0,76.0,81.0,-6.0,10.0,56.0,247.0,30.0,23.0,62.0,2910.0
@@ -2961,7 +2961,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2077.0,sex,EDEN,indie poptimism,2016.0,100.0,65.0,84.0,-8.0,31.0,67.0,245.0,2.0,5.0,62.0,4623.0
 2078.0,Hallelujah,Pentatonix,a cappella,2017.0,127.0,49.0,73.0,-14.0,9.0,80.0,222.0,30.0,4.0,62.0,3830.0
 2079.0,For You (With Rita Ora),Liam Payne,dance pop,2019.0,133.0,67.0,67.0,-10.0,16.0,87.0,382.0,20.0,2.0,62.0,5346.0
-2080.0,"Colors - Coca-ColaÃÂÃÂÃÂÃÂ® Anthem, 2018 FIFA World CupTM",Jason Derulo,dance pop,2018.0,146.0,91.0,62.0,-8.0,8.0,75.0,195.0,32.0,4.0,62.0,5346.0
+2080.0,"Colors - Coca-ColaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ® Anthem, 2018 FIFA World CupTM",Jason Derulo,dance pop,2018.0,146.0,91.0,62.0,-8.0,8.0,75.0,195.0,32.0,4.0,62.0,5346.0
 2081.0,I'm Born To Run,American Authors,indie poptimism,2016.0,144.0,63.0,39.0,-8.0,7.0,51.0,134.0,36.0,5.0,62.0,4623.0
 2082.0,Kill Em With Kindness,Selena Gomez,dance pop,2015.0,101.0,88.0,35.0,-7.0,36.0,61.0,279.0,13.0,10.0,62.0,5346.0
 2083.0,Wiggle (feat. Snoop Dogg),Jason Derulo,dance pop,2013.0,98.0,67.0,65.0,-7.0,4.0,65.0,231.0,22.0,3.0,62.0,5346.0
@@ -2985,8 +2985,8 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2101.0,The Story Of Us,Taylor Swift,pop,2010.0,130.0,85.0,58.0,-3.0,14.0,37.0,240.0,1.0,6.0,62.0,5390.0
 2102.0,All You Had To Do Was Stay,Taylor Swift,pop,2014.0,113.0,67.0,74.0,-5.0,11.0,60.0,224.0,6.0,13.0,62.0,5390.0
 2103.0,evermore (feat. Bon Iver),Taylor Swift,pop,2020.0,105.0,62.0,74.0,-5.0,36.0,56.0,223.0,4.0,4.0,62.0,5390.0
-2104.0,DonÃÂÃÂÃÂÃÂt You (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,110.0,87.0,53.0,-4.0,6.0,53.0,188.0,1.0,9.0,62.0,5390.0
-2105.0,ThatÃÂÃÂÃÂÃÂs When (feat. Keith Urban) (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,98.0,69.0,75.0,-5.0,12.0,25.0,182.0,34.0,3.0,62.0,5390.0
+2104.0,DonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt You (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,110.0,87.0,53.0,-4.0,6.0,53.0,188.0,1.0,9.0,62.0,5390.0
+2105.0,ThatÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs When (feat. Keith Urban) (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,98.0,69.0,75.0,-5.0,12.0,25.0,182.0,34.0,3.0,62.0,5390.0
 2106.0,I Fall In Love Too Easily,Chet Baker,adult standards,1956.0,128.0,74.0,60.0,-3.0,9.0,46.0,217.0,11.0,4.0,62.0,5428.0
 2107.0,A Whiter Shade of Pale - Original Single Version,Procol Harum,album rock,1967.0,140.0,84.0,64.0,-3.0,8.0,72.0,193.0,1.0,4.0,62.0,5431.0
 2108.0,Paper Bag,Fiona Apple,art pop,1999.0,124.0,64.0,67.0,-5.0,18.0,68.0,201.0,14.0,4.0,62.0,5004.0
@@ -3153,7 +3153,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2271.0,Then It All Goes Away,Dayglow,austindie,2022.0,178.0,39.0,43.0,-8.0,11.0,26.0,230.0,78.0,10.0,60.0,3151.0
 2272.0,Televised,HUNNY,indie pop,2017.0,150.0,33.0,70.0,-13.0,8.0,6.0,271.0,85.0,4.0,60.0,5304.0
 2273.0,Warm,Dre'es,bedroom soul,2017.0,82.0,64.0,64.0,-5.0,7.0,60.0,226.0,20.0,4.0,60.0,5299.0
-2274.0,Hush - Still Woozy Remix,The MarÃÂÃÂÃÂÃÂ­as,bedroom pop,2021.0,117.0,0.0,38.0,-39.0,10.0,12.0,76.0,100.0,4.0,60.0,5056.0
+2274.0,Hush - Still Woozy Remix,The MarÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­as,bedroom pop,2021.0,117.0,0.0,38.0,-39.0,10.0,12.0,76.0,100.0,4.0,60.0,5056.0
 2275.0,ARE YOU WITH THAT?,Vince Staples,conscious hip hop,2021.0,121.0,69.0,54.0,-9.0,8.0,55.0,281.0,8.0,3.0,60.0,5154.0
 2276.0,That's Life,Still Woozy,bedroom pop,2021.0,112.0,18.0,50.0,-15.0,11.0,7.0,215.0,75.0,4.0,60.0,5056.0
 2277.0,Wildfire,Cautious Clay,indie r&b,2021.0,79.0,50.0,60.0,-6.0,21.0,52.0,221.0,13.0,6.0,60.0,5386.0
@@ -3162,7 +3162,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2280.0,Land of Confusion,Disturbed,alternative metal,2005.0,107.0,53.0,71.0,-7.0,17.0,43.0,178.0,1.0,3.0,60.0,5306.0
 2281.0,Janie's Got A Gun,Aerosmith,album rock,1994.0,154.0,98.0,46.0,-4.0,19.0,76.0,219.0,0.0,5.0,60.0,5431.0
 2282.0,The Hardest Button to Button,The White Stripes,alternative rock,2003.0,172.0,95.0,51.0,-4.0,35.0,84.0,192.0,10.0,6.0,60.0,5432.0
-2283.0,Godzilla,Blue ÃÂÃÂÃÂÃÂyster Cult,album rock,1977.0,118.0,72.0,61.0,-6.0,10.0,23.0,280.0,8.0,4.0,60.0,5431.0
+2283.0,Godzilla,Blue ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂyster Cult,album rock,1977.0,118.0,72.0,61.0,-6.0,10.0,23.0,280.0,8.0,4.0,60.0,5431.0
 2284.0,Mother,Pink Floyd,album rock,1979.0,144.0,64.0,57.0,-7.0,8.0,44.0,197.0,0.0,3.0,60.0,5431.0
 2285.0,Dreamer,Ozzy Osbourne,album rock,2003.0,78.0,73.0,54.0,-5.0,18.0,29.0,217.0,2.0,3.0,60.0,5431.0
 2286.0,Cherry Pie,Warrant,album rock,1990.0,93.0,74.0,67.0,-7.0,33.0,75.0,182.0,22.0,4.0,60.0,5431.0
@@ -3213,7 +3213,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2331.0,Perfect Illusion,Lady Gaga,art pop,2016.0,102.0,88.0,53.0,-4.0,10.0,62.0,165.0,3.0,5.0,60.0,5004.0
 2332.0,Everytime We Touch - Radio Edit,Cascada,bubblegum dance,2011.0,165.0,87.0,35.0,-3.0,30.0,54.0,174.0,0.0,4.0,60.0,3212.0
 2333.0,marjorie,Taylor Swift,pop,2020.0,122.0,74.0,74.0,-10.0,10.0,71.0,359.0,5.0,4.0,60.0,5390.0
-2334.0,We Were Happy (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,143.0,77.0,27.0,-8.0,7.0,80.0,429.0,0.0,3.0,60.0,5390.0
+2334.0,We Were Happy (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,143.0,77.0,27.0,-8.0,7.0,80.0,429.0,0.0,3.0,60.0,5390.0
 2335.0,All Too Well,Taylor Swift,pop,2012.0,158.0,87.0,78.0,-7.0,6.0,96.0,161.0,7.0,5.0,60.0,5390.0
 2336.0,dorothea,Taylor Swift,pop,2020.0,144.0,50.0,77.0,-7.0,17.0,84.0,289.0,12.0,3.0,60.0,5390.0
 2337.0,coney island (feat. The National),Taylor Swift,pop,2020.0,87.0,55.0,27.0,-10.0,10.0,43.0,386.0,4.0,5.0,60.0,5390.0
@@ -3263,7 +3263,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2381.0,Pink,Aerosmith,album rock,1997.0,118.0,21.0,50.0,-13.0,12.0,19.0,232.0,87.0,7.0,59.0,5431.0
 2382.0,Anarchy In The UK,Sex Pistols,punk,1977.0,98.0,46.0,76.0,-8.0,17.0,19.0,214.0,22.0,7.0,59.0,3262.0
 2383.0,Flight of Icarus - 2015 Remaster,Iron Maiden,hard rock,1983.0,122.0,70.0,66.0,-3.0,26.0,34.0,215.0,22.0,8.0,59.0,5253.0
-2384.0,De MÃÂÃÂÃÂÃÂºsica Ligera - Remasterizado 2007,Soda Stereo,argentine rock,2007.0,172.0,78.0,65.0,-4.0,11.0,95.0,177.0,30.0,7.0,59.0,3264.0
+2384.0,De MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºsica Ligera - Remasterizado 2007,Soda Stereo,argentine rock,2007.0,172.0,78.0,65.0,-4.0,11.0,95.0,177.0,30.0,7.0,59.0,3264.0
 2385.0,Heaven Beside You,Alice In Chains,alternative metal,1995.0,130.0,48.0,78.0,-8.0,17.0,49.0,171.0,71.0,3.0,59.0,5306.0
 2386.0,Plush,Stone Temple Pilots,alternative metal,2003.0,110.0,48.0,71.0,-7.0,9.0,58.0,184.0,22.0,5.0,59.0,5306.0
 2387.0,I Stay Away,Alice In Chains,alternative metal,1994.0,73.0,38.0,65.0,-8.0,10.0,44.0,195.0,37.0,3.0,59.0,5306.0
@@ -3302,7 +3302,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2420.0,Can't Change For You (feat. charlieonnafriday & Arden Jones),Bankrol Hayden,melodic rap,2023.0,104.0,55.0,71.0,-7.0,13.0,56.0,182.0,40.0,3.0,59.0,4205.0
 2421.0,Fuck You,Lily Allen,dance pop,2009.0,126.0,42.0,86.0,-11.0,10.0,56.0,138.0,54.0,28.0,59.0,5346.0
 2422.0,Dear John,Taylor Swift,pop,2010.0,96.0,50.0,75.0,-9.0,10.0,54.0,148.0,51.0,9.0,59.0,5390.0
-2423.0,Bye Bye Baby (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,85.0,35.0,56.0,-11.0,45.0,42.0,152.0,67.0,3.0,59.0,5390.0
+2423.0,Bye Bye Baby (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,85.0,35.0,56.0,-11.0,45.0,42.0,152.0,67.0,3.0,59.0,5390.0
 2424.0,Mean,Taylor Swift,pop,2010.0,110.0,83.0,48.0,-7.0,35.0,52.0,449.0,0.0,5.0,59.0,5390.0
 2425.0,Telephone Line,Electric Light Orchestra,album rock,1976.0,101.0,97.0,55.0,-3.0,10.0,35.0,205.0,0.0,5.0,59.0,5431.0
 2426.0,Suffragette City - 2012 Remaster,David Bowie,art rock,1972.0,115.0,99.0,55.0,-4.0,18.0,32.0,287.0,0.0,9.0,59.0,5423.0
@@ -3368,16 +3368,16 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2489.0,The Wire,HAIM,indie pop,2013.0,136.0,17.0,84.0,-13.0,11.0,40.0,200.0,23.0,7.0,59.0,5304.0
 2490.0,One Way Or Another,Blondie,candy pop,1981.0,140.0,45.0,42.0,-9.0,9.0,35.0,337.0,12.0,3.0,59.0,4360.0
 2491.0,MIDDLE OF THE NIGHT,MONSTA X,k-pop,2020.0,79.0,53.0,59.0,-8.0,17.0,73.0,137.0,15.0,4.0,59.0,5133.0
-2492.0,ItÃÂÃÂÃÂÃÂs My Birthday,will.i.am,dance pop,2014.0,108.0,31.0,67.0,-9.0,9.0,57.0,139.0,68.0,3.0,59.0,5346.0
+2492.0,ItÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs My Birthday,will.i.am,dance pop,2014.0,108.0,31.0,67.0,-9.0,9.0,57.0,139.0,68.0,3.0,59.0,5346.0
 2493.0,One Foot,WALK THE MOON,dance rock,2017.0,109.0,30.0,61.0,-15.0,9.0,28.0,134.0,18.0,3.0,59.0,3370.0
 2494.0,Fun (feat. Chris Brown),Pitbull,dance pop,2014.0,66.0,5.0,23.0,-28.0,13.0,60.0,91.0,74.0,5.0,59.0,5346.0
 2495.0,This Is How We Do,Katy Perry,dance pop,2013.0,120.0,56.0,65.0,-9.0,12.0,91.0,125.0,72.0,4.0,59.0,5346.0
 2496.0,The Man,Aloe Blacc,neo soul,2014.0,116.0,32.0,87.0,-7.0,22.0,92.0,215.0,4.0,5.0,59.0,4995.0
 2497.0,Girlfriend,Charlie Puth,dance pop,2020.0,84.0,1.0,30.0,-33.0,12.0,15.0,122.0,99.0,5.0,59.0,5346.0
 2498.0,Soul Mate,flora cash,indie pop,2021.0,75.0,30.0,65.0,-11.0,8.0,20.0,237.0,28.0,5.0,58.0,5304.0
-2499.0,You And I,LÃÂÃÂÃÂÃÂON,metropopolis,2019.0,83.0,53.0,55.0,-12.0,21.0,46.0,184.0,76.0,11.0,58.0,3376.0
+2499.0,You And I,LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂON,metropopolis,2019.0,83.0,53.0,55.0,-12.0,21.0,46.0,184.0,76.0,11.0,58.0,3376.0
 2500.0,Kissing Strangers,DNCE,dance pop,2017.0,172.0,61.0,54.0,-13.0,23.0,94.0,160.0,30.0,11.0,58.0,5346.0
-2501.0,Single Ladies (Put a Ring on It),BeyoncÃÂÃÂÃÂÃÂ©,dance pop,2008.0,106.0,68.0,72.0,-5.0,37.0,63.0,230.0,6.0,13.0,58.0,5346.0
+2501.0,Single Ladies (Put a Ring on It),BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,dance pop,2008.0,106.0,68.0,72.0,-5.0,37.0,63.0,230.0,6.0,13.0,58.0,5346.0
 2502.0,the lakes - original version,Taylor Swift,pop,2021.0,137.0,55.0,84.0,-7.0,7.0,75.0,207.0,15.0,30.0,58.0,5390.0
 2503.0,cardigan - cabin in candlelight version,Taylor Swift,pop,2020.0,158.0,62.0,72.0,-3.0,12.0,41.0,173.0,11.0,11.0,58.0,5390.0
 2504.0,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,pop,2006.0,84.0,64.0,45.0,-8.0,19.0,61.0,218.0,4.0,28.0,58.0,5390.0
@@ -3396,7 +3396,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2518.0,Teenage Kicks,The Undertones,mod revival,1979.0,100.0,52.0,82.0,-7.0,9.0,45.0,178.0,38.0,8.0,58.0,3394.0
 2519.0,Hold On - Remastered 2010,John Lennon,album rock,1970.0,96.0,68.0,66.0,-8.0,35.0,80.0,151.0,15.0,3.0,58.0,5431.0
 2520.0,Babies,Pulp,alternative rock,1994.0,106.0,77.0,56.0,-8.0,35.0,86.0,235.0,1.0,5.0,58.0,5432.0
-2521.0,If I Had A GunÃÂÃÂÃÂÃÂ,Noel Gallagher's High Flying Birds,britpop,2011.0,90.0,84.0,45.0,-6.0,28.0,92.0,145.0,39.0,3.0,58.0,5385.0
+2521.0,If I Had A GunÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Noel Gallagher's High Flying Birds,britpop,2011.0,90.0,84.0,45.0,-6.0,28.0,92.0,145.0,39.0,3.0,58.0,5385.0
 2522.0,You Broke Up with Me,Walker Hayes,contemporary country,2017.0,139.0,58.0,78.0,-6.0,34.0,93.0,148.0,13.0,4.0,58.0,5343.0
 2523.0,Awaken,Big Wild,electropop,2019.0,83.0,48.0,52.0,-11.0,11.0,55.0,167.0,61.0,3.0,58.0,5391.0
 2524.0,5 O'Clock (feat. Lily Allen & Wiz Khalifa),T-Pain,dance pop,2011.0,164.0,87.0,53.0,-5.0,49.0,44.0,204.0,19.0,6.0,58.0,5346.0
@@ -3420,14 +3420,14 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2542.0,In My Head Till I'm Dead,Surf Curse,dreamo,2015.0,101.0,66.0,42.0,-13.0,10.0,55.0,342.0,41.0,4.0,58.0,4795.0
 2543.0,The Suburbs,Arcade Fire,baroque pop,2010.0,111.0,68.0,75.0,-4.0,21.0,94.0,243.0,1.0,3.0,58.0,5421.0
 2544.0,Bad Dream Baby,Hippo Campus,indie pop,2021.0,103.0,75.0,68.0,-10.0,25.0,84.0,267.0,7.0,3.0,58.0,5304.0
-2545.0,DrÃÂÃÂÃÂÃÂ¦m Girl,No Vacation,indie garage rock,2015.0,164.0,94.0,37.0,-3.0,9.0,57.0,204.0,1.0,6.0,58.0,4610.0
+2545.0,DrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦m Girl,No Vacation,indie garage rock,2015.0,164.0,94.0,37.0,-3.0,9.0,57.0,204.0,1.0,6.0,58.0,4610.0
 2546.0,Different State of Mind,Kid Bloom,indie pop,2016.0,154.0,36.0,46.0,-13.0,20.0,30.0,444.0,47.0,4.0,58.0,5304.0
 2547.0,Dreams Tonite,Alvvays,dreamo,2017.0,151.0,95.0,19.0,-3.0,9.0,22.0,176.0,0.0,22.0,58.0,4795.0
 2548.0,Where You Belong,Little Dragon,alternative dance,2020.0,136.0,44.0,40.0,-12.0,16.0,16.0,401.0,25.0,3.0,58.0,5416.0
 2549.0,Tell Me,NEIL FRANCES,indie soul,2020.0,90.0,55.0,68.0,-8.0,12.0,59.0,240.0,9.0,5.0,58.0,4968.0
 2550.0,Baby Baby,Sports,tulsa indie,2022.0,80.0,24.0,65.0,-19.0,13.0,77.0,171.0,81.0,5.0,58.0,3813.0
 2551.0,Running Away (Time),VANO 3000,alternative hip hop,2021.0,105.0,66.0,75.0,-6.0,9.0,86.0,152.0,19.0,4.0,58.0,4506.0
-2552.0,Maybe IÃÂÃÂÃÂÃÂm Lonely,Rachel Chinouriri,uk pop,2023.0,109.0,71.0,52.0,-6.0,57.0,58.0,211.0,0.0,6.0,58.0,4675.0
+2552.0,Maybe IÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂm Lonely,Rachel Chinouriri,uk pop,2023.0,109.0,71.0,52.0,-6.0,57.0,58.0,211.0,0.0,6.0,58.0,4675.0
 2553.0,The Four Horsemen - Remastered,Metallica,hard rock,1983.0,122.0,84.0,79.0,-5.0,16.0,92.0,186.0,9.0,6.0,58.0,5253.0
 2554.0,Dogs,Pink Floyd,album rock,1977.0,120.0,78.0,68.0,-6.0,12.0,40.0,230.0,13.0,4.0,58.0,5431.0
 2555.0,Do the Evolution,Pearl Jam,grunge,1998.0,99.0,51.0,69.0,-6.0,14.0,31.0,217.0,16.0,9.0,58.0,5020.0
@@ -3554,7 +3554,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2679.0,Hey Baby,No Doubt,alternative rock,2001.0,120.0,70.0,85.0,-8.0,27.0,87.0,197.0,53.0,7.0,56.0,5432.0
 2680.0,Retribution,DJ Paul,bounce,2022.0,140.0,34.0,49.0,-9.0,30.0,12.0,183.0,75.0,4.0,56.0,4920.0
 2681.0,Believe,Mumford & Sons,modern folk rock,2015.0,83.0,74.0,52.0,-5.0,10.0,35.0,281.0,7.0,23.0,56.0,3880.0
-2682.0,You All Over Me (feat. Maren Morris) (TaylorÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,180.0,55.0,38.0,-7.0,8.0,38.0,189.0,42.0,7.0,56.0,5390.0
+2682.0,You All Over Me (feat. Maren Morris) (TaylorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Version) (From The Vault),Taylor Swift,pop,2021.0,180.0,55.0,38.0,-7.0,8.0,38.0,189.0,42.0,7.0,56.0,5390.0
 2683.0,Highway Don't Care,Tim McGraw,contemporary country,2013.0,176.0,70.0,62.0,-6.0,11.0,71.0,216.0,1.0,10.0,56.0,5343.0
 2684.0,"So Long, Marianne",Leonard Cohen,canadian singer-songwriter,1967.0,163.0,65.0,82.0,-5.0,13.0,84.0,213.0,2.0,25.0,56.0,5284.0
 2685.0,Marquee Moon,Television,alternative rock,1977.0,100.0,44.0,63.0,-7.0,15.0,26.0,205.0,33.0,2.0,56.0,5432.0
@@ -3591,7 +3591,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 2716.0,How Not To,Dan + Shay,contemporary country,2016.0,147.0,89.0,40.0,-4.0,12.0,37.0,225.0,0.0,4.0,56.0,5343.0
 2717.0,Different For Girls,Dierks Bentley,contemporary country,2016.0,64.0,27.0,52.0,-11.0,7.0,22.0,209.0,84.0,4.0,56.0,5343.0
 2718.0,Losing Sleep,Chris Young,contemporary country,2017.0,78.0,81.0,47.0,-4.0,18.0,41.0,237.0,1.0,3.0,56.0,5343.0
-2719.0,Egyptian Luvr (feat. AminÃÂÃÂÃÂÃÂ© and Dana Williams),Rejjie Snow,indie r&b,2018.0,174.0,75.0,23.0,-7.0,14.0,32.0,308.0,37.0,7.0,56.0,5386.0
+2719.0,Egyptian Luvr (feat. AminÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© and Dana Williams),Rejjie Snow,indie r&b,2018.0,174.0,75.0,23.0,-7.0,14.0,32.0,308.0,37.0,7.0,56.0,5386.0
 2720.0,Who Dat Girl (feat. Akon),Flo Rida,dance pop,2010.0,128.0,97.0,44.0,-2.0,31.0,50.0,173.0,19.0,7.0,56.0,5346.0
 2721.0,Threat of Joy,The Strokes,alternative rock,2016.0,149.0,98.0,26.0,-6.0,22.0,28.0,397.0,0.0,18.0,56.0,5432.0
 2722.0,Barely Legal,The Strokes,alternative rock,2001.0,124.0,91.0,43.0,-6.0,47.0,47.0,189.0,1.0,8.0,56.0,5432.0
@@ -3935,7 +3935,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3071.0,Roma Fade,Andrew Bird,baroque pop,2016.0,171.0,95.0,21.0,-5.0,24.0,48.0,194.0,0.0,5.0,52.0,5421.0
 3072.0,HAPPEN,HEIZE,k-pop,2021.0,107.0,85.0,66.0,-6.0,20.0,66.0,355.0,3.0,3.0,52.0,5133.0
 3073.0,Stupid Cupid,Connie Francis,adult standards,2005.0,115.0,79.0,48.0,-6.0,17.0,47.0,214.0,0.0,4.0,52.0,5428.0
-3074.0,You're Sixteen (YouÃÂÃÂÃÂÃÂre Beautiful And YouÃÂÃÂÃÂÃÂre Mine),Ringo Starr,album rock,1973.0,80.0,63.0,59.0,-10.0,43.0,91.0,111.0,55.0,7.0,52.0,5431.0
+3074.0,You're Sixteen (YouÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂre Beautiful And YouÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂre Mine),Ringo Starr,album rock,1973.0,80.0,63.0,59.0,-10.0,43.0,91.0,111.0,55.0,7.0,52.0,5431.0
 3075.0,Good to Be Back Home,Charles Bradley,funk,2016.0,160.0,70.0,55.0,-6.0,12.0,52.0,172.0,5.0,3.0,52.0,5003.0
 3076.0,??????,Kenshi Yonezu,anime,2020.0,142.0,89.0,51.0,-4.0,23.0,40.0,182.0,0.0,17.0,52.0,4417.0
 3077.0,Cowboy Song,Thin Lizzy,album rock,1976.0,130.0,58.0,81.0,-5.0,8.0,76.0,172.0,1.0,7.0,52.0,5431.0
@@ -4029,7 +4029,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3169.0,Movement,Oliver Tree,alternative hip hop,2018.0,133.0,65.0,56.0,-7.0,24.0,97.0,120.0,1.0,3.0,51.0,4506.0
 3170.0,Toothpaste Kisses,The Maccabees,alternative dance,2007.0,81.0,47.0,60.0,-9.0,9.0,32.0,277.0,37.0,3.0,51.0,5416.0
 3171.0,Feedback,Janet Jackson,dance pop,2008.0,95.0,44.0,44.0,-10.0,15.0,36.0,248.0,72.0,3.0,51.0,5346.0
-3172.0,DR. WHOEVER,AminÃÂÃÂÃÂÃÂ©,hip hop,2018.0,155.0,34.0,47.0,-12.0,13.0,81.0,154.0,65.0,3.0,51.0,5024.0
+3172.0,DR. WHOEVER,AminÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,hip hop,2018.0,155.0,34.0,47.0,-12.0,13.0,81.0,154.0,65.0,3.0,51.0,5024.0
 3173.0,Star Of The Show,Thomas Rhett,contemporary country,2016.0,110.0,64.0,69.0,-10.0,9.0,86.0,321.0,32.0,4.0,51.0,5343.0
 3174.0,The One That Got Away,Jake Owen,contemporary country,2011.0,114.0,68.0,65.0,-11.0,19.0,60.0,128.0,50.0,5.0,51.0,5343.0
 3175.0,Say Yeah,Wiz Khalifa,dance pop,2008.0,90.0,73.0,68.0,-10.0,12.0,54.0,287.0,26.0,5.0,51.0,5346.0
@@ -4094,7 +4094,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3236.0,Crawl,Chris Brown,dance pop,2009.0,97.0,95.0,50.0,-3.0,14.0,67.0,191.0,0.0,10.0,50.0,5346.0
 3238.0,Shake Something (feat. Joey Purp),Louis The Child,edm,2018.0,180.0,70.0,41.0,-6.0,13.0,63.0,163.0,38.0,34.0,50.0,5298.0
 3239.0,4 Leaf Clover (feat. Steve Lacy),Ravyn Lenae,alternative r&b,2018.0,125.0,73.0,59.0,-5.0,15.0,50.0,233.0,0.0,4.0,50.0,5072.0
-3240.0,Yellow,AminÃÂÃÂÃÂÃÂ©,hip hop,2017.0,111.0,67.0,80.0,-5.0,9.0,78.0,238.0,26.0,12.0,50.0,5024.0
+3240.0,Yellow,AminÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,hip hop,2017.0,111.0,67.0,80.0,-5.0,9.0,78.0,238.0,26.0,12.0,50.0,5024.0
 3241.0,Homegrown Honey,Darius Rucker,black americana,2015.0,114.0,66.0,82.0,-5.0,27.0,96.0,228.0,1.0,10.0,50.0,4842.0
 3242.0,Love Is Alive,Louis The Child,edm,2017.0,94.0,89.0,53.0,-2.0,38.0,80.0,219.0,4.0,5.0,50.0,5298.0
 3243.0,Young & Crazy,Frankie Ballard,contemporary country,2014.0,78.0,44.0,44.0,-6.0,16.0,31.0,149.0,66.0,4.0,50.0,5343.0
@@ -4127,7 +4127,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3273.0,Brown Sugar,The Rolling Stones,british invasion,1971.0,169.0,11.0,51.0,-16.0,7.0,58.0,181.0,95.0,6.0,50.0,5312.0
 3274.0,Don't Go Breaking My Heart,Backstreet Boys,boy band,2019.0,135.0,31.0,41.0,-10.0,7.0,7.0,653.0,31.0,4.0,50.0,4126.0
 3275.0,Good News,Ocean Park Standoff,la pop,2017.0,125.0,91.0,49.0,-3.0,30.0,51.0,221.0,16.0,5.0,50.0,5213.0
-3276.0,Heroes,MÃÂÃÂÃÂÃÂ¥ns ZelmerlÃÂÃÂÃÂÃÂ¶w,europop,2015.0,96.0,41.0,73.0,-9.0,10.0,69.0,262.0,29.0,3.0,50.0,4128.0
+3276.0,Heroes,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¥ns ZelmerlÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶w,europop,2015.0,96.0,41.0,73.0,-9.0,10.0,69.0,262.0,29.0,3.0,50.0,4128.0
 3277.0,Help Me Help You (feat. Why Don't We),Logan Paul,social media pop,2017.0,105.0,55.0,47.0,-10.0,35.0,69.0,325.0,4.0,3.0,50.0,4129.0
 3278.0,Familiar (With J. Balvin),Liam Payne,dance pop,2019.0,125.0,45.0,81.0,-8.0,32.0,70.0,162.0,55.0,8.0,49.0,5346.0
 3279.0,Be Alright,Dean Lewis,australian pop,2018.0,172.0,55.0,53.0,-8.0,12.0,68.0,200.0,36.0,4.0,49.0,4131.0
@@ -4135,7 +4135,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3281.0,Us,Clara Mae,alt z,2018.0,137.0,48.0,74.0,-8.0,8.0,23.0,224.0,30.0,5.0,49.0,5117.0
 3282.0,If I Didn't Have You,BANNERS,indie poptimism,2021.0,102.0,69.0,74.0,-6.0,40.0,36.0,178.0,21.0,5.0,49.0,4623.0
 3283.0,Everybody Talks,Neon Trees,indie poptimism,2012.0,57.0,45.0,43.0,-6.0,66.0,35.0,185.0,18.0,17.0,49.0,4623.0
-3286.0,SheÃÂÃÂÃÂÃÂs My Baby - 2014 Remaster,Wings,album rock,1976.0,97.0,64.0,80.0,-7.0,22.0,50.0,182.0,28.0,11.0,49.0,5431.0
+3286.0,SheÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs My Baby - 2014 Remaster,Wings,album rock,1976.0,97.0,64.0,80.0,-7.0,22.0,50.0,182.0,28.0,11.0,49.0,5431.0
 3287.0,Death Note (feat. Ichika),Polyphia,instrumental rock,2018.0,92.0,91.0,31.0,-6.0,96.0,35.0,278.0,8.0,6.0,49.0,5067.0
 3288.0,Masters of War,Bob Dylan,classic rock,1963.0,116.0,86.0,63.0,-7.0,76.0,53.0,181.0,2.0,7.0,49.0,5374.0
 3289.0,Izzat Love? - 2015 Remaster,Todd Rundgren,album rock,1974.0,132.0,75.0,49.0,-5.0,10.0,25.0,260.0,1.0,3.0,49.0,5431.0
@@ -4189,7 +4189,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3339.0,3:45/buslane,lavender,indie r&b,2021.0,106.0,68.0,33.0,-8.0,84.0,67.0,156.0,10.0,3.0,49.0,5386.0
 3340.0,Strange Brew,Cream,album rock,1967.0,177.0,71.0,56.0,-9.0,6.0,82.0,141.0,1.0,10.0,49.0,5431.0
 3341.0,Keep On Chooglin',Creedence Clearwater Revival,album rock,1969.0,147.0,35.0,35.0,-6.0,10.0,27.0,255.0,81.0,3.0,49.0,5431.0
-3342.0,MotÃÂÃÂÃÂÃÂ¶rhead,MotÃÂÃÂÃÂÃÂ¶rhead,album rock,1977.0,159.0,33.0,40.0,-13.0,10.0,24.0,252.0,79.0,3.0,49.0,5431.0
+3342.0,MotÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rhead,MotÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rhead,album rock,1977.0,159.0,33.0,40.0,-13.0,10.0,24.0,252.0,79.0,3.0,49.0,5431.0
 3343.0,Fear of the Dark - Live '01,Iron Maiden,hard rock,2002.0,126.0,47.0,38.0,-13.0,23.0,37.0,290.0,27.0,5.0,49.0,5253.0
 3344.0,Moby Dick,Led Zeppelin,album rock,1969.0,88.0,62.0,56.0,-12.0,10.0,68.0,206.0,28.0,5.0,48.0,5431.0
 3345.0,Soldier of Fortune,Deep Purple,album rock,2005.0,124.0,35.0,81.0,-8.0,10.0,41.0,235.0,30.0,4.0,48.0,5431.0
@@ -4200,7 +4200,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3350.0,Rhiannon - 2017 Remaster,Fleetwood Mac,album rock,1975.0,83.0,33.0,64.0,-11.0,5.0,87.0,259.0,64.0,38.0,48.0,5431.0
 3351.0,Closing Time,Semisonic,neo mellow,2015.0,102.0,64.0,70.0,-6.0,13.0,66.0,181.0,14.0,3.0,48.0,5162.0
 3352.0,Growing Pains,Alessia Cara,canadian contemporary r&b,2018.0,120.0,87.0,58.0,-3.0,25.0,54.0,194.0,3.0,4.0,48.0,4560.0
-3353.0,Jackie Chan,TiÃÂÃÂÃÂÃÂ«sto,big room,2018.0,142.0,81.0,75.0,-6.0,13.0,69.0,242.0,2.0,6.0,48.0,4696.0
+3353.0,Jackie Chan,TiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ«sto,big room,2018.0,142.0,81.0,75.0,-6.0,13.0,69.0,242.0,2.0,6.0,48.0,4696.0
 3355.0,Stay The Way I Left You (feat. Dahl),Josie Dunne,pop soul,2020.0,94.0,60.0,75.0,-6.0,10.0,56.0,180.0,5.0,15.0,48.0,4202.0
 3356.0,3 small words,MisterWives,electropop,2020.0,125.0,91.0,72.0,-4.0,35.0,80.0,156.0,0.0,5.0,48.0,5391.0
 3358.0,How to Be a Heartbreaker,MARINA,dance pop,2012.0,158.0,69.0,73.0,-7.0,12.0,86.0,159.0,20.0,4.0,48.0,5346.0
@@ -4235,7 +4235,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3388.0,Dirty Town,Mother Mother,vancouver indie,2007.0,131.0,84.0,33.0,-7.0,25.0,45.0,259.0,0.0,9.0,48.0,4663.0
 3389.0,Whistle For The Choir,The Fratellis,alternative rock,2006.0,143.0,52.0,29.0,-5.0,32.0,56.0,160.0,24.0,3.0,48.0,5432.0
 3390.0,Sunshine,khai dreams,indie pop,2018.0,120.0,63.0,69.0,-8.0,49.0,89.0,252.0,44.0,3.0,48.0,5304.0
-3391.0,LetÃÂÃÂÃÂÃÂs Call It Off (feat. Peter Bjorn and John),Drake,canadian hip hop,2009.0,78.0,39.0,37.0,-9.0,27.0,69.0,181.0,53.0,3.0,48.0,4507.0
+3391.0,LetÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Call It Off (feat. Peter Bjorn and John),Drake,canadian hip hop,2009.0,78.0,39.0,37.0,-9.0,27.0,69.0,181.0,53.0,3.0,48.0,4507.0
 3392.0,Joshua Tree,Cautious Clay,indie r&b,2017.0,152.0,75.0,49.0,-12.0,7.0,92.0,237.0,23.0,7.0,48.0,5386.0
 3395.0,Get Your Shine On,Florida Georgia Line,contemporary country,2012.0,76.0,29.0,48.0,-10.0,14.0,32.0,292.0,49.0,3.0,48.0,5343.0
 3396.0,We Are Tonight,Billy Currington,contemporary country,2013.0,96.0,72.0,74.0,-10.0,13.0,92.0,247.0,35.0,5.0,48.0,5343.0
@@ -4270,8 +4270,8 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3426.0,Doctor Robert - Remastered 2009,The Beatles,beatlesque,1966.0,134.0,76.0,56.0,-6.0,14.0,53.0,232.0,7.0,3.0,47.0,5413.0
 3427.0,Can't Nobody Love You,The Zombies,baroque pop,1965.0,152.0,80.0,45.0,-4.0,17.0,36.0,228.0,10.0,4.0,47.0,5421.0
 3428.0,End of the Empire I-III,Arcade Fire,baroque pop,2022.0,114.0,81.0,66.0,-5.0,11.0,67.0,200.0,13.0,3.0,47.0,5421.0
-3429.0,DÃÂÃÂÃÂÃÂ©colletÃÂÃÂÃÂÃÂ©,Kenshi Yonezu,anime,2020.0,137.0,60.0,62.0,-5.0,22.0,58.0,204.0,65.0,3.0,47.0,4417.0
-3430.0,'S Wonderful,JoÃÂÃÂÃÂÃÂ£o Gilberto,bossa nova,1977.0,97.0,47.0,92.0,-8.0,7.0,31.0,220.0,17.0,33.0,47.0,4985.0
+3429.0,DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©colletÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Kenshi Yonezu,anime,2020.0,137.0,60.0,62.0,-5.0,22.0,58.0,204.0,65.0,3.0,47.0,4417.0
+3430.0,'S Wonderful,JoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o Gilberto,bossa nova,1977.0,97.0,47.0,92.0,-8.0,7.0,31.0,220.0,17.0,33.0,47.0,4985.0
 3431.0,Clampdown - Remastered,The Clash,classic rock,1979.0,145.0,95.0,53.0,-4.0,5.0,81.0,184.0,0.0,4.0,47.0,5374.0
 3432.0,Mile End,Pulp,alternative rock,1995.0,98.0,78.0,66.0,-5.0,13.0,59.0,189.0,0.0,3.0,47.0,5432.0
 3433.0,Moon Rocks - 2005 Remaster,Talking Heads,art punk,1983.0,159.0,58.0,50.0,-8.0,8.0,35.0,206.0,48.0,45.0,47.0,5232.0
@@ -4280,7 +4280,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3436.0,Mother - Remastered 2010,John Lennon,album rock,1970.0,91.0,55.0,73.0,-8.0,11.0,71.0,229.0,60.0,12.0,47.0,5431.0
 3437.0,You Can't Do That - Remastered 2009,The Beatles,beatlesque,1964.0,89.0,55.0,68.0,-6.0,10.0,43.0,153.0,26.0,7.0,47.0,5413.0
 3438.0,Don't Look Now,Creedence Clearwater Revival,album rock,1969.0,107.0,72.0,79.0,-6.0,9.0,86.0,162.0,7.0,5.0,47.0,5431.0
-3439.0,AKAÃÂÃÂÃÂÃÂ What A Life!,Noel Gallagher's High Flying Birds,britpop,2011.0,100.0,55.0,79.0,-6.0,9.0,71.0,243.0,1.0,2.0,47.0,5385.0
+3439.0,AKAÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ What A Life!,Noel Gallagher's High Flying Birds,britpop,2011.0,100.0,55.0,79.0,-6.0,9.0,71.0,243.0,1.0,2.0,47.0,5385.0
 3440.0,Got The Time,Joe Jackson,album rock,1979.0,93.0,44.0,72.0,-9.0,12.0,33.0,210.0,76.0,4.0,47.0,5431.0
 3441.0,"dreams, books, power and walls",JANNABI,k-indie,2019.0,109.0,70.0,71.0,-9.0,10.0,84.0,120.0,48.0,5.0,47.0,5426.0
 3442.0,Blue in Green (feat. John Coltrane & Bill Evans),Miles Davis,cool jazz,1959.0,75.0,63.0,27.0,-7.0,41.0,45.0,226.0,24.0,12.0,47.0,4284.0
@@ -4388,7 +4388,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3549.0,Dress Up For You,The Technicolors,modern alternative rock,2021.0,77.0,58.0,81.0,-8.0,13.0,74.0,176.0,40.0,11.0,46.0,4907.0
 3550.0,Valentine,DIIV,brooklyn indie,2016.0,130.0,65.0,77.0,-6.0,27.0,74.0,226.0,16.0,6.0,46.0,4909.0
 3551.0,Cool To You,Teenage Priest,bedroom pop,2019.0,85.0,75.0,52.0,-2.0,27.0,33.0,188.0,23.0,4.0,46.0,5056.0
-3553.0,te vas // donÃÂÃÂÃÂÃÂt go,boy pablo,bedroom pop,2020.0,121.0,59.0,80.0,-7.0,19.0,55.0,228.0,16.0,4.0,46.0,5056.0
+3553.0,te vas // donÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt go,boy pablo,bedroom pop,2020.0,121.0,59.0,80.0,-7.0,19.0,55.0,228.0,16.0,4.0,46.0,5056.0
 3554.0,We Were We Still Are,Future Utopia,alternative r&b,2023.0,74.0,14.0,33.0,-12.0,10.0,9.0,249.0,88.0,4.0,46.0,5072.0
 3556.0,a song from yesterday,Forrest Nolan,modern indie pop,2022.0,152.0,42.0,37.0,-9.0,13.0,33.0,216.0,33.0,4.0,46.0,4845.0
 3558.0,Gato,Maya Delilah,chill r&b,2020.0,109.0,36.0,92.0,-10.0,9.0,88.0,195.0,39.0,4.0,46.0,5250.0
@@ -4414,7 +4414,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3580.0,Feelin' Blue,Creedence Clearwater Revival,album rock,1969.0,106.0,65.0,87.0,-6.0,14.0,44.0,167.0,60.0,29.0,45.0,5431.0
 3581.0,Devil In Her Heart - Remastered 2009,The Beatles,beatlesque,1963.0,127.0,73.0,79.0,-5.0,16.0,94.0,234.0,0.0,3.0,45.0,5413.0
 3582.0,Where The Boys Are,Connie Francis,adult standards,2005.0,147.0,59.0,53.0,-6.0,34.0,35.0,198.0,0.0,4.0,45.0,5428.0
-3583.0,QuÃÂÃÂÃÂÃÂ© LÃÂÃÂÃÂÃÂ­o,HÃÂÃÂÃÂÃÂ©ctor Lavoe,salsa,2009.0,120.0,41.0,40.0,-16.0,11.0,37.0,196.0,86.0,4.0,45.0,4415.0
+3583.0,QuÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­o,HÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©ctor Lavoe,salsa,2009.0,120.0,41.0,40.0,-16.0,11.0,37.0,196.0,86.0,4.0,45.0,4415.0
 3584.0,Roland the Headless Thompson Gunner,Warren Zevon,art rock,1978.0,114.0,58.0,91.0,-5.0,6.0,51.0,196.0,1.0,6.0,45.0,5423.0
 3585.0,TEENAGE RIOT,Kenshi Yonezu,anime,2020.0,97.0,93.0,50.0,-5.0,41.0,61.0,222.0,0.0,4.0,45.0,4417.0
 3586.0,The Great Curve - 2005 Remaster,Talking Heads,art punk,1980.0,128.0,81.0,56.0,-5.0,20.0,47.0,232.0,3.0,4.0,45.0,5232.0
@@ -4425,7 +4425,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3592.0,It's Over,Electric Light Orchestra,album rock,1977.0,159.0,86.0,28.0,-3.0,8.0,42.0,126.0,0.0,11.0,45.0,5431.0
 3593.0,Chains - Remastered 2009,The Beatles,beatlesque,1963.0,96.0,50.0,66.0,-7.0,16.0,52.0,214.0,10.0,3.0,45.0,5413.0
 3594.0,Rockaria!,Electric Light Orchestra,album rock,1976.0,184.0,95.0,29.0,-4.0,10.0,62.0,161.0,0.0,5.0,45.0,5431.0
-3595.0,today is a gift,BeowÃÂÃÂÃÂÃÂ¼lf,lo-fi chill,2018.0,100.0,72.0,59.0,-6.0,27.0,82.0,203.0,2.0,3.0,45.0,4426.0
+3595.0,today is a gift,BeowÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼lf,lo-fi chill,2018.0,100.0,72.0,59.0,-6.0,27.0,82.0,203.0,2.0,3.0,45.0,4426.0
 3596.0,Drift,Benji Lewis,electropop,2017.0,105.0,73.0,59.0,-7.0,59.0,70.0,188.0,11.0,5.0,45.0,5391.0
 3597.0,Sunburn,DROELOE,bass trap,2017.0,102.0,29.0,80.0,-15.0,11.0,58.0,213.0,70.0,4.0,45.0,4428.0
 3598.0,$150 / roll widdit,Healy,memphis hip hop,2015.0,170.0,53.0,65.0,-6.0,9.0,64.0,147.0,47.0,11.0,45.0,4890.0
@@ -4541,7 +4541,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3721.0,Bennie And The Jets,Elton John,glam rock,1990.0,116.0,89.0,50.0,-6.0,26.0,30.0,281.0,6.0,7.0,44.0,4539.0
 3722.0,"So Long, Frank Lloyd Wright",Simon & Garfunkel,classic rock,1970.0,61.0,2.0,43.0,-22.0,10.0,18.0,269.0,92.0,4.0,44.0,5374.0
 3723.0,Girls Talk,Dave Edmunds,british blues,1979.0,138.0,42.0,42.0,-9.0,11.0,11.0,259.0,17.0,3.0,44.0,4541.0
-3724.0,CÃÂÃÂÃÂÃÂmon You Know,Liam Gallagher,britpop,2022.0,127.0,34.0,50.0,-14.0,25.0,20.0,182.0,43.0,3.0,44.0,5385.0
+3724.0,CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂmon You Know,Liam Gallagher,britpop,2022.0,127.0,34.0,50.0,-14.0,25.0,20.0,182.0,43.0,3.0,44.0,5385.0
 3725.0,Mr Moonlight - Remastered 2009,The Beatles,beatlesque,1964.0,91.0,48.0,88.0,-5.0,9.0,72.0,234.0,6.0,5.0,44.0,5413.0
 3726.0,Pull up the Roots - 2005 Remaster,Talking Heads,art punk,1983.0,138.0,17.0,60.0,-18.0,10.0,57.0,75.0,98.0,4.0,44.0,5232.0
 3727.0,Prisoner Of Love,The Platters,adult standards,1959.0,148.0,98.0,42.0,-4.0,16.0,95.0,193.0,0.0,4.0,44.0,5428.0
@@ -4556,7 +4556,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3736.0,Wake up Loving You,Old Dominion,contemporary country,2014.0,117.0,88.0,66.0,-5.0,10.0,92.0,234.0,0.0,3.0,43.0,5343.0
 3737.0,Nervous - The Ooh Song: Mark McCabe Remix,Gavin James,irish pop,2016.0,82.0,67.0,51.0,-8.0,7.0,40.0,163.0,3.0,3.0,43.0,5303.0
 3738.0,Plans,Elephante,edm,2016.0,107.0,75.0,68.0,-6.0,17.0,28.0,213.0,6.0,3.0,43.0,5298.0
-3739.0,Aloha,MÃÂÃÂÃÂÃÂ¸me,new french touch,2016.0,166.0,85.0,54.0,-4.0,7.0,78.0,183.0,21.0,4.0,43.0,5070.0
+3739.0,Aloha,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸me,new french touch,2016.0,166.0,85.0,54.0,-4.0,7.0,78.0,183.0,21.0,4.0,43.0,5070.0
 3740.0,Say My Name,Lil Yachty,atl hip hop,2017.0,127.0,93.0,61.0,-3.0,7.0,81.0,185.0,1.0,3.0,43.0,5106.0
 3741.0,Down in Flames,Ella Vos,alt z,2017.0,148.0,77.0,56.0,-4.0,9.0,77.0,194.0,9.0,4.0,43.0,5117.0
 3742.0,Phone Calls,Jessie Reyez,canadian contemporary r&b,2017.0,174.0,76.0,32.0,-6.0,46.0,46.0,192.0,2.0,13.0,43.0,4560.0
@@ -4674,7 +4674,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3860.0,I Wanna Prove to You,The Lemon Twigs,baroque pop,2016.0,129.0,5.0,46.0,-19.0,13.0,23.0,297.0,99.0,4.0,42.0,5421.0
 3861.0,Sweet memories,JANNABI,k-indie,2020.0,130.0,62.0,64.0,-10.0,4.0,87.0,146.0,81.0,3.0,42.0,5426.0
 3862.0,"The Planets, Op. 32: 3. Mercury, the Winged Messenger",Gustav Holst,british modern classical,1981.0,136.0,93.0,37.0,-7.0,10.0,92.0,177.0,12.0,6.0,42.0,4674.0
-3863.0,IÃÂÃÂÃÂÃÂm Not Perfect (But IÃÂÃÂÃÂÃÂm Trying) - Acoustic,Rachel Chinouriri,uk pop,2022.0,111.0,70.0,53.0,-4.0,16.0,67.0,234.0,75.0,4.0,42.0,4675.0
+3863.0,IÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂm Not Perfect (But IÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂm Trying) - Acoustic,Rachel Chinouriri,uk pop,2022.0,111.0,70.0,53.0,-4.0,16.0,67.0,234.0,75.0,4.0,42.0,4675.0
 3864.0,Early in the Morning,Harry Nilsson,art rock,1971.0,158.0,84.0,41.0,-4.0,16.0,63.0,295.0,0.0,3.0,42.0,5423.0
 3865.0,Right Now,Angel Olsen,alternative americana,2022.0,94.0,66.0,32.0,-8.0,12.0,21.0,288.0,0.0,3.0,42.0,4776.0
 3866.0,Dream Thing,Angel Olsen,alternative americana,2022.0,138.0,11.0,41.0,-20.0,12.0,17.0,138.0,96.0,4.0,42.0,4776.0
@@ -4699,7 +4699,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3894.0,Out of Here,RudeLies,gaming edm,2020.0,124.0,62.0,72.0,-5.0,11.0,35.0,177.0,1.0,4.0,41.0,5068.0
 3895.0,Space,Blaine,sad rap,2023.0,90.0,65.0,80.0,-13.0,29.0,76.0,132.0,35.0,15.0,41.0,4698.0
 3899.0,I Get Wild / Wild Gravity - 2005 Remaster,Talking Heads,art punk,1983.0,98.0,84.0,49.0,-6.0,41.0,56.0,198.0,6.0,4.0,41.0,5232.0
-3900.0,IÃÂÃÂÃÂÃÂll Come Running (To Tie Your Shoe),Brian Eno,ambient,1986.0,153.0,79.0,48.0,-8.0,33.0,45.0,236.0,0.0,4.0,41.0,5316.0
+3900.0,IÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂll Come Running (To Tie Your Shoe),Brian Eno,ambient,1986.0,153.0,79.0,48.0,-8.0,33.0,45.0,236.0,0.0,4.0,41.0,5316.0
 3901.0,Casual Conversations - 2010 Remastered,Supertramp,album rock,1979.0,86.0,74.0,50.0,-6.0,16.0,46.0,211.0,4.0,4.0,41.0,5431.0
 3902.0,"It's Been A Long, Long Time",Peggy Lee,adult standards,1959.0,103.0,80.0,53.0,-7.0,33.0,60.0,249.0,0.0,3.0,41.0,5428.0
 3903.0,Wild West Hero,Electric Light Orchestra,album rock,1977.0,169.0,79.0,49.0,-4.0,65.0,74.0,243.0,25.0,32.0,41.0,5431.0
@@ -4788,7 +4788,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 3993.0,Riot,Jon Waltz,memphis hip hop,2016.0,202.0,64.0,43.0,-11.0,36.0,54.0,142.0,79.0,39.0,39.0,4890.0
 3994.0,Every Time You Lie,Demi Lovato,dance pop,2009.0,67.0,19.0,45.0,-11.0,10.0,23.0,196.0,93.0,5.0,39.0,5346.0
 3995.0,Aftertaste (feat. Opia),Whethan,edm,2017.0,78.0,26.0,71.0,-12.0,15.0,27.0,238.0,57.0,3.0,39.0,5298.0
-3996.0,DAPPERDAN (feat. G Herbo),AminÃÂÃÂÃÂÃÂ©,hip hop,2018.0,88.0,87.0,65.0,-4.0,9.0,67.0,299.0,0.0,29.0,39.0,5024.0
+3996.0,DAPPERDAN (feat. G Herbo),AminÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,hip hop,2018.0,88.0,87.0,65.0,-4.0,9.0,67.0,299.0,0.0,29.0,39.0,5024.0
 3997.0,Speaking Of,Souly Had,chill r&b,2018.0,116.0,93.0,60.0,-4.0,25.0,62.0,183.0,1.0,7.0,39.0,5250.0
 3998.0,Blue Moon,khai dreams,indie pop,2017.0,128.0,51.0,62.0,-9.0,21.0,26.0,138.0,63.0,4.0,39.0,5304.0
 3999.0,Crush,Souly Had,chill r&b,2017.0,118.0,87.0,60.0,-5.0,11.0,60.0,237.0,1.0,4.0,39.0,5250.0
@@ -4835,7 +4835,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4054.0,Picture Perfect (feat. will.i.am),Chris Brown,dance pop,2007.0,100.0,80.0,66.0,-8.0,26.0,83.0,233.0,52.0,7.0,39.0,5346.0
 4056.0,Boots & Boys,Kesha,dance pop,2010.0,145.0,52.0,64.0,-9.0,27.0,52.0,268.0,34.0,3.0,39.0,5346.0
 4057.0,Frio,mike.,indie pop rap,2017.0,165.0,96.0,46.0,-4.0,21.0,56.0,266.0,67.0,10.0,39.0,5104.0
-4058.0,STFU2,AminÃÂÃÂÃÂÃÂ©,hip hop,2018.0,113.0,75.0,69.0,-12.0,23.0,88.0,241.0,22.0,4.0,39.0,5024.0
+4058.0,STFU2,AminÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,hip hop,2018.0,113.0,75.0,69.0,-12.0,23.0,88.0,241.0,22.0,4.0,39.0,5024.0
 4059.0,Wild In Your Smile,Dustin Lynch,contemporary country,2012.0,91.0,26.0,24.0,-12.0,10.0,18.0,218.0,60.0,3.0,39.0,5343.0
 4060.0,Meanwhile Back At Mama's,Tim McGraw,contemporary country,2014.0,127.0,70.0,56.0,-9.0,8.0,90.0,243.0,3.0,4.0,39.0,5343.0
 4061.0,Raise 'Em Up,Keith Urban,australian country,2013.0,107.0,22.0,66.0,-17.0,16.0,63.0,107.0,88.0,4.0,39.0,5055.0
@@ -4896,7 +4896,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4127.0,Faking Bright,Saski,electropop,2016.0,144.0,79.0,73.0,-8.0,29.0,94.0,283.0,50.0,8.0,38.0,5391.0
 4128.0,Like A Star,Lil Yachty,atl hip hop,2017.0,110.0,40.0,45.0,-12.0,11.0,19.0,248.0,83.0,4.0,37.0,5106.0
 4129.0,Priorities,Lil Yachty,atl hip hop,2017.0,92.0,90.0,58.0,-3.0,29.0,93.0,213.0,3.0,4.0,37.0,5106.0
-4130.0,The Kids (feat. Janelle MonÃÂÃÂÃÂÃÂ¡e),B.o.B,atl hip hop,2010.0,170.0,69.0,67.0,-5.0,22.0,21.0,204.0,6.0,5.0,37.0,5106.0
+4130.0,The Kids (feat. Janelle MonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡e),B.o.B,atl hip hop,2010.0,170.0,69.0,67.0,-5.0,22.0,21.0,204.0,6.0,5.0,37.0,5106.0
 4132.0,Come Through and Chill (feat. J. Cole & Salaam Remi),Miguel,dance pop,2017.0,138.0,30.0,56.0,-11.0,10.0,6.0,261.0,87.0,4.0,37.0,5346.0
 4133.0,Top Shelf,Caye,boston hip hop,2017.0,182.0,42.0,46.0,-10.0,14.0,14.0,235.0,8.0,4.0,37.0,4899.0
 4134.0,Summer Jam (feat. Florida Georgia Line) (feat. Florida Georgia Line),Jake Owen,contemporary country,2012.0,82.0,67.0,69.0,-8.0,9.0,65.0,214.0,40.0,15.0,37.0,5343.0
@@ -4926,7 +4926,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4165.0,Easy Money,King Crimson,album rock,1973.0,87.0,23.0,36.0,-10.0,9.0,19.0,283.0,86.0,3.0,37.0,5431.0
 4166.0,Kite,Kate Bush,art pop,1978.0,101.0,44.0,36.0,-7.0,21.0,49.0,159.0,69.0,3.0,37.0,5004.0
 4167.0,Birmingham Blues,Electric Light Orchestra,album rock,1977.0,124.0,56.0,65.0,-6.0,8.0,88.0,177.0,6.0,3.0,37.0,5431.0
-4168.0,Je reviendrai ÃÂÃÂÃÂÃÂ  montrÃÂÃÂÃÂÃÂ©al,Robert Charlebois,auteur-compositeur-interprete quebecois,2013.0,134.0,28.0,53.0,-14.0,7.0,6.0,272.0,47.0,4.0,37.0,4927.0
+4168.0,Je reviendrai ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  montrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©al,Robert Charlebois,auteur-compositeur-interprete quebecois,2013.0,134.0,28.0,53.0,-14.0,7.0,6.0,272.0,47.0,4.0,37.0,4927.0
 4169.0,Sad Song - Remastered,Oasis,beatlesque,1994.0,121.0,55.0,69.0,-11.0,14.0,88.0,187.0,71.0,4.0,37.0,5413.0
 4170.0,Feel It,Kate Bush,art pop,1978.0,115.0,41.0,63.0,-7.0,10.0,25.0,304.0,51.0,4.0,37.0,5004.0
 4171.0,Spiral Architect,Black Sabbath,album rock,1973.0,130.0,26.0,59.0,-13.0,13.0,12.0,257.0,85.0,5.0,37.0,5431.0
@@ -4937,7 +4937,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4176.0,Victoria - 2019 Remaster,The Kinks,album rock,2019.0,96.0,89.0,36.0,-6.0,27.0,60.0,338.0,0.0,3.0,37.0,5431.0
 4177.0,Indiscipline,King Crimson,album rock,1981.0,81.0,27.0,37.0,-13.0,10.0,32.0,194.0,83.0,3.0,37.0,5431.0
 4178.0,Were You Saying Something?,Drugdealer,experimental pop,2016.0,100.0,43.0,54.0,-8.0,12.0,19.0,385.0,68.0,3.0,37.0,5058.0
-4179.0,midnight sun,NilÃÂÃÂÃÂÃÂ¼fer Yanya,art pop,2022.0,138.0,14.0,47.0,-21.0,11.0,42.0,205.0,66.0,7.0,37.0,5004.0
+4179.0,midnight sun,NilÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼fer Yanya,art pop,2022.0,138.0,14.0,47.0,-21.0,11.0,42.0,205.0,66.0,7.0,37.0,5004.0
 4180.0,Bonehead's Bank Holiday - Remastered,Oasis,beatlesque,1995.0,76.0,30.0,25.0,-13.0,11.0,15.0,175.0,0.0,3.0,37.0,5413.0
 4181.0,Dream,Ringo Starr,album rock,1970.0,123.0,50.0,89.0,-8.0,9.0,84.0,520.0,9.0,5.0,37.0,5431.0
 4182.0,I'm Sorry I Made You Cry,Connie Francis,adult standards,2005.0,123.0,75.0,53.0,-9.0,64.0,14.0,357.0,4.0,4.0,37.0,5428.0
@@ -4959,7 +4959,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4198.0,Sex n' Drugs,Abhi The Nomad,desi hip hop,2018.0,129.0,47.0,61.0,-6.0,10.0,52.0,214.0,45.0,54.0,36.0,5242.0
 4199.0,Drunk Last Night,Eli Young Band,contemporary country,2013.0,172.0,65.0,51.0,-6.0,36.0,55.0,229.0,47.0,6.0,36.0,5343.0
 4200.0,List of Demands (Reparations),The Kills,alternative dance,2018.0,113.0,64.0,54.0,-6.0,8.0,61.0,160.0,29.0,19.0,36.0,5416.0
-4201.0,9 (After Coachella) (feat. MÃÂÃÂÃÂÃÂ & SOPHIE),Cashmere Cat,dance pop,2017.0,106.0,53.0,68.0,-7.0,14.0,88.0,172.0,18.0,19.0,36.0,5346.0
+4201.0,9 (After Coachella) (feat. MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ & SOPHIE),Cashmere Cat,dance pop,2017.0,106.0,53.0,68.0,-7.0,14.0,88.0,172.0,18.0,19.0,36.0,5346.0
 4202.0,Zimt,LissA,indie electropop,2016.0,116.0,50.0,76.0,-7.0,11.0,63.0,202.0,48.0,10.0,36.0,5006.0
 4204.0,Truck Yeah,Tim McGraw,contemporary country,2013.0,110.0,39.0,81.0,-12.0,12.0,30.0,165.0,35.0,25.0,36.0,5343.0
 4205.0,Here's To The Good Times,Florida Georgia Line,contemporary country,2012.0,116.0,95.0,68.0,-4.0,20.0,90.0,178.0,4.0,3.0,36.0,5343.0
@@ -4994,7 +4994,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4244.0,Pink Glove,Pulp,alternative rock,1994.0,136.0,71.0,55.0,-10.0,14.0,98.0,140.0,75.0,3.0,36.0,5432.0
 4245.0,Sun King,The Bright Light Social Hour,austin rock,2019.0,103.0,27.0,34.0,-8.0,7.0,6.0,284.0,98.0,3.0,36.0,4993.0
 4246.0,Looking for Today,Black Sabbath,album rock,1973.0,75.0,13.0,36.0,-15.0,10.0,26.0,396.0,50.0,3.0,36.0,5431.0
-4247.0,I DonÃÂÃÂÃÂÃÂt Wanna Wait,Kelly Finnigan,neo soul,2019.0,117.0,71.0,65.0,-10.0,8.0,62.0,189.0,10.0,3.0,36.0,4995.0
+4247.0,I DonÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt Wanna Wait,Kelly Finnigan,neo soul,2019.0,117.0,71.0,65.0,-10.0,8.0,62.0,189.0,10.0,3.0,36.0,4995.0
 4248.0,Street Hassle,Lou Reed,art rock,1978.0,141.0,92.0,47.0,-7.0,47.0,81.0,176.0,6.0,8.0,36.0,5423.0
 4249.0,Story of Isaac,Leonard Cohen,canadian singer-songwriter,1969.0,108.0,34.0,55.0,-10.0,96.0,47.0,267.0,77.0,3.0,36.0,5284.0
 4250.0,Day In Day Out - 2001 Digital Remaster,XTC,alternative rock,1979.0,133.0,48.0,53.0,-14.0,8.0,56.0,217.0,13.0,4.0,36.0,5432.0
@@ -5040,7 +5040,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4302.0,The Land of Fantasy,JANNABI,k-indie,2021.0,105.0,98.0,71.0,-9.0,27.0,66.0,533.0,6.0,4.0,35.0,5426.0
 4303.0,Autumn Almanac,The Kinks,album rock,1967.0,137.0,83.0,53.0,-8.0,7.0,85.0,181.0,0.0,4.0,35.0,5431.0
 4304.0,I'm Beginning To See The Light,Peggy Lee,adult standards,1959.0,94.0,40.0,56.0,-12.0,9.0,38.0,172.0,78.0,4.0,35.0,5428.0
-4305.0,Tous les garÃÂÃÂÃÂÃÂ§ons et les filles,FranÃÂÃÂÃÂÃÂ§oise Hardy,chanson,2013.0,118.0,32.0,45.0,-9.0,16.0,8.0,276.0,76.0,4.0,35.0,5041.0
+4305.0,Tous les garÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ons et les filles,FranÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§oise Hardy,chanson,2013.0,118.0,32.0,45.0,-9.0,16.0,8.0,276.0,76.0,4.0,35.0,5041.0
 4306.0,Wheels of Confusion / The Straightener - 2021 Remaster,Black Sabbath,album rock,1972.0,68.0,68.0,53.0,-6.0,64.0,64.0,193.0,16.0,3.0,35.0,5431.0
 4307.0,It's A Wonderful World,Peggy Lee,adult standards,1959.0,101.0,66.0,73.0,-5.0,6.0,93.0,259.0,6.0,3.0,35.0,5428.0
 4308.0,Style It Takes,Lou Reed,art rock,1990.0,100.0,84.0,31.0,-5.0,39.0,4.0,377.0,0.0,5.0,35.0,5423.0
@@ -5073,7 +5073,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4349.0,Wino Junko - 2014 Remaster,Wings,album rock,1976.0,156.0,31.0,60.0,-11.0,9.0,37.0,227.0,33.0,7.0,34.0,5431.0
 4350.0,...And Loyalty Is A Nuisance Child,Yves Tumor,alternative r&b,2021.0,140.0,72.0,56.0,-7.0,13.0,47.0,166.0,20.0,6.0,34.0,5072.0
 4351.0,Little Bitty Pretty One,Frankie Lymon,doo-wop,1989.0,137.0,48.0,47.0,-10.0,8.0,28.0,207.0,15.0,4.0,34.0,5073.0
-4352.0,Si tu n'ÃÂÃÂÃÂÃÂ©tais pas lÃÂÃÂÃÂÃÂ ,FrÃÂÃÂÃÂÃÂ©hel,vintage chanson,2018.0,112.0,62.0,80.0,-7.0,10.0,64.0,200.0,26.0,9.0,34.0,5074.0
+4352.0,Si tu n'ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©tais pas lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ,FrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©hel,vintage chanson,2018.0,112.0,62.0,80.0,-7.0,10.0,64.0,200.0,26.0,9.0,34.0,5074.0
 4353.0,Get Me Outta Here,Jet,alternative rock,2003.0,127.0,47.0,73.0,-7.0,23.0,51.0,231.0,24.0,6.0,34.0,5432.0
 4354.0,Little Girl Go Home,Lesley Gore,adult standards,1964.0,108.0,35.0,66.0,-11.0,21.0,59.0,178.0,92.0,3.0,34.0,5428.0
 4355.0,Count Me In,Gary Lewis & The Playboys,adult standards,1965.0,138.0,71.0,74.0,-7.0,14.0,56.0,212.0,13.0,5.0,34.0,5428.0
@@ -5110,7 +5110,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4386.0,Late in Love,Souly Had,chill r&b,2017.0,144.0,86.0,66.0,-7.0,26.0,40.0,282.0,2.0,3.0,34.0,5250.0
 4387.0,It Goes Like This,Thomas Rhett,contemporary country,2013.0,167.0,81.0,35.0,-4.0,34.0,52.0,243.0,29.0,11.0,34.0,5343.0
 4388.0,The Sand I Brought To The Beach,Luke Bryan,contemporary country,2015.0,109.0,19.0,58.0,-17.0,12.0,28.0,163.0,71.0,3.0,34.0,5343.0
-4389.0,DÃÂÃÂÃÂÃÂ©jÃÂÃÂÃÂÃÂ  vu,Souly Had,chill r&b,2017.0,132.0,49.0,39.0,-7.0,33.0,49.0,148.0,88.0,3.0,34.0,5250.0
+4389.0,DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©jÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  vu,Souly Had,chill r&b,2017.0,132.0,49.0,39.0,-7.0,33.0,49.0,148.0,88.0,3.0,34.0,5250.0
 4393.0,Lost in Nostalgia,The Maine,modern rock,2017.0,135.0,53.0,39.0,-14.0,50.0,38.0,481.0,2.0,6.0,34.0,5112.0
 4395.0,Jawbreaker,Chevelle,alternative metal,2014.0,114.0,61.0,74.0,-10.0,11.0,59.0,357.0,3.0,5.0,34.0,5306.0
 4396.0,Strange Again,The Vices,dutch indie,2022.0,152.0,52.0,41.0,-8.0,9.0,18.0,286.0,4.0,3.0,34.0,5114.0
@@ -5261,7 +5261,7 @@ sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,cod
 4577.0,My Big Mouth - Remastered,Oasis,beatlesque,1997.0,160.0,21.0,10.0,-18.0,11.0,4.0,329.0,2.0,4.0,31.0,5413.0
 4578.0,Reason To Believe - Remastered 2001,Glen Campbell,adult standards,1968.0,113.0,43.0,45.0,-13.0,10.0,23.0,219.0,89.0,5.0,31.0,5428.0
 4579.0,My Happiness,Connie Francis,adult standards,2005.0,81.0,35.0,44.0,-12.0,35.0,39.0,166.0,42.0,3.0,31.0,5428.0
-4580.0,Quel temps fait-il ÃÂÃÂÃÂÃÂ  Paris ?,Gus Viseur,accordeon,2015.0,144.0,75.0,46.0,-7.0,33.0,69.0,166.0,67.0,3.0,31.0,5262.0
+4580.0,Quel temps fait-il ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Paris ?,Gus Viseur,accordeon,2015.0,144.0,75.0,46.0,-7.0,33.0,69.0,166.0,67.0,3.0,31.0,5262.0
 4581.0,When the Shit Hits the Fan / Sunset Blvd. - 2015 Remaster,Todd Rundgren,album rock,1972.0,82.0,19.0,32.0,-16.0,11.0,25.0,170.0,53.0,3.0,31.0,5431.0
 4582.0,Make Yourself Comfortable,Sarah Vaughan,adult standards,1958.0,79.0,88.0,23.0,-2.0,37.0,28.0,282.0,0.0,6.0,31.0,5428.0
 4583.0,Come Around Again,Jet,alternative rock,2003.0,125.0,33.0,44.0,-12.0,9.0,12.0,290.0,57.0,3.0,31.0,5432.0
